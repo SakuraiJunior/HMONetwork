@@ -2,4 +2,34 @@
 #Canales de TV Nacional y Extranjero (solo para persona de habla hispana)
 #Playlist:
 
-#EXTNF1
+#*****************************
+#EXTM3U
+#EXTINF:-1 Cartoon Network
+#EXTINF:-1 Azteca 7
+#EXTINF:-1 Panico
+#EXTINF:-1 Locomotion TV
+#EXTINF:-1 Tooncast/Nick Music
+#EXTINF:-1 Las Estrellas
+#EXTINF:-1 MTV Animaciones
+#EXTINF:-1 Multimedios
+#EXTINF:-1 TV Pacifico
+#EXTINF:-1 PlutoTV Anime
+#EXTINF:-1 Videorola
+#EXTINF:-1 Larsavision TV
+#EXTINF:-1 Canal 28
+#EXTINF:-1 Telemar
+#EXTINF:-1 Mexiquense TV
+#EXTINF:-1 ForoTV
+#EXTINF:-1 LatinosUP!
+#EXTINF:-1 EWTN
+#EXTINF:-1 TUDN
+#EXTINF:-1 Telemax Sonora
+#EXTINF:-1 Cine Latino
+#EXTINF:-1 Somos Banda,la 98.1fm
+#EXTINF:-1 Telemundo Novelas
+#EXTINF:-1 Comedy Central
+#EXTINF:-1 Nickelodeon
+#EXTINF:-1 ADN40
+#EXTINF:-1 Canal Once
+#EXTINF:-1 Claro Sport
+#EXTINF:-1 PequeradioTV
