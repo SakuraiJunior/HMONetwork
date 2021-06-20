@@ -113,3 +113,45 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="México", Multimedios | HD | Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8kIvLr.png" group-title="México", Canal Once | HD
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="México", Mexiquense | HD
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3pHu8c.jpg" group-title="México", Canal 14 | HD
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCN0uTV.png" group-title="México", 15TV Sabinas | SD
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="México", Turistik TV | HD
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="México",Foro TV | HD
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4LP6Wk.png" group-title="México", ADN 40 | HD 
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOfpWOV.jpg" group-title="Panamá", Oye | SD | Ciudad de Panamá
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú", Panamericana | SD 
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJeqAzj.png" group-title="Rep. Dominicana", Fuego TV | SD | Santiago
+https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1482703670.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="Rep. Dominicana", Onda TV 10 | HD | Santo Domingo
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MO7l6on.png" group-title="Venezuela", Telesur| HD
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEWQwu7.png" group-title="Musicales", Top Latino | SD | Perú
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w252243304.m3u8
+
