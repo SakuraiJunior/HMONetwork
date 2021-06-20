@@ -175,3 +175,30 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="Musicales",MTV | HD | Dinamarca
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WL0IzEM.jpg" group-title="Musicales", 24/7 Online K-POP IDOL Channel [ALL THE K-POP] (Kodi)| HD | Corea del Sur
+plugin://plugin.video.youtube/play/?video_id=8zUdwHwuwhQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Moda", Fashion TV | FHD | Francia
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami Tv México| HD | México
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami TV Latino| HD | Colombia
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Eventos", Eurocopa
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713743
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Eventos", Eurocopa 2
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713842
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Eventos", Eurocopa 3
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713844
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Eventos", Copa América 1
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319714678
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Eventos", Copa América 2
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319725238
