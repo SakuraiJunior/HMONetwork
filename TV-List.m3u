@@ -9,16 +9,16 @@
 #
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Chile", CNN Chile | HD | Santiago 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Noticias", CNN Chile | HD | Santiago 
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Chile", Retro Plus | HD | Chile - Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Musicales", Retro Plus | HD | Chile - Perú
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Chile", Retro Plus 2| HD | Chile - Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Musicales", Retro Plus 2| HD | Chile - Perú
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SkDOQ0k.png" group-title="Chile", Canal Latino| SD | La Unión
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SkDOQ0k.png" group-title="Entretenimiento", Canal Latino| SD | Perú
 http://190.3.169.119:8080/latina/latina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png" group-title="Cine y Series", Life TV | HD | España
@@ -114,7 +114,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h8kIvLr.png" group-title="Nacional", Canal Once | HD
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="Nacional", Mexiquense | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="Nacional", Mexiquense TV| HD
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3pHu8c.jpg" group-title="Nacional", Canal 14 | HD
