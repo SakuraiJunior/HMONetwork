@@ -141,9 +141,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico Obregón
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X4x2OkO.png" group-title="México", Cep Cadena 4
-https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="México", Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
