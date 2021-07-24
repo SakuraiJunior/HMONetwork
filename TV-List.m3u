@@ -45,7 +45,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff0009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OI2xSkH.png" group-title="Entretenimiento, Comedy Central | SD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=90b514a6-f698-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MTV Animaciones| SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2a4Z8jETmf8jmbBfvaGQ8mIthpZpxaJb0w&usqp=CAU" group-title="Entretenimiento", MTV Animaciones| SD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Familiares", Nick| SD
@@ -98,9 +98,6 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone | SD | República Dominicana 
 http://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bYiL538.png" group-title="Familiares", Aster Channel | HD | República Dominicana 
-http://96.30.193.226:81/hls/canalaster.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
@@ -183,15 +180,6 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w688163672.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="Noticias", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b095FzU.jpg" group-title="Familiares",LIM TV
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/CcB8SKm.png" group-title="Familiares",Aster
-http://96.30.193.226:81/hls/canalaster.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/published/imagen-final-2.png?1589394562" group-title="Familiares",Mi TV Television Clasica
-http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="Nacional", Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
@@ -219,9 +207,6 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="Entretenimiento", WOW TV | SD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="Entretenimiento", Litus | HD
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIpafvM.png" group-title="Musicales", California Music Channel | HD
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
@@ -236,9 +221,6 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chi
 
 #EXTINF:-1, tvg-logo="http://photocall.tv/images/telemax.png" group-title="Nacionales" Telemax  Sonora
 https://6011c5681d877.streamlock.net:1936/telemax/telemax/chunklist_w584054233.m3u8
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/svHCOhE.png",group-title="Familiares",Toonizaki
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 
 #EXTINF:-1, tvg-logo="https://kanadetv.club/sitepad-data/uploads//2021/07/Branded_Logo_Icon_Only.png" group-title="Familiares", Kanade TV
 http://96.30.193.226:81/hls/kanade.m3u8
