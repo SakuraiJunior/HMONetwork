@@ -108,7 +108,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Internacionales", TV Galicia América
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Familiares", TV Galicia Xabarín
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Infantil", TV Galicia Xabarín
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion
@@ -126,7 +126,8 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Familiares", El Chavo  TV 
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Familiares", 
+#EXTINF:-1 tvg-logo="https://scontent.fmty3-1.fna.fbcdn.net/v/t1.6435-9/s168x128/136411513_211386754045334_3429654778974000334_n.png?_nc_cat=109&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeFoN1oovf8qMLd2NjmYwyMHjdOt3W5XkNSN063dbleQ1P6RwKu9xsXUnty4KeoCaE8LwUpvIa9JCDzx1R1naQCe&_nc_ohc=qAHvG2jLyiYAX_SYypg&_nc_ht=scontent.fmty3-1.fna&oh=7d29ec3cdefd8193ac28ad7a1dd6109f&oe=61408434" group-title="Infantil", TeleanimacionHD
+https://live.admefy.com/live/default/socialist_azure_5d76a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMehmmO.png" group-title="Internacionales", Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
