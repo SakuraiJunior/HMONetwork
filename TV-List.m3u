@@ -211,13 +211,13 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/cartoon.png" group-title="Infantil", Cartoon Network Latinoamérica 
-http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/warner.jpg" group-title="Entretenimiento", WarnerTV México 
-http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/712px-Comedy_Central.svg.png" group-title="Entretenimiento", Comedy Central México 
-http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png",group-title="Cine y Series" SPACE
-http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-logo=,group-title="Cine y Series" SPACE
+
