@@ -60,7 +60,7 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Infantil", TV Galicia Xabarín
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfgxgQ6.jpeg" group-title="Infantil", Night@time 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfgxgQ6.jpeg" group-title="Familiares", Night@time 
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion
@@ -69,13 +69,13 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/kanadetv.net/wp-content/uploads/2021/09/cropped-cropped-Branded-Logo-Icon-Plus-Text-And-Outline-0-00-00-00.png" group-title="Familiares", KanadeTV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kanadetv.net/wp-content/uploads/2021/09/cropped-cropped-Branded-Logo-Icon-Plus-Text-And-Outline-0-00-00-00.png" group-title="Infantil", KanadeTV
 http://45.32.74.87:81/hls/kanadetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Familiares", El Chavo  TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Infantil", El Chavo  TV 
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMehmmO.png" group-title="Internacionales", Telepacífico
