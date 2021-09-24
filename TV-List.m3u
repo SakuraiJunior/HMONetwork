@@ -39,9 +39,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png" group-title="Iglesias", Mariavisión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Noticieros", Deutsche Welle Latino
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Noticieros", CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
