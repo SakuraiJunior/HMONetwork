@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:13/10/2021
+#ultima actualizacion:27/10/2021
 #
 #*****************************
 
@@ -57,17 +57,14 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Infantil", TV Galicia Xabarín
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfgxgQ6.jpeg" group-title="Familiares", Night@time 
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfgxgQ6.jpeg" group-title="Familiares", Teleanimacion 
+https://live.admefy.com/live/default/unable_pink_30165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone
 http://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/kanadetv.net/wp-content/uploads/2021/09/cropped-cropped-Branded-Logo-Icon-Plus-Text-And-Outline-0-00-00-00.png" group-title="Infantil", KanadeTV
-https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
