@@ -96,6 +96,15 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title="México", Justicia TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/X2Z9ZnN.png" group-title="México", Las Estrellas | SD | México
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399797348
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/g3dSuTe.png" group-title="Entretenimiento", Azteca Corazón | SD | México
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399141176
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kTEoEey.png" group-title="Cine y Series", Azteca Cinema | SD | México
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399151096
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL08hHh.png" group-title="Musicales", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
 
@@ -105,11 +114,20 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiSjDAa.png" group-title="Moda", HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHKbNjL.png" group-title="Musicales",VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cI80Wzz.png" group-title="Adultos", Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqh8Ljl.png" group-title="Adultos", Kaloopy
+https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Adultos", Fashion Bikini TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
