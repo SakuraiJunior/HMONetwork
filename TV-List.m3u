@@ -131,3 +131,21 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="Familiares",Dreiko TV
+https://stmv3.voxtvhd.com.br/reikotv/reikotv/chunklist_w2089220960.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Familiares",Toonizaki
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
+https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b095FzU.jpg" group-title="Familiares",LIM TV
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110679_El_Chavo_TV.png" group-title="Familiares",El Chavo TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
