@@ -21,9 +21,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Noticieros", El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Entretenimiento", Rakuten  TV Comedias
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="Cine y Series", Top Cine olympusat
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
@@ -42,9 +39,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Noticieros", CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/989hNim.png" group-title="Internacionales", Latinos Up!
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticieros", Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -57,26 +51,14 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Infantil", TV Galicia Xabarín
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfgxgQ6.jpeg" group-title="Familiares", Teleanimacion 
-https://live.admefy.com/live/default/unable_pink_30165.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Infantil", El Chavo  TV 
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMehmmO.png" group-title="Internacionales", Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="Entretenimiento", WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="México", Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -87,23 +69,11 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMqghA3.png" group-title="México", Telemar Campeche
 https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8kIvLr.png" group-title="México", Canal Once 
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="México", TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title="México", Justicia TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/X2Z9ZnN.png" group-title="México", Las Estrellas | SD | México
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399797348
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/g3dSuTe.png" group-title="Entretenimiento", Azteca Corazón | SD | México
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399141176
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kTEoEey.png" group-title="Cine y Series", Azteca Cinema | SD | México
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399151096
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL08hHh.png" group-title="Musicales", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
