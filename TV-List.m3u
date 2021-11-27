@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:16/11/2021
+#ultima actualizacion:26/11/2021
 #
 #*****************************
 
@@ -66,9 +66,6 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJnhGwX.png" group-title="México", Teleplay Mérida
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mMqghA3.png" group-title="México", Telemar Campeche
-https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="México", TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
@@ -99,23 +96,11 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Adultos", Fashion Bikini TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="Familiares",Dreiko TV
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/chunklist_w2089220960.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids
-https://live.admefy.com/live/default/clean_peach_ef224.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Familiares",Toonizaki
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b095FzU.jpg" group-title="Familiares",LIM TV
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110679_El_Chavo_TV.png" group-title="Familiares",El Chavo TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
