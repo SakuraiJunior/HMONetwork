@@ -104,3 +104,13 @@ https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110679_El_Chavo_TV.png" group-title="Familiares",El Chavo TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids
+https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Familiares",Toonizaki
+https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzEK6DI.png" group-title="Familiares",EnerGeek
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
+
