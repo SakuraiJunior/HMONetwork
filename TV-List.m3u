@@ -122,3 +122,21 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIwLcqhCBQg9iIPFaDM02tgMK9JHpmgd89hLjQmtbFVxad08HAE_m1f0&s=10" group-title="Noticieros" , France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJ4NnR8.png" group-title="Familiares", Simpsons TV
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjJ1dVF.png" group-title="Deportes", Futbol Network
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNNiD4X.png" group-title="Deportes", FOX Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Religiosos", EWTN en español
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png" group-title="Religiosos", Mariavisión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHmRPVa.png" group-title="Religiosos", CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
