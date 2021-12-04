@@ -114,11 +114,11 @@ https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzEK6DI.png" group-title="Familiares",EnerGeek
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
 
-#EXTINF:-1 tvg-logo= group-title="México", Telemax Hermosillo
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/a8yLHKmstULNo7Wk9" group-title="México", Telemax Hermosillo
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1,tvg-logo= group-title="Noticieros" , DW Latinoamérica 
+#EXTINF:-1,tvg-logo="https://images.app.goo.gl/YLfWyDr8Shh37tiTA" group-title="Noticieros" , DW Latinoamérica 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo= group-title="Noticieros" , France 24
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIwLcqhCBQg9iIPFaDM02tgMK9JHpmgd89hLjQmtbFVxad08HAE_m1f0&s=10" group-title="Noticieros" , France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
