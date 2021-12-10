@@ -1,1 +1,32 @@
 
+#EXTM3U
+
+
+#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+#
+#Canales de Television online a nivel completo y muy cargado
+#playlist:
+
+#*****************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTvGx2x.png" group-title="Musica", Radio TV Pop 
+https://v4.tustreaming.cl/poptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Internacionales", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="México", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/a8yLHKmstULNo7Wk9" group-title="México", Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Iglesias", EWTN en español
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHKbNjL.png" group-title="Musicales",VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Familiares",Toonizaki
+https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
+
