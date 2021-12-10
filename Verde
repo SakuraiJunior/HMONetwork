@@ -1,0 +1,58 @@
+
+#EXTM3U
+
+
+#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+#
+#Canales de Television online a nivel completo y muy cargado
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/SakuraiJunior-TVCombos/Verde
+
+#*****************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTvGx2x.png" group-title="Musica", Radio TV Pop 
+https://v4.tustreaming.cl/poptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Internacionales", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="México", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/a8yLHKmstULNo7Wk9" group-title="México", Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Iglesias", EWTN en español
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHKbNjL.png" group-title="Musicales",VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Familiares",Toonizaki
+https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJ4NnR8.png" group-title="Familiares", Simpsons TV
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjJ1dVF.png" group-title="Deportes", Futbol Network
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oL08hHh.png" group-title="Musicales", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Infantil",Magic Kids
+https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="México", TV Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmY7lxc.png" group-title="Familiares",Teleanimación
+https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Internacionales", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1,tvg-logo="https://images.app.goo.gl/YLfWyDr8Shh37tiTA" group-title="Noticieros" , DW Latinoamérica 
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion
+http://51.222.85.85:81/hls/loco/index.muy 
