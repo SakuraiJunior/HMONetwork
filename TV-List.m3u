@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:26/11/2021
+#ultima actualizacion:11/12/2021
 #
 #*****************************
 
@@ -149,4 +149,7 @@ https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/p200x200/45126485_10156294829642912_1743764925563535360_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=i8yqOugQkgIAX9ja25z&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_6tmoY0tloRW-Qwbvz-CUy4sqAmMzCQZCHICWhnAMLkw&oe=61DCF97B" group-title="Noticias" , ForoTV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/p200x200/106717041_1198160213904650_3272818517812863309_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=CB-IweMUjA0AX-bIHN7&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_eGP_jcjXWaPaVgaU3TrdKeSXig32bGpTcpoprSSeelg&oe=61D9ECCF" group-title="Noticias" , ADN40 
+https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/16e3daf4-07a9-428e-b494-5b17c641ba7b:TUL/master.m3u8
 
