@@ -143,3 +143,10 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmY7lxc.png" group-title="Familiares",Teleanimación
 https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=qda7DyhRPHEAX_M9kAf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-z2PDkf41jku4XrgSINbUXkzLvLIEhPRshoQ19ZTEo8w&oe=61DCD6F8" group-title="Infantil" , Cartoon Network Latinoamérica
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/p200x200/45126485_10156294829642912_1743764925563535360_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=i8yqOugQkgIAX9ja25z&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_6tmoY0tloRW-Qwbvz-CUy4sqAmMzCQZCHICWhnAMLkw&oe=61DCF97B" group-title="Noticias" , ForoTV 
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
