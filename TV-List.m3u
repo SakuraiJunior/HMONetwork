@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:11/12/2021
+#ultima actualizacion:20/12/2021
 #
 #*****************************
 
@@ -152,3 +152,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fhmo2-2.fna.fbcdn.net/v/t31.18172-1/p200x200/27500232_10155461324243915_9076575913727680348_o.png?_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=1oq68j-zXQQAX9BkvWU&_nc_ht=scontent.fhmo2-2.fna&edm=AKsJ254EAAAA&oh=00_AT-YpX9YICcVeWhbF-6a7oPfdFNdbhURnzziZTsGb76KRw&oe=61E41525" group-title="Noticias" , El financiero Bloomberg 
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/F156r4SJ/HOLA-TV.png" group-title="Moda", HOLA TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
