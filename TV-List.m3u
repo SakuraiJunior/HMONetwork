@@ -176,3 +176,6 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="Musica",MTVLA
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Noticias", NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
