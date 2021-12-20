@@ -159,4 +159,5 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvySKs51/ESTRELLA-TV3.png" group-title="Noticieros", Estrella News
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", group-title="Musica" TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/.m3u8?PlaylistM3UCL
