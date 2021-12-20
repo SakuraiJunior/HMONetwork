@@ -161,3 +161,6 @@ https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png" group-title="Musica", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="Musica", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
