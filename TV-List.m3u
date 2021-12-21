@@ -51,12 +51,6 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Infantil", TV Galicia Xabarín
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone
-http://azxtv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMehmmO.png" group-title="Internacionales", Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
@@ -96,20 +90,11 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Adultos", Fashion Bikini TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="Familiares",Dreiko TV
-https://stmv3.voxtvhd.com.br/reikotv/reikotv/chunklist_w2089220960.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantil",Latino Kids TV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110679_El_Chavo_TV.png" group-title="Familiares",El Chavo TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Infantil",Magic Kids
-https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Familiares",Toonizaki
-https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzEK6DI.png" group-title="Familiares",EnerGeek
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
@@ -185,5 +170,3 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", group-title="Musica" TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/.m3u8?PlaylistM3UCL
-
-#EXTINF:-1
