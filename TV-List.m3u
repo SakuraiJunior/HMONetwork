@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:20/12/2021
+#ultima actualizacion:21/12/2021
 #
 #*****************************
 
@@ -150,13 +150,13 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="Musica", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Deportes", Fite Tv
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", Fite Tv
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="Adultos", Adult Swim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="USA", Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 
-#EXTINF:-1 tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" group-title="Noticias",CBS News Los Angeles
+#EXTINF:-1 tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" group-title="USA",CBS News Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Noticias", NHK World
