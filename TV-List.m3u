@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:23/12/2021
+#ultima actualizacion:25/12/2021
 #
 #*****************************
 
@@ -173,3 +173,12 @@ https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png" group-title="USA",ROH-TV
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+
+#EXTINF:-1  group-title="USA",NFL Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="CAN",CBC News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CAN",Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
