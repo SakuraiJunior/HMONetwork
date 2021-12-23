@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:22/12/2021
+#ultima actualizacion:23/12/2021
 #
 #*****************************
 
@@ -21,7 +21,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Noticieros", El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
-#EXTINF:-1 group-title="Cine y Series", Canal Space
+#EXTINF:-1 tvg-logo=" group-title="Cine y Series", Canal Space
 https://live.telelatinohd.com/hls/ms148e8mxraxmpll/39_.m3u8?token=xKqriBn6jysHrn9MmPC1sw&expires=1640303524&ip=189.173.74.206
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="Cine y Series", Top Cine olympusat
@@ -179,3 +179,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 
 #EXTINF:-1 tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="CAN",CBC News
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=" group-title="Cine y Series" , Star Channel 
+https://live.telelatinohd.com/hls/ms148e8mxraxmpll/42_.m3u8?token=VOiC_KnFmWDh-NmecFYPXA&expires=1640304002&ip=189.173.74.206
