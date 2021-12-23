@@ -21,6 +21,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Noticieros", El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
+#EXTINF:-1 group-title="Cine y Series", Canal Space
+https://live.telelatinohd.com/hls/ms148e8mxraxmpll/39_.m3u8?token=xKqriBn6jysHrn9MmPC1sw&expires=1640303524&ip=189.173.74.206
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="Cine y Series", Top Cine olympusat
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
