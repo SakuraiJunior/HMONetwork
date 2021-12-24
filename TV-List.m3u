@@ -30,9 +30,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_
 #EXTINF: Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8	
 
-#EXTINF: WOWtv 
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8	
-
 #EXTINF: Mariavisión 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8	
 
