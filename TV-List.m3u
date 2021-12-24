@@ -84,67 +84,59 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 #EXTINF: Jasmin Channel
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8	
 
-#EXTINF: 
+#EXTINF: Kaloopy
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8	
 
-30	 Online	iptvtools_30	https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8      	854x480
-(427:240)	h264	
+#EXTINF: Fashion Bikini TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8	
 
-32	 Online	iptvtools_32	https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8      	400x300
-(4:3)	h264	
+#EXTINF: El Chavo TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
-33	 Online	iptvtools_33	https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8      	1280x720
-(0:1)	h264	
+#EXTINF: Energeek
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8	
 
-35	 Online	iptvtools_35	http://s5.mexside.net:1935/telemax/telemax/.m3u8      	1280x720
-(0:1)	h264	
+#EXTINF: Telemax Hermosillo 
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-38	 Online	iptvtools_38	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIwLcqhCBQg9iIPFaDM02tgMK9JHpmgd89hLjQmtbFVxad08HAE_m1f0&s=10      	570x538
-(0:1)	png	
+#EXTINF: France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-39	 Online	iptvtools_39	http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8      	1024x576
-(16:9)	h264	
+#EXTINF: CSTV
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-40	 Online	iptvtools_40	https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8      	640x360
-(16:9)	h264	
+#EXTINF: Fútbol Network 	
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8	
 
-41	 Online	iptvtools_41	https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8      	1280x720
-(0:1)	h264	
+#EXTINF: Fox Sport News 
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8	
 
-42	 Online	iptvtools_42	https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8      	1280x720
-(16:9)	h264	
+#EXTINF: WowTV (SAL)
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8	
 
-43	 Online	iptvtools_43	https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8      	1280x720
-(16:9)	h264	
+#EXTINF: Mariavisión 	
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8	
 
-44	 Online	iptvtools_44	https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8      	640x360
-(0:1)	h264	
+#EXTINF: ForoTV 
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8	
 
-46	 Online	iptvtools_46	https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CuwEGFi4r5E0tOCqm8VnU5imwTHC-ENJGbJxieZtf_0LSr-xxouoeA8w5yabyTGQPZTc73AF6Xa2u5s4QxxNAeUGY2gcN4K3kLXaPduu5zCjOIeLq9zyfKYR0ywEQflN2iQ1gLSW_yqCO1gn_EmxnrvSncyyL9EDRHA9UcvWLhr0dHh--fbTb3uaiOfFsxv72B7fQCskdUxlKcg3U6jq9kp2RkfwzxomxoEjjgSUU4V9PWnT1uo1JfQBYzFwL6kVfku1XCLMnhvlwo63SY5Gvn3bakene_kYzn3pCRhtAJhKhAI9V1F8Ks1tyX76LndE2lbDbWGOpdsYRvevvinvsmUlxAZQGjibfOqQFkapJtRXQuCpe_zUbRHEpwHy_vopOHgJMfICEB1U9KP8Uj-lwAZE_FDK0Rtz_zz2jiF87dAzcHz7ywIolZZth0kW06PfZzwMntlPChLtgPT8pl6Ekw9ZLdCfsCHgiw-ZMIMzgmrcJI8UqcLSoAbK3Bh07Wm9FEcCWr2jbgIgEb_RlWlWsscS8gqOd9tHe8wboNh1V5zBWQgSjP2dedjLTnVOTvhJcZGjAydn_gEqs6BiXu86WMwKNFYpAjPUewLXCMSwaX1x_l46RqlvQkKpwC_aFWMEASxHRIBsRqxnshK55T2OKidJlUzjv_fXUIrM6trHnrover2AH4_Cp3fVJLanJ8kxDK3MZWj1pJ4UItZMcfvmLtUZckAuuDg6OOLVK62qejrhmHo-Ze5fusyLv10KSLU0ir-RHxfi0SI63Bc-JbVKgkBG9kQ_M42bku_SluhN6qz47eHD8dM2iZfU1fOKQmQaDM7_3PE-SqYHIxDkpyABKglldS13ZXN0LTIwzgI.m3u8      	640x360
-(16:9)	h264	
+#EXTINF: ConectaTV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL	
 
-47	 Online	iptvtools_47	https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8      	320x180
-(16:9)	h264	
+#EXTINF: ZappingTV
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
-48	 Online	iptvtools_48	https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8      	1280x720
-(16:9)	h264	
+#EXTINF: FiteTV
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8	
 
-51	 Online	iptvtools_51	http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL      	1280x720
-(16:9)	h264	
+#EXTINF: ASTV
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8	
 
-52	 Online	iptvtools_52	https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL      	1280x720
-(16:9)	h264	
+#EXTINF: ExtremaTV	
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL	
 
-54	 Online	iptvtools_54	https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8      	1280x720
-(16:9)	h264	
+#EXTINF: ROH-TV (US)
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8	
 
-55	 Online	iptvtools_55	https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8      	1920x1080
-(16:9)	h264	
-
-59	 Online	iptvtools_59	https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL      	1280x720
-(0:1)	h264	
-
-61	 Online	iptvtools_61	https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8      	640x360
-(16:9)		
-
+#EXTINF: CBCNews (CA)
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
