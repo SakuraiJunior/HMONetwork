@@ -67,17 +67,17 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8      	1280x720
 (16:9)	h264	
 
-23	 Online	iptvtools_23	http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8      	1280x720
-(16:9)	h264	
+#EXTINF: TeleCentro
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8	
 
-24	 Online	iptvtools_24	https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8      	1280x720
-(16:9)	h264	
+#EXTINF: CMC (US)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8	
 
-25	 Online	iptvtools_25	http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8      	1920x1080
-(16:9)	h264	
+#EXTINF: HD Fashion 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8	
 
-26	 Online	iptvtools_26	https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8      	1920x1080
-(16:9)	h264	
+#EXTINF: Zype
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8	
 
 27	 Online	iptvtools_27	https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8      	1920x1080
 (16:9)	h264	
