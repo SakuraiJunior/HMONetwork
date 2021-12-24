@@ -9,43 +9,62 @@
 #
 #*****************************
 
+#EXTINF: Pop TV 
 https://v4.tustreaming.cl/poptv/index.m3u8	
 
+#EXTINF: Retroplus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8	
 
+#EXTINF: Retroplus Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
+#EXTINF: PinguinoTV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8	
 
+#EXTINF: Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
+#EXTINF: GarageTV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
 
+#EXTINF: Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8	
 
+#EXTINF: WOWtv 
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8	
 
+#EXTINF: Mariavisión 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8	
 
+#EXTINF: CGTN en español
 https://livees.cgtn.com/1000e/prog_index.m3u8	
 
+#EXTINF: Euronews 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8	
 
+#EXTINF: France24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8	
 
+#EXTINF: TVG America
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8	
 
+#EXTINF: TVG Xabarin
 https://infantil-crtvg.flumotion.com/playlist.m3u8	
 
+#EXTINF: Telepacifico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
+#EXTINF: Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8	
 
+#EXTINF: Teleplay
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8	
 
+#EXTINF: TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8	
 
-22	 Online	iptvtools_22	https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8      	1280x720
+#EXTINF: JusticiaTV
+https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8      	1280x720
 (16:9)	h264	
 
 23	 Online	iptvtools_23	http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8      	1280x720
