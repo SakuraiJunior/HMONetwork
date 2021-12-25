@@ -78,16 +78,16 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF: VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8	
 
-#EXTINF: JennyLive
+#EXTINF: JennyLive (+18)
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8	
 
-#EXTINF: Jasmin.TV
+#EXTINF: Jasmin.TV (+18)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8	
 
-#EXTINF: Kaloopy
+#EXTINF: Kaloopy (+18)
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8	
 
-#EXTINF: Fashion Bikini TV
+#EXTINF: Fashion Bikini TV (+18)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8	
 
 #EXTINF: El Chavo TV
@@ -176,3 +176,27 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF: Videorola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
+#EXTINF: TVMas (CL)
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: EXTv
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: Arirang (CO)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 24H (ES)
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+
+#EXTINF: Latino Kids
+https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
+
+#EXTINF: FuturamaMania
+http://usher.twitch.tv/api/channel/hls/futurama_mania02.m3u8?player=twitchweb&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22futurama_mania02%22%2C%22channel_id%22%3A714565599%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1640471924%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Afalse%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3Anull%2C%22player_type%22%3Anull%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2234.236.216.15%22%2C%22version%22%3A2%7D&sig=d7ce8ebcaa1e58611376e243628c74ebbf6be71f
+
+#EXTINF: Cinemamas
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
+
+#EXTINF: On Radio KPop
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
