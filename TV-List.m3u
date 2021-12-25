@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:24/12/2021
+#ultima actualizacion:25/12/2021
 #
 #*****************************
 
@@ -153,3 +153,8 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF: Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
+#EXTINF: Mi TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF: Claro Sports
+http://209.91.213.10:8088/play/a024
