@@ -137,3 +137,19 @@ https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
 #EXTINF: CBCNews (CA)
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF: Cartoon Network LATAM
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
+
+#EXTINF: NHK World (JP)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF: Fashion TV
+https://publica.cloudycdn.services/playlist.m3u8?network_id=569
+
+#EXTINF: Top Latino (PE)
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF: Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
