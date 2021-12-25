@@ -170,3 +170,9 @@ https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b15
 
 #EXTINF: ConTV (US)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+
+#EXTINF: El WOWTV (SV)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF: Videorola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
