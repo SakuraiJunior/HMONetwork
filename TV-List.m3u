@@ -195,9 +195,6 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF: On Radio KPop , group-title="Musica"
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 
-#EXTINF: Milenio , group-title="+18"
-https://59537faa0729a.streamlock.net/milenniotv/milenniotv/chunklist_w860599988.m3u8
-
 #EXTINF: TeleCondor , group-title="+18"
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/chunklist_w522667883.m3u8
 
@@ -212,9 +209,6 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF: Telepacifico (CO) , group-title="Internacional"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-
-#EXTINF: TV Pacífico Obregón , group-title="Nacional"
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
 
 #EXTINF: Loop Latino , group-title="Musica"
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
