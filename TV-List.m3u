@@ -78,16 +78,16 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF: VEVO Latino , group-title="Musica"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8	
 
-#EXTINF: JennyLive , group-title="D"
+#EXTINF: JennyLive , group-title="+18"
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8	
 
-#EXTINF: Jasmin.TV , group-title="D"
+#EXTINF: Jasmin.TV , group-title="+18"
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8	
 
-#EXTINF: Kaloopy , group-title="D"
+#EXTINF: Kaloopy , group-title="+18"
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8	
 
-#EXTINF: Fashion Bikini TV , group-title="D"
+#EXTINF: Fashion Bikini TV , group-title="+18"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8	
 
 #EXTINF: El Chavo TV , group-title="Infantil"
@@ -189,16 +189,16 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?Playlist
 #EXTINF: Latino Kids , group-title="Infantil"
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
-#EXTINF: Cinemamas (+18) , group-title="D"
+#EXTINF: Cinemamas , group-title="Peliculas"
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 
 #EXTINF: On Radio KPop , group-title="Musica"
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 
-#EXTINF: Milenio (+18) , group-title="D"
+#EXTINF: Milenio , group-title="+18"
 https://59537faa0729a.streamlock.net/milenniotv/milenniotv/chunklist_w860599988.m3u8
 
-#EXTINF: TeleCondor (+18) , group-title="D"
+#EXTINF: TeleCondor , group-title="+18"
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/chunklist_w522667883.m3u8
 
 #EXTINF: RunTime Latino , group-title="Entretenimiento"
