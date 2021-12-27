@@ -9,118 +9,115 @@
 #
 #*****************************
 
-#EXTINF: DreikoTV
+#EXTINF: DreikoTV , group-title="Series"
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
-#EXTINF: Pop TV 
+#EXTINF: Pop TV , group-title="Musica"
 https://v4.tustreaming.cl/poptv/index.m3u8	
 
-#EXTINF: Retroplus
+#EXTINF: Retroplus , group-title="Musica"
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8	
 
-#EXTINF: Retroplus Señal 2
+#EXTINF: Retroplus Señal 2 , group-title="Musica"
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF: PinguinoTV
+#EXTINF: PinguinoTV , group-title="Noticias"
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8	
 
-#EXTINF: Top Cine
+#EXTINF: Top Cine , group-title="Peliculas"
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
-#EXTINF: GarageTV
+#EXTINF: GarageTV , group-title="Deportes"
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
 
-#EXTINF: Red Bull TV
+#EXTINF: Red Bull TV , group-title="Deportes"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8	
 
-#EXTINF: Mariavisión 
+#EXTINF: Mariavisión , group-title="Religión"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8	
 
-#EXTINF: CGTN en español
+#EXTINF: CGTN en español , group-title="Noticias"
 https://livees.cgtn.com/1000e/prog_index.m3u8	
 
-#EXTINF: Euronews 
+#EXTINF: Euronews , group-title="Internacional"
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8	
 
-#EXTINF: France24
+#EXTINF: France24 , group-title="Internacional" 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8	
 
-#EXTINF: TVG America
+#EXTINF: TVG America , group-title="Internacional"
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8	
 
-#EXTINF: TVG Xabarin
+#EXTINF: TVG Xabarin , group-title="Infantil"
 https://infantil-crtvg.flumotion.com/playlist.m3u8	
 
-#EXTINF: Telepacifico
+#EXTINF: Telepacifico , group-title="Internacional"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
-#EXTINF: Multimedios Monterrey
+#EXTINF: Multimedios Monterrey , group-title="Nacional"
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8	
 
-#EXTINF: Teleplay
+#EXTINF: Teleplay , group-title="Nacional"
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8	
 
-#EXTINF: TV Mexiquense
+#EXTINF: TV Mexiquense , group-title="Nacional 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8	
 
-#EXTINF: JusticiaTV
+#EXTINF: JusticiaTV , group-title="Educativo"
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8	
 
-#EXTINF: TeleCentro
+#EXTINF: TeleCentro , group-title="Entretenimiento"
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8	
 
-#EXTINF: CMC (US)
+#EXTINF: CMC (US) , group-title="Musica"
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8	
 
-#EXTINF: HD Fashion 
+#EXTINF: HD Fashion , group-title="Entretenimiento"
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8	
 
-#EXTINF: VEVO Latino
+#EXTINF: VEVO Latino , group-title="Musica"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8	
 
-#EXTINF: JennyLive (+18)
+#EXTINF: JennyLive , group-title="XXX"
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8	
 
-#EXTINF: Jasmin.TV (+18)
+#EXTINF: Jasmin.TV , group-title="XXX"
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8	
 
-#EXTINF: Kaloopy (+18)
+#EXTINF: Kaloopy , group-title="XXX"
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8	
 
-#EXTINF: Fashion Bikini TV (+18)
+#EXTINF: Fashion Bikini TV , group-title="XXX"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8	
 
-#EXTINF: El Chavo TV
+#EXTINF: El Chavo TV , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
-#EXTINF: Energeek
+#EXTINF: Energeek , group-title="Infantil"
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8	
 
-#EXTINF: Telemax Hermosillo 
+#EXTINF: Telemax Hermosillo , group-title="Nacional"
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF: France 24
+#EXTINF: France 24 , group-title="Internacional"
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF: CSTV
+#EXTINF: CSTV , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF: Fútbol Network 	
+#EXTINF: Fútbol Network , group-title="Deportes"	
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8	
 
-#EXTINF: Fox Sport News 
+#EXTINF: Fox Sport News , group-title="Deportes"
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8	
 
-#EXTINF: WowTV (SAL)
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8	
+#EXTINF: WowTV (SAL) , group-title="Entretenimiento"
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
 
-#EXTINF: Mariavisión 	
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8	
-
-#EXTINF: ForoTV 
+#EXTINF: ForoTV , group-title="Noticias"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8	
 
-#EXTINF: ConectaTV
+#EXTINF: ConectaTV , 
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL	
 
 #EXTINF: ZappingTV
@@ -159,7 +156,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF: Mi TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF: ADN40
+#EXTINF: ADN40 , group-title="Noticias"
 https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/9d4ed932-49b1-464d-a9da-50a9c560e9ed:TUL/master.m3u8
 
 #EXTINF: PTV Málaga (ES)
