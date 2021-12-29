@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion:28/12/2021
+#ultima actualizacion:29/12/2021
 #
 #*****************************
 
@@ -244,4 +244,4 @@ https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?track=video-1&anvsid=m177626885-ne2df0a749908bc3de7e9fe2ec5069942&ts=1640742454&anvtrid=968a63ad949995284391b7cbd5a5cde0
 
 #EXTINF: Toonami (US) , group-title="Infantil"
-https://asp2.toonamiaftermath.com/livehttporigin/movies/ee2ZrA-Gj1hpT-playlist.m3u8
+https://h2.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSAyOjIwOjAxIEFNJmhhc2hfdmFsdWU9K2R5b2doQ1JzVDh0VUZqelBINVdYQT09JnZhbGlkbWludXRlcz0yNDA=
