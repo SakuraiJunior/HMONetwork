@@ -237,14 +237,8 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF: Camara de Diputados , group-title="Nacional"
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
-#EXTINF: CTN/AS (US), group-title="Internacional"
-https://h1.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSAxOjI1OjA4IEFNJmhhc2hfdmFsdWU9WUxQcVpEUS9ndkN3bVNNcjd5WU03Zz09JnZhbGlkbWludXRlcz0yNDA=
-
 #EXTINF: LarsavisionTV , group-title="Noticias"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
 #EXTINF: FOX10 Arizona (US) , group-title="Internacional"
-https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?track=video-2&anvsid=m177626883-na2c474b2a86aef0521ebfa71aeff0997&ts=1640657807&anvtrid=9da63066f31945457ca90ad2790614ec
-
-#EXTINF: Telemundo , group-title="Internacional"
-https://h2.ustvgo.la/Telemundo/myStream/chunks.m3u8?nimblesessionid=143385935&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSAxOjI5OjA2IEFNJmhhc2hfdmFsdWU9UHhRMmVnNXJNWitEWmp4UFlmbWVaZz09JnZhbGlkbWludXRlcz0yNDA=
+https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?track=video-1&anvsid=m177626885-ne2df0a749908bc3de7e9fe2ec5069942&ts=1640742454&anvtrid=968a63ad949995284391b7cbd5a5cde0
