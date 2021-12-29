@@ -242,3 +242,6 @@ https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
 #EXTINF: FOX10 Arizona (US) , group-title="Internacional"
 https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?track=video-1&anvsid=m177626885-ne2df0a749908bc3de7e9fe2ec5069942&ts=1640742454&anvtrid=968a63ad949995284391b7cbd5a5cde0
+
+#EXTINF: Toonami (US) , group-title="Infantil"
+https://asp2.toonamiaftermath.com/livehttporigin/movies/ee2ZrA-Gj1hpT-playlist.m3u8
