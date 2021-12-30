@@ -186,9 +186,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF: 24H (ES) , group-title="Internacional"
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
 
-#EXTINF: Latino Kids , group-title="Infantil"
-https://live.fc2.com/video/?id=99421719
-
 #EXTINF: Cinemamas , group-title="Peliculas"
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 
@@ -239,3 +236,15 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 
 #EXTINF: RMG-TV , group-title="Musica"
 https://rmgtv.roverradio.com/v1/master/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/bnycdnrmgtv/live_abr/playlist.m3u8?ads.platform=web&ads.ssid=0786b598-2136-4653-90b3-11991629a959
+
+#EXTINF: 90Kids , group-title="Infantil"
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
+
+#EXTINF: On Radio KPop , group-title="Musica"
+https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
+
+#EXTINF: Mundo de la música , group-title="Musica"
+https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
+
+#EXTINF: AMX , group-title="Noticias"
+https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
