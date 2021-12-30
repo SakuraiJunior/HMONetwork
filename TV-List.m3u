@@ -240,5 +240,5 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 #EXTINF: LarsavisionTV , group-title="Noticias"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
-#EXTINF: CBS , group-title="Internacional"
+#EXTINF: CBS (US), group-title="Internacional"
 https://h3.ustvgo.la:443/CBS/myStream/chunks.m3u8?nimblesessionid=138121722&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyMSAxOjQzOjM1IEFNJmhhc2hfdmFsdWU9cWRyem16S0NWbFFURXI2Nklhd2I5UT09JnZhbGlkbWludXRlcz0yNDA=
