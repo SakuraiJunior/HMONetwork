@@ -239,11 +239,3 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
 #EXTINF: LarsavisionTV , group-title="Noticias"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
-
-#EXTINF: FOX10 Arizona (US) , group-title="Internacional"
-https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?track=video-1&anvsid=m177626885-ne2df0a749908bc3de7e9fe2ec5069942&ts=1640742454&anvtrid=968a63ad949995284391b7cbd5a5cde0
-https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?track=video-3&anvsid=m177626884-n49753548505a1fec2efb7587730b953d&ts=1640801889&anvtrid=fc576e5c789d71e58fa0b44507dd0d7e
-
-#EXTINF: Toonami (US) , group-title="Infantil"
-https://h2.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSAyOjIwOjAxIEFNJmhhc2hfdmFsdWU9K2R5b2doQ1JzVDh0VUZqelBINVdYQT09JnZhbGlkbWludXRlcz0yNDA=
-https://h2.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=143727915&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSA2OjAxOjU2IFBNJmhhc2hfdmFsdWU9NkZxa20xUmYvSkRiVE0yY2FrNFhDQT09JnZhbGlkbWludXRlcz0yNDA=
