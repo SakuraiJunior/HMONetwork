@@ -242,3 +242,6 @@ https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
 #EXTINF: CBS (US), group-title="Internacional"
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF: Radio KPop , group-title="Musica"
+https://tls.cdnz.cl/onradio4/live/chunklist_w2027477534.m3u8
