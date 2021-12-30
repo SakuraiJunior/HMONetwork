@@ -51,9 +51,6 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF: TVG Xabarin , group-title="Infantil"
 https://infantil-crtvg.flumotion.com/playlist.m3u8	
 
-#EXTINF: Kids90 , group-title="Infantil"
-
-
 #EXTINF: Telepacifico , group-title="Internacional"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
@@ -195,9 +192,6 @@ https://live.fc2.com/video/?id=99421719
 #EXTINF: Cinemamas , group-title="Peliculas"
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 
-#EXTINF: On Radio KPop , group-title="Musica"
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-
 #EXTINF: TeleCondor , group-title="+18"
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/chunklist_w522667883.m3u8
 
@@ -243,5 +237,5 @@ https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 #EXTINF: CBS (US), group-title="Internacional"
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF: Radio KPop , group-title="Musica"
+#EXTINF: On TV KPop , group-title="Musica"
 https://tls.cdnz.cl/onradio4/live/chunklist_w2027477534.m3u8
