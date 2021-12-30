@@ -105,9 +105,6 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF: CSTV , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF: LocomotionTV , group-title="Infantil"
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF: Fútbol Network , group-title="Deportes"	
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8	
 
