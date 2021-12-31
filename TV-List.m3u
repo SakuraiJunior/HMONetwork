@@ -130,7 +130,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8	
 
 #EXTINF: [adultswim] (US) , group-title="Entretenimiento"
-https://pcva13.manifest.auditude.com/auditude/variant/as-jqX79_YeQkm3I9kHJYGAXA/06e127a8-e364-4478-aecf-2763e1a100ff/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3JpY2stYW5kLW1vcnR5L3N0cmVhbS5tM3U4P2hkbnRzPQ.m3u8?pttrackingversion=v2&ptassetid=as-jqX79_YeQkm3I9kHJYGAXA&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-jqX79_YeQkm3I9kHJYGAXA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=;_fw_gdpr=0;_fw_gdpr_consent=&ptcueformat=turner&live=true
+
 
 #EXTINF: ExtremaTV , group-title="Entretenimiento"
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL	
@@ -235,10 +235,13 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
 #EXTINF: CBS (US), group-title="Internacional"
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+http://live.tv247.club/live/cbs.m3u8
 
-#EXTINF: RMG-TV , group-title="Musica"
+#EXTINF: RMG-TV (US), group-title="Musica"
 https://rmgtv.roverradio.com:443/v1/master/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/bnycdnrmgtv/live_abr/../../../../../manifest/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/cd34cc4d-131f-465f-a337-b927eec56344/0.m3u8
+
+#EXTINF: Adultswim (US), group-title="Infantil"
+http://live.tv247.club/live/cn.m3u8
 
 #EXTINF: 90Kids , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
