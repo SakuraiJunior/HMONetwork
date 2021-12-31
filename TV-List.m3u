@@ -126,8 +126,8 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: FiteTV , group-title="Deportes"
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8	
 
-#EXTINF: AdultswimTV , group-title="Entretenimiento"
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8	
+#EXTINF: [adultswim] , group-title="Entretenimiento"
+https://h1.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=172216825&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMSAxOjEyOjE5IEFNJmhhc2hfdmFsdWU9NStPQ2pqTU0vZUs3SFp6aEhVUHcwdz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF: ExtremaTV , group-title="Entretenimiento"
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL	
