@@ -240,9 +240,6 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #EXTINF: RMG-TV (US), group-title="Musica"
 https://rmgtv.roverradio.com:443/v1/master/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/bnycdnrmgtv/live_abr/../../../../../manifest/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/cd34cc4d-131f-465f-a337-b927eec56344/0.m3u8
 
-#EXTINF: Adultswim (US), group-title="Infantil"
-https://manifest.auditude.com/auditude/variant/as-jqX79_YeQkm3I9kHJYGAXA/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3JpY2stYW5kLW1vcnR5L3N0cmVhbS5tM3U4P2hkbnRzPQ==.m3u8?__sid__=as-jqX79_YeQkm3I9kHJYGAXA:1640976686009&g=1000015&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-jqX79_YeQkm3I9kHJYGAXA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=;_fw_gdpr=0;_fw_gdpr_consent=&live=true&ptassetid=as-jqX79_YeQkm3I9kHJYGAXA&ptcueformat=turner&ptdebug=false&pttoken=true&pttrackingversion=v2&u=ac217921a4a853e52310ebc459eef367&z=131829
-
 #EXTINF: 90Kids , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
 
