@@ -126,7 +126,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: FiteTV , group-title="Deportes"
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8	
 
-#EXTINF: [adultswim] , group-title="Entretenimiento"
+#EXTINF: [adultswim] (US) , group-title="Entretenimiento"
 https://pcva13.manifest.auditude.com/auditude/variant/as-jqX79_YeQkm3I9kHJYGAXA/06e127a8-e364-4478-aecf-2763e1a100ff/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3JpY2stYW5kLW1vcnR5L3N0cmVhbS5tM3U4P2hkbnRzPQ.m3u8?pttrackingversion=v2&ptassetid=as-jqX79_YeQkm3I9kHJYGAXA&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-jqX79_YeQkm3I9kHJYGAXA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=;_fw_gdpr=0;_fw_gdpr_consent=&ptcueformat=turner&live=true
 
 #EXTINF: ExtremaTV , group-title="Entretenimiento"
