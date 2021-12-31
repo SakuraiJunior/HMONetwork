@@ -157,7 +157,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF: ADN40 , group-title="Noticias"
-https://us-b4-p-e-lh9.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/5fbcf7cc-2bd2-4d3c-90da-9f5dabf9fdee:DLS/master.m3u8?uid=2AOesFpoiZTpbAdLT9xNHZelUaNl4TQX&sid=SNfSH2RectGhODHKTqcwdvHUpdXfKItD&pid=atwrx38jb5hch8rZlTCRmL6IO5QvTrGw&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&dnt=true&ote=1641000127028&ot=LdMQVLirG23c130Dkoy_Jg&es=us-b4-p-e-lh9.cdn.mdstrm.com&proto=https&pz=us&aid=5fea0f3673148d5d52cf6a76
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?WebM3UCL
 
 #EXTINF: PTV Málaga (ES) , group-title="Internacional"
 https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
