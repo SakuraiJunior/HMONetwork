@@ -235,7 +235,7 @@ https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 #EXTINF: RMG-TV , group-title="Musica"
-https://rmgtv.roverradio.com/v1/master/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/bnycdnrmgtv/live_abr/playlist.m3u8?ads.platform=web&ads.ssid=0786b598-2136-4653-90b3-11991629a959
+https://rmgtv.roverradio.com:443/v1/master/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/bnycdnrmgtv/live_abr/../../../../../manifest/89428f0eab6d92ab0cb5c4c4baeda849375a3704/RMGTV/cd34cc4d-131f-465f-a337-b927eec56344/0.m3u8
 
 #EXTINF: 90Kids , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
