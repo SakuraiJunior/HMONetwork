@@ -111,8 +111,8 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF: Fútbol Network , group-title="Deportes"	
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8	
 
-#EXTINF: Fox Sport News , group-title="Deportes"
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8	
+#EXTINF: Fox Sport Mexico , group-title="Deportes"
+https://live.tvplusgratis.com/hls/jdhnvdfdf/37_.m3u8?token=9UFdRF2dKGEtUTvjqKz8eg&expires=1641085142&ip=189.173.102.170	
 
 #EXTINF: WowTV (SAL) , group-title="Entretenimiento"
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
