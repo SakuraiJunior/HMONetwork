@@ -18,7 +18,7 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF: Retroplus , group-title="Musica"
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8	
 
-#EXTINF: Retroplus Señal 2 , group-title="Musica"
+#EXTINF: Retroplus2 , group-title="Musica"
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF: PinguinoTV , group-title="Noticias"
