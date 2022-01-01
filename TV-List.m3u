@@ -96,9 +96,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 #EXTINF: Energeek , group-title="Infantil"
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 
-#EXTINF: Animestation (BR) , group-title="Infantil"
-https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
-
 #EXTINF: Telemax Hermosillo , group-title="Nacional"
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
@@ -128,9 +125,6 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF: FiteTV , group-title="Deportes"
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8	
-
-#EXTINF: [adultswim] (US) , group-title="Entretenimiento"
-none
 
 #EXTINF: ExtremaTV , group-title="Entretenimiento"
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL	
@@ -251,3 +245,6 @@ https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_
 
 #EXTINF: TV4 Deportes , group-title="Deportes"
 https://5ca3e84a76d30.streamlock.net:443/tv43/smil:tv43.smil/chunklist_w1595350479_b13128000_sleng.m3u8?WebM3UCL
+
+#EXTINF: Canal Once, group-title="Nacional"
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
