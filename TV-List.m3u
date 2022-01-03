@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 02/01/2022
+#ultima actualizacion: 03/01/2022
 #
 #*****************************
 
@@ -77,6 +77,12 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF: VEVO Latino , group-title="Musica"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8	
+
+#EXTINF Miami TV Mexico , group-title="+18"
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
+
+#EXTINF Miami TV Latino , group-title="+18
+https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w923735274.m3u8
 
 #EXTINF: JennyLive , group-title="+18"
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8	
@@ -234,9 +240,6 @@ https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
 #EXTINF: Mundo de la música , group-title="Musica"
 https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
 
-#EXTINF: Lucha AAA Network , group-title="Deportes"
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f99a772c54853000797bf18/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=dc31d722-5f3c-4707-908e-ef5f46031a34&deviceVersion=96.0.4664&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=chromium-webview&sid=d9ea7225-6c05-11ec-91b5-0242ac110003&advertisingId=&deviceLat=29.0593&deviceLon=-110.8172&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjE5NjNlMWE3LTE5YmQtNDQ3Yi04MThhLThhYTMyOTgyMjMzZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkOWVhNzIyNS02YzA1LTExZWMtOTFiNS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDY6MTAxZTo5OjZiODc6MTQzZDo5OGRmOjkxZmM6ODgzMiIsImNpdHkiOiJIZXJtb3NpbGxvIiwicG9zdGFsQ29kZSI6IjgzMTA2IiwiY291bnRyeSI6Ik1YIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6MjkuMDU5MywiZGV2aWNlTG9uIjotMTEwLjgxNzIsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk2LjAuNDY2NCIsImRldmljZU1ha2UiOiJjaHJvbWl1bS13ZWJ2aWV3IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA2LjAtZjNlMmFjNDhkMWRiZTgxODlkYzc4NDc3NzEwOGI3MjViNGJlNmJlMiIsImNsaWVudElEIjoiZGMzMWQ3MjItNWYzYy00NzA3LTkwOGUtZWY1ZjQ2MDMxYTM0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvSGVybW9zaWxsbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NDExODIwOTIsImp0aSI6ImVlMTA0MDdhLWU1OTAtNGZjNy05ODIxLWQ1NjBiMjlhNjAzNSIsImlhdCI6MTY0MTE1MzI5MiwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOlpHTXpNV1EzTWpJdE5XWXpZeTAwTnpBM0xUa3dPR1V0WldZMVpqUTJNRE14WVRNMCJ9.ZglSU4GOqhHytzBKf-mSAd5gqgMgUQbps08I5Gf4jmM
-
 #EXTINF: AMX , group-title="Noticias"
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
 
@@ -248,3 +251,12 @@ https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
 
 #EXTINF: Butaca TV , group-title="Entretenimiento"
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF: EWTN , group-title="Religion"
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF: Mariavisión , group-title="Religion"
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+#EXTINF: Monte María , group-title="Religion"
+https://616eee1852d6c.streamlock.net/live/smil:live.smil/chunklist_w964411746_b1160000_slESP.m3u8
