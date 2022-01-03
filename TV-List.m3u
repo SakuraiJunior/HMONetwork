@@ -245,3 +245,6 @@ https://5ca3e84a76d30.streamlock.net:443/tv43/smil:tv43.smil/chunklist_w15953504
 
 #EXTINF: Canal Once, group-title="Nacional"
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+
+#EXTINF: Butaca TV , group-title="Entretenimiento"
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
