@@ -260,3 +260,6 @@ https://616eee1852d6c.streamlock.net/live/smil:live.smil/chunklist_w964411746_b1
 
 #EXTINF: Pequeradio TV , group-title="Infantil" , channel-number="850"
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
+
+#EXTINF: Telemundo , group-title="Internacional", channel-number="890"
+https://h5.ustvgo.la/Telemundo/myStream/chunks.m3u8?nimblesessionid=40352976&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMjoxNDo0NCBBTSZoYXNoX3ZhbHVlPWhIekJKQ0RSdHhWL3hjMW9Jb3ZvTEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
