@@ -1,0 +1,29 @@
+#EXTINF: Camara de Diputados , group-title="Nacional" , channel-number="500"
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+
+#EXTINF: LarsavisionTV , group-title="Noticias" , channel-number="550"
+https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
+
+#EXTINF: CBSN (US), group-title="Internacional" , channel-number="590"
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF: 90Kids , group-title="Infantil" , channel-number="600"
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
+
+#EXTINF: On Radio KPop , group-title="Musica" , channel-number="610"
+https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
+
+#EXTINF: Mundo de la música , group-title="Musica" , channel-number="650"
+https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
+
+#EXTINF: AMX , group-title="Noticias" , channel-number="690"
+https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
+
+#EXTINF: TV4 Deportes , group-title="Deportes" , channel-number="700"
+https://5ca3e84a76d30.streamlock.net:443/tv43/smil:tv43.smil/chunklist_w1595350479_b13128000_sleng.m3u8?WebM3UCL
+
+#EXTINF: Canal Once, group-title="Nacional" , channel-number="710"
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+
+#EXTINF: Butaca TV , group-title="Entretenimiento" , channel-number="750"
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
