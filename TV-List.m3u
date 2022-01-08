@@ -261,12 +261,6 @@ https://616eee1852d6c.streamlock.net/live/smil:live.smil/chunklist_w964411746_b1
 #EXTINF: Pequeradio TV , group-title="Infantil" , channel-number="850"
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
 
-#EXTINF: Telemundo , group-title="Internacional", channel-number="890"
-https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgMzo0MTowOCBBTSZoYXNoX3ZhbHVlPVNQbDd3NlVZS3VhbG5LV3l2RGVwR2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
-
-#EXTINF: Rick y Morty , group-title="Internacional", channel-number="900"
-https://manifest.auditude.com/auditude/variant/as-jqX79_YeQkm3I9kHJYGAXA/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3JpY2stYW5kLW1vcnR5L3N0cmVhbS5tM3U4P2hkbnRzPQ==.m3u8?__sid__=as-jqX79_YeQkm3I9kHJYGAXA:1641614188714&g=1000015&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-jqX79_YeQkm3I9kHJYGAXA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=;_fw_gdpr=0;_fw_gdpr_consent=&live=true&ptassetid=as-jqX79_YeQkm3I9kHJYGAXA&ptcueformat=turner&ptdebug=false&pttoken=true&pttrackingversion=v2&u=ac217921a4a853e52310ebc459eef367&z=131829
-
 #EXTINF: Canal 44 , group-title="Nacional" , channel-number="910"
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
