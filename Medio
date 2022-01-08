@@ -4,7 +4,7 @@
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #Canales de Television online a nivel completo y muy cargado
-#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/Plata
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/Medio
 
 #EXTINF: Camara de Diputados , group-title="Nacional" , channel-number="500"
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
