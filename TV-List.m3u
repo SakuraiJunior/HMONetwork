@@ -270,5 +270,5 @@ https://vsd100.mycdn.me:443/hls/2008817338964.m3u8/sig/LmbBluT4AMA/expires/16417
 #EXTINF: MTV Animaciones , group-title="Entretenimiento", channel-number="990"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF: Adultswim (US) , group-title="Entretenimiento", channel-number="995"
-https://h4.ustvgo.la:443/CN/myStream/chunks.m3u8?nimblesessionid=144178143&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgNTozNTo1NSBBTSZoYXNoX3ZhbHVlPWxiVlpxMnZSOXdXNWNGTlkxNVIyS2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF: Toonami (US), group-title="Entretenimiento", channel-number="995"
+https://asp2.toonamiaftermath.com:443/livehttporigin/radio/K1Duqa-9WxXK8-chunklist.m3u8
