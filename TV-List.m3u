@@ -156,37 +156,37 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?WebM3UCL
 #EXTINF: PTV Málaga (ES) , group-title="Internacional"
 https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
 
-#EXTINF: Canal Extremadura (ES) , group-title="Entretenimiento" , channel-number="260"
+#EXTINF: Canal Extremadura (ES) , group-title="Entretenimiento"
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
 
-#EXTINF: ConTV (US) , group-title="Internacional" , channel-number="265"
+#EXTINF: ConTV (US) , group-title="Internacional"
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 
-#EXTINF: El WOWTV (SV) , group-title="Entretenimiento" , channel-number="270"
+#EXTINF: El WOWTV (SV) , group-title="Entretenimiento"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF: Videorola , group-title="Musica" , channel-number="275"
+#EXTINF: Videorola , group-title="Musica"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
-#EXTINF: TVMas (CL) , group-title="Entretenimiento" , channel-number="280"
+#EXTINF: TVMas (CL) , group-title="Entretenimiento"
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: EXTv (BR) , group-title="Entretenimiento" , channel-number="285"
+#EXTINF: EXTv (BR) , group-title="Entretenimiento"
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: Arirang (CO) , group-title="Musica" , channel-number="290"
+#EXTINF: Arirang (CO) , group-title="Musica"
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: 24H (ES) , group-title="Internacional" , channel-number="295"
+#EXTINF: 24H (ES) , group-title="Internacional"
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
 
-#EXTINF: Cinemamas , group-title="Peliculas" , channel-number="300"
+#EXTINF: Cinemamas , group-title="Peliculas"
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 
-#EXTINF: TeleCondor , group-title="+18" , channel-number="310"
+#EXTINF: TeleCondor , group-title="+18"
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/chunklist_w522667883.m3u8
 
-#EXTINF: RunTime Latino , group-title="Entretenimiento" , channel-number="325"
+#EXTINF: RunTime Latino , group-title="Entretenimiento"
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 
 #EXTINF: Nickelodeon , group-title="Infantil"
