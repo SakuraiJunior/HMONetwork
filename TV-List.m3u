@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 08/01/2022
+#ultima actualizacion: 09/01/2022
 #
 #*****************************
 
@@ -272,3 +272,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e
 
 #EXTINF: Toonami (US), group-title="Entretenimiento", channel-number="995"
 https://asp2.toonamiaftermath.com:443/livehttporigin/radio/K1Duqa-9WxXK8-chunklist.m3u8
+
+#EXTINF: Space , group-title="Entretenimiento", channel-number="999"
+https://cdn.stg.cvattv.com.ar/live/live2/Space/SA_Live_fta/Space-video=7528000.m3u8
