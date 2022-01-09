@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 09/01/2022
+#ultima actualizacion: 10/01/2022
 #
 #*****************************
 
@@ -269,3 +269,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e
 
 #EXTINF: Teleanimacion, group-title="Infantil", channel-number="950"
 https://live.admefy.com/live/default/suitable_white_2a56d.m3u8?WebM3UCL
+
+#EXTINF: MCKT Latino , group-title="Musica" , channel-number="990"
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+
+#EXTINF: MCKT Reggaetón , group-title="Musica" , channel-number="999"
+https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8?WebM3UCL
