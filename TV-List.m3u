@@ -261,14 +261,11 @@ https://616eee1852d6c.streamlock.net/live/smil:live.smil/chunklist_w964411746_b1
 #EXTINF: Pequeradio TV , group-title="Infantil" , channel-number="850"
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
 
-#EXTINF: Canal 44 , group-title="Nacional" , channel-number="910"
+#EXTINF: Canal 44 , group-title="Nacional" , channel-number="900"
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF: WarnerTV , group-title="Entretenimiento" , channel-number="950"
-https://vsd100.mycdn.me:443/hls/2008817338964.m3u8/sig/LmbBluT4AMA/expires/1641703709622/srcIp/189.173.197.209/clientType/0/srcAg/CHROME_ANDROID/mid/3221941001812/2008817338964_medium/index.m3u8
-
-#EXTINF: MTV Animaciones , group-title="Entretenimiento", channel-number="990"
+#EXTINF: MTV Animaciones , group-title="Entretenimiento", channel-number="910"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF: Toonami (US), group-title="Entretenimiento", channel-number="995"
+#EXTINF: Toonami Aftermath, group-title="Entretenimiento", channel-number="950"
 https://asp1.toonamiaftermath.com/livehttporigin/est/K1Duqa-U0iWnK-playlist.m3u8?streamDelay=180
