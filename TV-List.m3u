@@ -275,3 +275,6 @@ https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
 
 #EXTINF: TeleClasicos , group-title="Entretenimiento"
 https://vdo1.streamgato.us:3776/stream/play.m3u8?WebM3UCL
+
+#EXTINF: Triple A Network , group-title="Deportes"
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
