@@ -272,3 +272,6 @@ https://live.admefy.com/live/default/suitable_white_2a56d.m3u8?WebM3UCL
 
 #EXTINF: MCKT Latino , group-title="Musica"
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+
+#EXTINF: TeleClasicos , group-title="Entretenimiento"
+https://vdo1.streamgato.us:3776/stream/play.m3u8?WebM3UCL
