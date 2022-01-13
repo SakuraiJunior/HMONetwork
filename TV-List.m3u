@@ -299,3 +299,6 @@ https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
 
 #EXTINF: Azteca 7
 https://vsd112.mycdn.me:443/hls/1990024432134.m3u8/sig/z87d8HgskPE/expires/1642127324394/srcIp/189.173.197.209/clientType/0/srcAg/CHROME_ANDROID/mid/3638884507142/1990024432134_high/index.m3u8
+
+#EXTINF: El 5*
+https://live.telelatinohd.com/hls/ms148e8mxraxmpll/2_.m3u8?token=pLvZrqWyoKEwbYmqu2n49w&expires=1642048814&ip=189.173.197.209
