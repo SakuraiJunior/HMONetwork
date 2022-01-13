@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 12/01/2022
+#ultima actualizacion: 13/01/2022
 #
 #*****************************
 
@@ -267,8 +267,8 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF: MTV Animaciones , group-title="Entretenimiento"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF: Nighttime, group-title="Entretenimiento"
-https://live.admefy.com/live/default/lesser_harlequin_ce2cb.m3u8?WebM3UCL
+#EXTINF: Latinokids TV3, group-title="Infantil"
+https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8?WebM3UCL
 
 #EXTINF: MCKT Latino , group-title="Musica"
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
@@ -291,8 +291,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF: Adultswim 6pm - 1am , group-title="Entretenimiento"
 https://h4.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDE6Mjc6MzQgQU0maGFzaF92YWx1ZT1JbnQveU1kQUVIRXN4bU9XeHJyQjZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF: LatinoKids , group-title="Infantil"
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CsoEd6HXJ1JgF9q6xyUljlwhrSmUhVu1OAHu9HMm8CzXNOohm7amTQBDdGnOQq6R34mjlsSaBXlejz1sysSJX5EVod9dSKfrsQHrLaDvCp9s8i6eKJHmtuHZ5q9wIOOwR32z-D0EmJjk9pQC1qb-yw48esijSCnuSN2yVyZgJEj5qPpdygT5giHl3vDLQh6D7KFba344dq5hmSODB7oBfqye-cGsvOwim7YW4S94oy2MtJw6nDDxn4nQdp5pcXSeqXzGPFH40lRJab0MJUR1TO4XNroxG5xJP4ABuqYuT2ouR_gmTr8FduaynVe0T0gzU5yqL5ww9OXWaRzrNr8RY8v3StzEn_AY-E9xvS-F1Hw8AtBbzWNHBgdNEzA0yAxJnRSCKZUvbtq3_hCwWyUvrBqRCeWzGu1Je-1LHO5RPv2YQpFIz6nt5_wveXuwzD-T90uBlI2dxhM1tW8zvRixF4GtYrVJRKXiBXDGvJGVE8x-jMj3XGP005WxRPrRyzCrQklgodjFSjg6hgQDTcpc-Iqyq8vlgo00XOipGm2-tDej1J9lYxb62PLc_HD6fjpNw_Rv9FDpm_K3clZXXKq5SM0wi1aOhz_5D9DSP18MVUb3F_eiRrLcxUR9qVrMWlERw4s-piZFRpiJG7xMXhtMQtCBsjfWvciIcbZEhpweWZK6eO7SDZZnpkfgv_b_2hUj5JvEPaE-bOzVOIluVqXQ73Eevkd7RT_jYALUa6HOWq_6OwgW6rCymBEmwao6UbyOSY9I1suhDyMNuQaUJBoMEsNaNaCBVNwkoYg-IAEqCXVzLXdlc3QtMjDhAg.m3u8
+#EXTINF: Telemusica , group-title="Internacional"
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
-#EXTINF: Telemundo39 , group-title="Internacional"
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CqYFY4hhbZE7bqCxQb9A5QuWVxijPRW9qMu7S9D2r_-dAp1fFw4H2AzJih-4rfmmxUq4KV63aR0rjVJv83E9C9ugXR96WHBcg2dAFEeSeR26BAICRW5zP9qwxy4_dxkF66Db5LnzYyWxwFA6qQupxSUT9m_aV7pG1IPhpVpz_Erm-Fw85FeGG0jedTu9g0T7PiFR-MmNVrJaniBp25GFEek8A8f3m-a1yW16BsvfLp7gYo3DSXubCc001skAeu-A-tIlHlLDZE6me6BWyJgYBAhpzQMlQTL3-P7ZotHBf9Hk8Ey1ngG-p0kLMuZiWA71_e2PYQFAr_IaL_CfFdUEy1xV4UIBrZO8jWmB2XzjV71Kgt2isDHHByVNgK1cx4UesujWFzKfzPsRJnXKypt-5lgDEHoyjhDClhmMHGgMua4ojYQBiy2AMrPeSEGk6e4ITSHedmAjy3xeuEiWao8wHrLXfLqkYfNJvRzBs8gP6tzG-x3T4zxETyyHVbQK5bXQrLiHAqFukKc_msuD-1x_X5rZwtVvfsqrTU9yBZlaqVMQW8rDgB2bMWH_wWrxbpD2OjIVoG4tMx4pJehYLbaxcvslMl_xoPDS7SD5xN47YgX-EIwu1hTjv0Dfgjm-qBsSuzTqhABbbdEAJG05vzaHkUARncWGgvQNomRZGrdHhLR6RTJEwMLSwJrZ2EV9WsEseC36lxZJ-yAgC5vverP1zYGo6UqBOSGE1fMbK6XazaQxdyxV13k2ENyl464pqvQHfq3yZO_Jxxr2sj1h_4FClMT4VCr0MLQry_ysh3I2ZHIT_Tn_KWhYWEMaKWULzfykQMGx6ngXm2-5k_Ll56P9QiqrggRWmjcmRs2IKcrKdLx2d4cKJ_48p3LTIVdlvT6Svahx6PTVolaDGgxlzQEGhbSyrTHsFxUgASoJZXUtd2VzdC0yMOEC.m3u8
+#EXTINF: TV Costa
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
+
+#EXTINF: Azteca 7
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/4b44606a-53b7-4bde-9faa-70eb3f1b8cf2:DLS/master.m3u8?uid=PLzqIIBOVfNGFF9RKYtwPf8e1VBTwpLe&sid=M5V1WWLzNLHM2XdoIa49Dg7g4WHpp858&pid=VsDsYLWnIkXlBsJq6DlygZe6fQSkOtaz&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&ote=1642126980786&ot=Hkjcf7vE4al_GCOFwPveWQ&es=us-b5-p-e-kj2.cdn.mdstrm.com&proto=https&pz=us&aid=5fea09a071a9945deebf5f7c
