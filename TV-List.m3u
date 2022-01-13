@@ -291,7 +291,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF: Adultswim (US), group-title="Entretenimiento"
 https://manifest.auditude.com/auditude/variant/as-At-rci-fT1SgqmQ2ZA5XtQ/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL2JsYWNrLWplc3VzL3N0cmVhbS5tM3U4P2hkbnRzPQ==.m3u8?__sid__=as-At-rci-fT1SgqmQ2ZA5XtQ:1642038556221&g=1000015&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-At-rci-fT1SgqmQ2ZA5XtQ;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=;_fw_gdpr=0;_fw_gdpr_consent=&live=true&ptassetid=as-At-rci-fT1SgqmQ2ZA5XtQ&ptcueformat=turner&ptdebug=false&pttoken=true&pttrackingversion=v2&u=ac217921a4a853e52310ebc459eef367&z=131829
 
-#EXTINF: Toonami (US), group-title="Infantil"
+#EXTINF: ToonamiFaithful(US), group-title="Infantil"
 https://asp2.toonamiaftermath.com/livehttporigin/est/K1Duqa-INP2Dx-playlist.m3u8
 
 #EXTINF: Telemusica , group-title="Internacional"
