@@ -288,14 +288,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u
 #EXTINF: AEW-TV , group-title="Deportes"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF: Adultswim (US), group-title="Entretenimiento"
-https://manifest.auditude.com/auditude/variant/as-At-rci-fT1SgqmQ2ZA5XtQ/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL2JsYWNrLWplc3VzL3N0cmVhbS5tM3U4P2hkbnRzPQ==.m3u8?__sid__=as-At-rci-fT1SgqmQ2ZA5XtQ:1642038556221&g=1000015&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-At-rci-fT1SgqmQ2ZA5XtQ;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=;_fw_gdpr=0;_fw_gdpr_consent=&live=true&ptassetid=as-At-rci-fT1SgqmQ2ZA5XtQ&ptcueformat=turner&ptdebug=false&pttoken=true&pttrackingversion=v2&u=ac217921a4a853e52310ebc459eef367&z=131829
+#EXTINF: William Stream, group-title="Internacional"
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-#EXTINF: ToonamiFaithful(US), group-title="Infantil"
+#EXTINF: Toonami Faithful, group-title="Internacional"
 https://asp2.toonamiaftermath.com/livehttporigin/est/K1Duqa-INP2Dx-playlist.m3u8
 
 #EXTINF: Telemusica , group-title="Internacional"
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
-#EXTINF: TV Costa
+#EXTINF: TV Costa , group-title="Entretenimiento"
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
