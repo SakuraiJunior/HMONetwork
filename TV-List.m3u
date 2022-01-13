@@ -288,8 +288,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u
 #EXTINF: AEW-TV , group-title="Deportes"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF: Adultswim 6pm - 5am , group-title="Entretenimiento"
-
+#EXTINF: Adultswim 6pm - 1am , group-title="Entretenimiento"
+https://h4.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDE6Mjc6MzQgQU0maGFzaF92YWx1ZT1JbnQveU1kQUVIRXN4bU9XeHJyQjZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF: LatinoKids , group-title="Infantil"
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CsoEd6HXJ1JgF9q6xyUljlwhrSmUhVu1OAHu9HMm8CzXNOohm7amTQBDdGnOQq6R34mjlsSaBXlejz1sysSJX5EVod9dSKfrsQHrLaDvCp9s8i6eKJHmtuHZ5q9wIOOwR32z-D0EmJjk9pQC1qb-yw48esijSCnuSN2yVyZgJEj5qPpdygT5giHl3vDLQh6D7KFba344dq5hmSODB7oBfqye-cGsvOwim7YW4S94oy2MtJw6nDDxn4nQdp5pcXSeqXzGPFH40lRJab0MJUR1TO4XNroxG5xJP4ABuqYuT2ouR_gmTr8FduaynVe0T0gzU5yqL5ww9OXWaRzrNr8RY8v3StzEn_AY-E9xvS-F1Hw8AtBbzWNHBgdNEzA0yAxJnRSCKZUvbtq3_hCwWyUvrBqRCeWzGu1Je-1LHO5RPv2YQpFIz6nt5_wveXuwzD-T90uBlI2dxhM1tW8zvRixF4GtYrVJRKXiBXDGvJGVE8x-jMj3XGP005WxRPrRyzCrQklgodjFSjg6hgQDTcpc-Iqyq8vlgo00XOipGm2-tDej1J9lYxb62PLc_HD6fjpNw_Rv9FDpm_K3clZXXKq5SM0wi1aOhz_5D9DSP18MVUb3F_eiRrLcxUR9qVrMWlERw4s-piZFRpiJG7xMXhtMQtCBsjfWvciIcbZEhpweWZK6eO7SDZZnpkfgv_b_2hUj5JvEPaE-bOzVOIluVqXQ73Eevkd7RT_jYALUa6HOWq_6OwgW6rCymBEmwao6UbyOSY9I1suhDyMNuQaUJBoMEsNaNaCBVNwkoYg-IAEqCXVzLXdlc3QtMjDhAg.m3u8
