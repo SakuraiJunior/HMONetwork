@@ -312,7 +312,7 @@ http://azxtv.com/hls/stream.m3u8?WebM3UCL
 #EXTINF: LocomotionTV , group-title="Infantil"
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF: CC South Park , group-title="Entretenimiento"
+#EXTINF: South Park , group-title="Entretenimiento"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: MTV , group-title="Entretenimiento"
@@ -320,3 +320,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4
 
 #EXTINF: NickJr. , group-title="Infantil"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: Comedy Central , group-title="Entretenimiento"
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5ffcc21a432945000762d06b/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=3de645fe-2ad5-4e54-a887-c4a5b5c14879&deviceVersion=32.0.1700&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chrome&sid=e02553a7-763a-11ec-81a6-0242ac110003&advertisingId=&deviceLat=28.6009&deviceLon=-111.3874&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRjZjQ1OWJkLWU5NmUtNDFmYi1iOGMwLWNkMmViNzM0MjgzMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlMDI1NTNhNy03NjNhLTExZWMtODFhNi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDY6MTAxZTo5Ojc3Y2Q6YjExYTo1ZTcwOmJlNjc6ZmNjNiIsImNpdHkiOiJIZXJtb3NpbGxvIFNhaHVhcmlwYSIsInBvc3RhbENvZGUiOiI4MzE0OCIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjI4LjYwMDksImRldmljZUxvbiI6LTExMS4zODc0LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIzMi4wLjE3MDAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA3LjAtNGEyYTZjYzQxMWMwZjRmZGJjY2UyYTY0N2E1YWRkOTk5NTY0ODEwMiIsImNsaWVudElEIjoiM2RlNjQ1ZmUtMmFkNS00ZTU0LWE4ODctYzRhNWI1YzE0ODc5IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvSGVybW9zaWxsbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NDIzMDQzNzgsImp0aSI6IjcyNWEyY2QzLTllMmQtNDU3ZS1hOTZkLTU3YmU5MGUzZWZhMiIsImlhdCI6MTY0MjI3NTU3OCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk0yUmxOalExWm1VdE1tRmtOUzAwWlRVMExXRTRPRGN0WXpSaE5XSTFZekUwT0RjNSJ9.kPr7GFTL9KTgCIU5zPZaYEk6AoGCfUanqkZ6lL4axkg
