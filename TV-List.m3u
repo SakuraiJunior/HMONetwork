@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 14/01/2022
+#ultima actualizacion: 15/01/2022
 #
 #*****************************
 
@@ -308,6 +308,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 
 #EXTINF: AZTV , group-title="Infantil"
 http://azxtv.com/hls/stream.m3u8?WebM3UCL
+
+#EXTINF: LocomotionTV , group-title="Infantil"
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: Nighttime , group-title=""
 https://vdo1.streamgato.us:3776/hybrid/play.m3u8?WebM3UCL
