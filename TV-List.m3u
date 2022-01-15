@@ -306,5 +306,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 #EXTINF: Cine Real , group-title="Entretenimiento"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
-#EXTINF: AZTV, group-title="Infantil"
+#EXTINF: AZTV , group-title="Infantil"
 http://azxtv.com/hls/stream.m3u8?WebM3UCL
+
+#EXTINF: Nighttime , group-title=""
+https://vdo1.streamgato.us:3776/hybrid/play.m3u8?WebM3UCL
