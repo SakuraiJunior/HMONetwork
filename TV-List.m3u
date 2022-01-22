@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 20/01/2022
+#ultima actualizacion: 22/01/2022
 #
 #*****************************
 
@@ -273,7 +273,7 @@ https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
 #EXTINF: TeleClasicos , group-title="Entretenimiento"
 https://vdo1.streamgato.us:3776/stream/play.m3u8?WebM3UCL
 
-#EXTINF: Nickteen , group-title="Infantil"
+#EXTINF: Nickteen , group-title="Entretenimiento"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=64541ad6-3739-4f52-8cd4-8ed28de04f12&clientModelNumber=na&deviceDNT=false&deviceId=64541ad6-3739-4f52-8cd4-8ed28de04f12&deviceLat=20.6379&deviceLon=-103.3474&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4ff0e364-837f-11eb-98c2-0242ac110002&sid=4ff0e364-837f-11eb-98c2-0242ac110002&userId=
 
 #EXTINF: Triple A Network , group-title="Deportes"
@@ -285,8 +285,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u
 #EXTINF: AEW-TV , group-title="Deportes"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF: TA-W (US), group-title="Infantil"
-https://asp2.toonamiaftermath.com/livehttporigin/est/ToVO15-LOZGIY-playlist.m3u8?streamDelay=180
+#EXTINF: AdultSwim, group-title="Infantil"
+https://h3.ustvgo.la:443/CN/myStream/chunks.m3u8?nimblesessionid=152038315&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIyIDk6MTE6MzMgUE0maGFzaF92YWx1ZT1zZUxrR2hraklyZ2JTQmJWN1U2VlRBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF: Telemusica , group-title="Internacional"
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
