@@ -286,7 +286,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF: Warner Channel, group-title="Entretenimiento"
-
+https://vsd127.mycdn.me/hls/2194844486228.m3u8/sig/8a1vMO4LYB0/expires/1642983489103/srcIp/192.141.244.132/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/video.m3u8?p
 
 #EXTINF: Telemusica , group-title="Internacional"
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
