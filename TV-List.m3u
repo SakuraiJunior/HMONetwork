@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 23/01/2022
+#ultima actualizacion: 24/01/2022
 #
 #*****************************
 
@@ -133,7 +133,7 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
 #EXTINF: Cartoon Network LATAM , group-title="Infantil"
-
+https://chupachichi1.xyz/live/flow88e48ff521448a3.m3u8
 
 #EXTINF: NHK World (JP) , group-title="Internacional"
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
