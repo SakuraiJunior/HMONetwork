@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 28/01/2022
+#ultima actualizacion: 29/01/2022
 #
 #*****************************
 
@@ -300,8 +300,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 #EXTINF: AZTV , group-title="Infantil"
 http://azxtv.com/hls/stream.m3u8?WebM3UCL
 
-#EXTINF: LocomotionTV , group-title="Infantil"
-<no-signal>
+#EXTINF: Aniplus , group-title="Infantil"
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?WebM3UCL
 
 #EXTINF: Comedy Central, group-title="Entretenimiento"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -335,3 +335,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 #EXTINF: Warner Channel , group-title="Entretenimiento"
 https://vsd105.mycdn.me/hls/2194844486228.m3u8/sig/mQP-tRpQMqs/expires/1643473864091/srcIp/192.141.244.140/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/video.m3u8
+
+#EXTINF: Impactovision , group-title="Entretenimiento"
+https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
