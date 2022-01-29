@@ -338,3 +338,6 @@ https://vsd105.mycdn.me/hls/2194844486228.m3u8/sig/mQP-tRpQMqs/expires/164347386
 
 #EXTINF: Impactovision , group-title="Entretenimiento"
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
+
+#EXTINF: ToonamiAM-W (US) , group-title="Infantil"
+https://asp1.toonamiaftermath.com/livehttporigin/est/hAQzMB-xxWYEu-playlist.m3u8
