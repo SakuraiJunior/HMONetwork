@@ -49,7 +49,10 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8	
 
 #EXTINF: TVG Xabarin , group-title="Infantil"
-https://infantil-crtvg.flumotion.com/playlist.m3u8	
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF: Latinokids , group-title="Infantil"
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
 
 #EXTINF: Telepacifico , group-title="Internacional"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
