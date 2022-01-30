@@ -99,7 +99,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF: El Chavo TV , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
-#EXTINF: Energeek , group-title="Infantil"
+#EXTINF: Energeek , group-title="Geek"
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 
 #EXTINF: Telemax Hermosillo , group-title="Nacional"
@@ -135,7 +135,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF: Fashion TV , group-title="Entretenimiento"
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 
-#EXTINF: Top Latino (PE) , group-title="Musica"
+#EXTINF: Top Latino , group-title="Musica"
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
 #EXTINF: Music Top , group-title="Musica"
@@ -147,16 +147,16 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF: ADN40 , group-title="Noticias"
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?WebM3UCL
 
-#EXTINF: PTV Málaga (ES) , group-title="Internacional"
+#EXTINF: PTV Málaga , group-title="Internacional"
 https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
 
-#EXTINF: Canal Extremadura (ES) , group-title="Entretenimiento"
+#EXTINF: Canal Extremadura , group-title="Entretenimiento"
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
 
-#EXTINF: ConTV (US) , group-title="Internacional"
+#EXTINF: ConTV , group-title="Internacional"
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 
-#EXTINF: El WOWTV (SV) , group-title="Entretenimiento"
+#EXTINF: El WOWTV , group-title="Entretenimiento"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF: Videorola , group-title="Musica"
@@ -189,7 +189,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3e
 #EXTINF: Litus TV , group-title="Entretenimiento"
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF: Telepacifico (CO) , group-title="Internacional"
+#EXTINF: Telepacifico , group-title="Internacional"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
 #EXTINF: Loop Latino , group-title="Musica"
@@ -204,7 +204,7 @@ https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
 #EXTINF: Panamericana , group-title="Internacional"
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF: Shonen Jump, group-title="Infantil"
+#EXTINF: Shonen Jump, group-title="Geek"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF: Canal LatinoTV , group-title="Entretenimiento"
@@ -297,10 +297,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 #EXTINF: Cine Real , group-title="Peliculas"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
-#EXTINF: AZTV , group-title="Infantil"
+#EXTINF: AZTV , group-title="Geek"
 http://azxtv.com/hls/stream.m3u8?WebM3UCL
 
-#EXTINF: Aniplus , group-title="Infantil"
+#EXTINF: Aniplus , group-title="Geek"
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?WebM3UCL
 
 #EXTINF: Comedy Central, group-title="Entretenimiento"
@@ -339,5 +339,5 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5ebac49ce4
 #EXTINF: Impactovision , group-title="Entretenimiento"
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
 
-#EXTINF: ToonamiAM-W (US) , group-title="Infantil"
+#EXTINF: ToonamiAM-W (US) , group-title="Geek"
 https://asp1.toonamiaftermath.com/livehttporigin/est/hAQzMB-xxWYEu-playlist.m3u8
