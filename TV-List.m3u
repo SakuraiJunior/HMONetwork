@@ -159,7 +159,7 @@ https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b15
 #EXTINF: ConTV , group-title="Internacional"
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 
-#EXTINF: El WOWTV , group-title="Entretenimiento"
+#EXTINF: WOWTV , group-title="Entretenimiento"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF: Videorola , group-title="Musica"
@@ -359,3 +359,7 @@ https://vsd104.mycdn.me/hls/1694021257771.m3u8/sig/53KEG2DTWfs/expires/164372280
 
 #EXTINF: El Financiero Mexico , group-title="Noticias"
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF: Azteca7 , group-title="Nacional"
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
