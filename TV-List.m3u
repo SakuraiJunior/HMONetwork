@@ -222,7 +222,7 @@ https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 #EXTINF: CBSN (US), group-title="Internacional"
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF: 90Kids , group-title="Infantil"
+#EXTINF: Ren y Stimpy, group-title="Infantil"
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
 
 #EXTINF: On Radio KPop , group-title="Musica"
