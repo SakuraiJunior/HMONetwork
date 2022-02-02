@@ -96,7 +96,7 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF: Fashion Bikini TV , group-title="+18"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
-#EXTINF: El Chavo TV , group-title="Infantil"
+#EXTINF: El Chavo , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 #EXTINF: Energeek , group-title="Geek"
@@ -152,9 +152,6 @@ https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
 
 #EXTINF: Canal Extremadura , group-title="Entretenimiento"
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
-
-#EXTINF: ConTV , group-title="Internacional"
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 
 #EXTINF: WOWTV , group-title="Entretenimiento"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
