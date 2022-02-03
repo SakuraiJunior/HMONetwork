@@ -357,5 +357,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 #EXTINF: WarnerTV , group-title="Peliculas"
 https://vsd127.mycdn.me/hls/2194844486228.m3u8/sig/ZQM7MCyv3j0/expires/1643865232898/srcIp/192.141.244.135/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/video.m3u8?p
 
-#EXTINF: PTV Anime , group-title="Infantil"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF: Telehit , group-title="Musica"
+https://live.telelatinohd.com/hls/ms148e8mxraxmpll/122_.m3u8?token=UsazP8DADJVd-jAiZY-JLA&expires=1643863455&ip=192.141.244.137
+https://live.telelatinohd.com/hls/ms148e8mxraxmpll/122_.m3u8?token=UsazP8DADJVd-jAiZY-JLA&expires=&ip=192.141.244.137
+https://live.telelatinohd.com/hls/ms148e8mxraxmpll/122_.m3u8?token=UsazP8DADJVd-jAiZY-JLA&expires=1643863455&ip=
