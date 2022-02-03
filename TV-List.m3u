@@ -356,3 +356,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 
 #EXTINF: WarnerTV , group-title="Peliculas"
 https://vsd127.mycdn.me/hls/2194844486228.m3u8/sig/ZQM7MCyv3j0/expires/1643865232898/srcIp/192.141.244.135/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/video.m3u8?p
+
+#EXTINF: EmperorNero , group-title="Geek"
+https://h2.ustvgo.la/CN/myStream/playlist.m3u8
