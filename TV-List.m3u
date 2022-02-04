@@ -358,6 +358,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 https://vsd120.mycdn.me:443/hls/2194844486228.m3u8/sig/cD3GHkxAlcE/expires/1644014583788/srcIp/192.141.244.108/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/2194844486228_medium/index.m3u8
 
 #EXTINF: PyP , group-title="Peliculas"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF: TA-E, group-title="Geek"
+#EXTINF: TA-LA, group-title="Geek"
+https://asp5.toonamiaftermath.com/livehttporigin/est/MYoEW1-4oUQfe-playlist.m3u8
