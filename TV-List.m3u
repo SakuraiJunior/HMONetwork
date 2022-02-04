@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 03/02/2022
+#ultima actualizacion: 04/02/2022
 #
 #*****************************
 
@@ -357,7 +357,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 #EXTINF: WarnerTV , group-title="Peliculas"
 https://vsd120.mycdn.me:443/hls/2194844486228.m3u8/sig/cD3GHkxAlcE/expires/1644014583788/srcIp/192.141.244.108/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/2194844486228_medium/index.m3u8
 
-#EXTINF: Telehit , group-title="Musica"
+#EXTINF: PyP , group-title="Peliculas"
 
 
-#EXTINF: EmperorNero, group-title="Geek"
+#EXTINF: TA-E, group-title="Geek"
