@@ -345,6 +345,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb26
 #EXTINF: Tooncast , group-title="Infantil"
 https://vsd75.mycdn.me/hls/1694021257771.m3u8/sig/L_dgev418p8/expires/1644168291313/srcIp/192.141.244.136/clientType/0/srcAg/CHROME_ANDROID/mid/3328447028779/video.m3u8?p
 
+#EXTINF: Locomotion , group-title="Infantil"
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF: El Financiero Mexico , group-title="Noticias"
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
