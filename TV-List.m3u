@@ -343,7 +343,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: Tooncast , group-title="Infantil"
-https://vsd75.mycdn.me/hls/1694021257771.m3u8/sig/L_dgev418p8/expires/1644168291313/srcIp/192.141.244.136/clientType/0/srcAg/CHROME_ANDROID/mid/3328447028779/video.m3u8?p
+
 
 #EXTINF: Locomotion , group-title="Infantil"
 http://51.222.85.85:81/hls/loco/index.m3u8
