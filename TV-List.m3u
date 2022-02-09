@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 05/02/2022
+#ultima actualizacion: 08/02/2022
 #
 #*****************************
 
@@ -355,7 +355,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
 
 #EXTINF: Dragon Ball Z , group-title="Maratones"
-https://vsd77.mycdn.me:443/hls/2073019288135.m3u8/sig/DNl_RIpKqRo/expires/1644291095852/srcIp/192.141.244.140/clientType/0/srcAg/CHROME_ANDROID/mid/5176877129287/2073019288135_low/index.m3u8
+https://vsd77.mycdn.me:443/hls/2073019288135.m3u8/sig/kFZfu2URdo8/expires/1644470344019/srcIp/192.141.244.134/clientType/0/srcAg/CHROME_ANDROID/mid/5176877129287/2073019288135_medium/index.m3u8
 
 #EXTINF: PyP , group-title="Peliculas"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
