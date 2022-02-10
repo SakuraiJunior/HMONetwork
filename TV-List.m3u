@@ -368,6 +368,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 
 #EXTINF: Tooncast , group-title="Infantil"
 https://vsd104.mycdn.me:443/hls/1694021257771.m3u8/sig/DoUYKXRFWV0/expires/1644593839719/srcIp/192.141.244.143/clientType/0/srcAg/CHROME_ANDROID/mid/3328447028779/1694021257771_high/index.m3u8
-
-#EXTINF: Nicktoons , group-title="Infantil"
-https://ufqtkqhjufmbhuza.wzcdn134.net:8443/hls/y3fsfkv5.m3u8?s=sCtQrbIWqZPf87oQCOTFag&e=1644529659
