@@ -8,131 +8,95 @@
 #
 #*****************************
 
-#EXTINF: DreikoTV , group-title="Entretenimiento"
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
-
-#EXTINF: Pop TV , group-title="Musica"
-https://v4.tustreaming.cl/poptv/index.m3u8	
-
-#EXTINF: Retroplus , group-title="Musica"
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8	
-
-#EXTINF: Retroplus2 , group-title="Musica"
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF: PinguinoTV , group-title="Noticias"
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8	
-
-#EXTINF: Top Cine , group-title="Peliculas"
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
-
-#EXTINF: GarageTV , group-title="Deportes"
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
-
-#EXTINF: Red Bull TV , group-title="Deportes"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8	
-
-#EXTINF: Mariavisión , group-title="Religión"
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8	
-
-#EXTINF: CGTN en español , group-title="Noticias"
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF: TVG America , group-title="Internacional"
-https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-
-#EXTINF: Latinokids , group-title="Infantil"
-https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
-
-#EXTINF: TV Mexiquense , group-title="Nacional
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8	
-
-#EXTINF: TeleCentro , group-title="Entretenimiento"
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
-
-#EXTINF: Energeek , group-title="Geek"
-https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
-
-#EXTINF: Telemax Hermosillo , group-title="Nacional"
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
-#EXTINF: France 24 , group-title="Internacional"
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF: El Chavo , group-title="Maratones"
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 #EXTINF: Los Simpsons , group-title="Maratones"
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF: Fútbol Network , group-title="Deportes"
-https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+#EXTINF: Nickelodeon , group-title="Infantil"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF: ForoTV , group-title="Noticias"
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8	
+#EXTINF: Shonen Jump, group-title="Geek"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF: ConectaTV , group-title="Entretenimiento"
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL	
-
-#EXTINF: ZappingTV , group-title="Musica"
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF: Videorola , group-title="Musica"
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8	
-
-#EXTINF: TVMas (CL) , group-title="Entretenimiento"
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF: EXTv (BR) , group-title="Entretenimiento"
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF: Arirang (CO) , group-title="Musica"
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF: 24H , group-title="Internacional"
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+#EXTINF: LarsavisionTV , group-title="Noticias"
+https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
 #EXTINF: Ren y Stimpy, group-title="Maratones"
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
 
-#EXTINF: On Radio KPop , group-title="Musica"
-https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
+#EXTINF: MTV Animaciones , group-title="Entretenimiento"
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF: Mundo de la música , group-title="Musica"
-https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
+#EXTINF: Nickteen , group-title="Infantil"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF: AMX , group-title="Noticias"
-https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
+#EXTINF: Triple A Network , group-title="Deportes"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 
-#EXTINF: TV4 Deportes , group-title="Deportes"
-https://5ca3e84a76d30.streamlock.net:443/tv43/smil:tv43.smil/chunklist_w1595350479_b13128000_sleng.m3u8?WebM3UCL
+#EXTINF: ParamountPlus , group-title="Entretenimiento"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF: Planeta Junior , group-title="Infantil"
-https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
+#EXTINF: AEW-TV , group-title="Deportes"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF: MCKT Latino , group-title="Musica"
-https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+#EXTINF: FlashHD , group-title="Musica"
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 
-#EXTINF: TeleClasicos , group-title="Entretenimiento"
-https://vdo1.streamgato.us:3776/stream/play.m3u8?WebM3UCL
+#EXTINF: Top Cine , group-title="Peliculas"
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 
-#EXTINF: TV Costa , group-title="Entretenimiento"
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
+#EXTINF: Tu Cine , group-title="Peliculas"
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
-#EXTINF: Aniplus , group-title="Geek"
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?WebM3UCL
+#EXTINF: Cine Real , group-title="Peliculas"
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
-#EXTINF: Impactovision , group-title="Entretenimiento"
-https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
+#EXTINF: Comedy Central, group-title="Entretenimiento"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF: Multimedios CDMX , group-title="Nacional"
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF: NickJr. , group-title="Infantil"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: Motorvision TV , group-title="Deportes"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: PeleasTV , group-title="Deportes"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: MTVLA , group-title="Musica"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: ESR , group-title="Geek"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: South Park , group-title="Maratones"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: Babyfirst , group-title="Infantil"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF: EstrellaTV , group-title="Entretenimiento"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&dev
+
+#EXTINF: IGN (US) , group-title="Geek"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: Azteca7 , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF: ACS Network , group-title="Entretenimiento"
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF: Cine Estelar , group-title="Peliculas"
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
 
-#EXTINF: EWTN , group-title="Religion"
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+#EXTINF: Dragon Ball Z , group-title="Maratones"
+https://vsd115.mycdn.me:443/hls/2073019288135.m3u8/sig/FNM9EBTRChg/expires/1644594104192/srcIp/192.141.244.143/clientType/0/srcAg/CHROME_ANDROID/mid/5176877129287/2073019288135_high/index.m3u8
 
-#EXTINF: Ren y Stimpy, group-title="Maratones"
-https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
+#EXTINF: PyP , group-title="Peliculas"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: PlutoTV Series group-title="Entretenimiento"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF: Naruto , group-title="Maratones"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
