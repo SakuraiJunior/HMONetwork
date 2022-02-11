@@ -4,4 +4,135 @@
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #Canales de Television online a nivel completo y muy cargado
-#playlist: 
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/Basicos
+#
+#*****************************
+
+#EXTINF: DreikoTV , group-title="Entretenimiento"
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
+
+#EXTINF: Pop TV , group-title="Musica"
+https://v4.tustreaming.cl/poptv/index.m3u8	
+
+#EXTINF: Retroplus , group-title="Musica"
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8	
+
+#EXTINF: Retroplus2 , group-title="Musica"
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF: PinguinoTV , group-title="Noticias"
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8	
+
+#EXTINF: Top Cine , group-title="Peliculas"
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
+
+#EXTINF: GarageTV , group-title="Deportes"
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
+
+#EXTINF: Red Bull TV , group-title="Deportes"
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8	
+
+#EXTINF: Mariavisión , group-title="Religión"
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8	
+
+#EXTINF: CGTN en español , group-title="Noticias"
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF: TVG America , group-title="Internacional"
+https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+
+#EXTINF: Latinokids , group-title="Infantil"
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
+
+#EXTINF: TV Mexiquense , group-title="Nacional
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8	
+
+#EXTINF: TeleCentro , group-title="Entretenimiento"
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
+
+#EXTINF: Energeek , group-title="Geek"
+https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
+
+#EXTINF: Telemax Hermosillo , group-title="Nacional"
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF: France 24 , group-title="Internacional"
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF: Los Simpsons , group-title="Maratones"
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF: Fútbol Network , group-title="Deportes"
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+
+#EXTINF: ForoTV , group-title="Noticias"
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8	
+
+#EXTINF: ConectaTV , group-title="Entretenimiento"
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL	
+
+#EXTINF: ZappingTV , group-title="Musica"
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: Videorola , group-title="Musica"
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8	
+
+#EXTINF: TVMas (CL) , group-title="Entretenimiento"
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: EXTv (BR) , group-title="Entretenimiento"
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: Arirang (CO) , group-title="Musica"
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 24H , group-title="Internacional"
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+
+#EXTINF: Ren y Stimpy, group-title="Maratones"
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
+
+#EXTINF: On Radio KPop , group-title="Musica"
+https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
+
+#EXTINF: Mundo de la música , group-title="Musica"
+https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
+
+#EXTINF: AMX , group-title="Noticias"
+https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
+
+#EXTINF: TV4 Deportes , group-title="Deportes"
+https://5ca3e84a76d30.streamlock.net:443/tv43/smil:tv43.smil/chunklist_w1595350479_b13128000_sleng.m3u8?WebM3UCL
+
+#EXTINF: Planeta Junior , group-title="Infantil"
+https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
+
+#EXTINF: MCKT Latino , group-title="Musica"
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+
+#EXTINF: TeleClasicos , group-title="Entretenimiento"
+https://vdo1.streamgato.us:3776/stream/play.m3u8?WebM3UCL
+
+#EXTINF: TV Costa , group-title="Entretenimiento"
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
+
+#EXTINF: Aniplus , group-title="Geek"
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?WebM3UCL
+
+#EXTINF: Impactovision , group-title="Entretenimiento"
+https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
+
+#EXTINF: Multimedios CDMX , group-title="Nacional"
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF: Azteca7 , group-title="Nacional"
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF: ACS Network , group-title="Entretenimiento"
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+
+#EXTINF: EWTN , group-title="Religion"
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF: Ren y Stimpy, group-title="Maratones"
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
