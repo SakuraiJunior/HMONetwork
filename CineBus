@@ -7,3 +7,6 @@
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/CineBus.m3u
 #
 #*****************************
+
+#EXTINF: Top Cine , group-title="Peliculas"
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
