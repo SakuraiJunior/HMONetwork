@@ -102,7 +102,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 #EXTINF: Energeek , group-title="Geek"
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 
-
 #EXTINF: Telemax Hermosillo , group-title="Nacional"
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
@@ -367,9 +366,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 #EXTINF: Anime All Day , group-title="Geek"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF: Warner Channel , group-title="Entretenimiento"
-https://vsd105.mycdn.me:443/hls/2194844486228.m3u8/sig/_G0z9KIemDg/expires/1644899170965/srcIp/192.141.244.133/clientType/0/srcAg/CHROME_ANDROID/mid/3443588800084/2194844486228_high/index.m3u8
-
 #EXTINF: Fanpop TV , group-title="Geek"
 https://mediacpstreamchile.com:1936/carlospinto/carlospinto/playlist.m3u8
 
@@ -396,3 +392,75 @@ Canal 44
 Cine Real
 Comedy Central
 Cine Estelar
+Dreiko TV
+Euronews
+El Chavo
+Energeek
+ExtremaTV
+Estrella TV
+ESR
+EWTN
+France24
+Futbol Network
+Foro TV
+Fashion TV
+Fashion Bikini TV
+Flash HD
+Fuel TV
+Fanpop TV
+GarageTV
+HD Fashion
+IGN
+Jenny Live
+Jasmin.tv
+JusticiaTV
+Kaloopy
+Latino Kids
+Larsavision
+Loop Latino
+LocomotionTV
+Mariavision
+Miami TV Mexico
+Miami TV Latino
+Music Top
+Mi TV
+Multimedios
+MTVLA
+Motorvision
+Naruto
+Nick Junior
+Nickteen
+Nickelodeon
+NHK Wordl
+On Radio KPop
+Pop
+Pinguino TV
+PTV Malaga
+PlutoTV Series
+PyP
+Paramount Plus
+Planeta Junior
+Panamericana
+Retroplus
+Retroplus 2
+RedBull
+Runtime Latino
+Ren y Stimpy
+Shonen Jump
+Top Cine
+TVG America
+TVG Xabarin
+Teleplay
+TV Mexiquense
+Telecentro
+Telemax Hermosillo
+Tu Cine
+Top Latino
+TV Costa
+Teleformula
+Telemusica
+Triple A Network
+W
+X
+Y
+Z
