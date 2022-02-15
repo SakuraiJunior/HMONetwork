@@ -8,11 +8,8 @@
 #
 #*****************************
 
-#EXTINF Miami TV Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
-
-#EXTINF Miami TV Latino
-https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w923735274.m3u8
+#EXTINF: Fashion Bikini TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
 #EXTINF: JennyLive
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
@@ -23,8 +20,14 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
 #EXTINF: Kaloopy
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8	
 
-#EXTINF: Fashion Bikini TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
+
+#EXTINF Miami TV Latino
+https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w923735274.m3u8	
+
+#EXTINF: Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
 
 #EXTINF: TeleCondor
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/chunklist_w522667883.m3u8
