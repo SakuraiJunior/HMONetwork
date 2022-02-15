@@ -369,65 +369,68 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 #EXTINF: Fanpop TV , group-title="Geek"
 https://mediacpstreamchile.com:1936/carlospinto/carlospinto/playlist.m3u8
 
-ADN 40
-Arirang
-AMX
-AEW-TV
-Aniplus
-ACS Network
-Azteca 7
-Anime All Day
-BabyFirst
-Butaca TV
-CGTN En Español
-CMC
-Conecta TV
-Canal Extremadura
-Cinemamas
-Canal LatinoTV
-Camara de Diputados
-CBSN
-Canal Once
-Canal 44
-Cine Real
-Comedy Central
-Cine Estelar
-Dreiko TV
-Euronews
-El Chavo
-Energeek
-ExtremaTV
-Estrella TV
-ESR
-EWTN
-France24
-Futbol Network
-Foro TV
-Fashion TV
-Fashion Bikini TV
-Flash HD
-Fuel TV
-Fanpop TV
-GarageTV
-HD Fashion
-IGN
-Jenny Live
-Jasmin.tv
-JusticiaTV
-Kaloopy
-Latino Kids
-Larsavision
-Loop Latino
-LocomotionTV
-Mariavision
-Miami TV Mexico
-Miami TV Latino
-Music Top
-Mi TV
-Multimedios
-MTVLA
-Motorvision
-Naruto
+#EXTINF: ADN 40
+#EXTINF: Arirang
+#EXTINF: AMX
+#EXTINF: AEW-TV
+#EXTINF: Aniplus
+#EXTINF: ACS Network
+#EXTINF: Azteca 7
+#EXTINF: Anime All Day
+#EXTINF: BabyFirst
+#EXTINF: Butaca TV
+#EXTINF: CGTN En Español
+#EXTINF: CMC
+#EXTINF: Conecta TV
+#EXTINF: Canal Extremadura
+#EXTINF: Cinemamas
+#EXTINF: Canal LatinoTV
+#EXTINF: Camara de Diputados
+#EXTINF: CBSN
+#EXTINF: Canal Once
+#EXTINF: Canal 44
+#EXTINF: Cine Real
+#EXTINF: Comedy Central
+#EXTINF: Cine Estelar
+#EXTINF: Dreiko TV
+#EXTINF: Eurolatino
+#EXTINF: Euronews
+#EXTINF: El Chavo
+#EXTINF: El Financiero Mexico
+#EXTINF: Energeek
+#EXTINF: ExtremaTV
+#EXTINF: Estrella TV
+#EXTINF: ESR
+#EXTINF: EWTN
+#EXTINF: France24
+#EXTINF: Futbol Network
+#EXTINF: Foro TV
+#EXTINF: Fashion TV
+#EXTINF: Fashion Bikini TV
+#EXTINF: Flash HD
+#EXTINF: Fuel TV
+#EXTINF: Fanpop TV
+#EXTINF: GarageTV
+#EXTINF: HD Fashion
+#EXTINF: IGN
+#EXTINF: Impactovision
+#EXTINF: Jenny Live
+#EXTINF: Jasmin.tv
+#EXTINF: JusticiaTV
+#EXTINF: Kaloopy
+#EXTINF: Latino Kids
+#EXTINF: Larsavision
+#EXTINF: Loop Latino
+#EXTINF: LocomotionTV
+#EXTINF: Mariavision
+#EXTINF: Miami TV Mexico
+#EXTINF: Miami TV Latino
+#EXTINF: Music Top
+#EXTINF: Mi TV
+#EXTINF: Multimedios
+#EXTINF: MTVLA
+#EXTINF: Motorvision
+#EXTINF: Naruto
 Nick Junior
 Nickteen
 Nickelodeon
@@ -447,20 +450,20 @@ RedBull
 Runtime Latino
 Ren y Stimpy
 Shonen Jump
-Top Cine
-TVG America
-TVG Xabarin
-Teleplay
-TV Mexiquense
-Telecentro
-Telemax Hermosillo
-Tu Cine
-Top Latino
-TV Costa
-Teleformula
-Telemusica
-Triple A Network
-W
-X
-Y
-Z
+South Park
+#EXTINF: Top Cine
+#EXTINF: TVG America
+#EXTINF: TVG Xabarin
+#EXTINF: Teleplay
+#EXTINF: TV Mexiquense
+#EXTINF: Telecentro
+#EXTINF: Telemax Hermosillo
+#EXTINF: Tu Cine
+#EXTINF: Top Latino
+#EXTINF: TV Costa
+#EXTINF: Teleformula
+#EXTINF: Telemusica
+#EXTINF: Triple A Network
+#EXTINF: VEVO Latino
+#EXTINF: WOWTV
+#EXTINF: Zapping TV
