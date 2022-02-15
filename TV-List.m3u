@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 14/02/2022
+#ultima actualizacion: 15/02/2022
 #
 #*****************************
 
@@ -68,6 +68,9 @@ https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
 
 #EXTINF: Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF: Cartoon Network LATAM 
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8 
 
 #EXTINF: Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
@@ -246,6 +249,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF: RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF: ROH-TV
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+
 #EXTINF: Runtime Latino
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 
@@ -302,6 +308,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 #EXTINF: VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF: Videorola 
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
 #EXTINF: WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
