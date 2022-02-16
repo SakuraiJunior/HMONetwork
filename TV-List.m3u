@@ -69,9 +69,6 @@ https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
 #EXTINF: Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF: Cartoon Network LATAM 
-https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8 
-
 #EXTINF: Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
@@ -284,6 +281,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w28804817
 
 #EXTINF: Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF: Toontubers
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
 
 #EXTINF: Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
