@@ -8,4 +8,20 @@
 #
 #*****************************
 
-#EXTINF
+#EXTINF: HBO
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO/index.m3u8
+Channel name: HBO 2 [Club]
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO2/index.m3u8
+Channel name: HBO Plus [Club]
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO_PLUS/index.m3u8
+Channel name: HBO Mundi [Club]
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO_MUNDI/index.m3u8
+Channel name: HBO Pop [Club]
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO_POP/index.m3u8
+Channel name: HBO Signature [Club]
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO_SIGNATURE/index.m3u8
+Channel name: HBO Xtreme [Club]
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO_XTREME/index.m3u8
+Channel name: HBO Family [Club]
+URL:http://tv.teleclub.xyz/live/HLS_01/HBO_FAMILY/index.m3u8
+
