@@ -64,7 +64,7 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 #EXTINF: Cartoon Network LA
-http://iptvhd.club:9001/televall2022/565_.m3u8?token=bocGpDim3qJhgW9fH-RyVg&expires=1645157562
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
 
 #EXTINF: Canal Once
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
@@ -293,9 +293,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 #EXTINF: Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-
-#EXTINF: Toontubers
-https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
 
 #EXTINF: TV Costa
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
