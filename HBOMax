@@ -10,8 +10,11 @@
 #EXTINF: Canal Space
 http://tv.teleclub.xyz/live/HLS_02/SPACE/index.m3u8
 
-#EXTINF: Cartoon Network
+#EXTINF: Cartoon Network Latinoamerica
 http://tv.teleclub.xyz/live/HLS_02/CARTOON/index.m3u8
+
+#EXTINF: Cartoonito
+http://tv.teleclub.xyz/live/HLS_02/CARTOONITO/index.m3u8
 
 #EXTINF: Cinecanal
 http://tv.teleclub.xyz/live/HLS_01/CINECANAL/index.m3u8
@@ -43,3 +46,5 @@ http://tv.teleclub.xyz/live/HLS_01/HBO_XTREME/index.m3u8
 #EXTINF: HBO Family
 http://tv.teleclub.xyz/live/HLS_01/HBO_FAMILY/index.m3u8
 
+#EXTINF: Warner TV Latino
+http://tv.teleclub.xyz/live/HLS_02/WARNER/index.m3u8
