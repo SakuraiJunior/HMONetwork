@@ -99,6 +99,9 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 #EXTINF: Energeek
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 
+#EXTINF: Energeek 2
+https://stmv1.voxhdnet.com/enegeek2/enegeek2/playlist.m3u8
+
 #EXTINF: ExtremaTV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
