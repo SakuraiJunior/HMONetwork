@@ -1,0 +1,34 @@
+#EXTM3U
+
+
+#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+#
+#Canales de Television online a nivel completo y muy cargado
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/StarPremium.m3u
+#
+#EXTINF:-1 Star Channel
+http://tv.teleclub.xyz/live/HLS_01/STAR/index.m3u8
+
+#EXTINF:-1 Star Action
+http://tv.teleclub.xyz/live/HLS_01/STAR_ACTION/index.m3u8
+
+#EXTINF:-1 Star Classics
+http://tv.teleclub.xyz/live/HLS_01/STAR_CLASSICS/index.m3u8
+
+#EXTINF:-1 Star Fun
+http://tv.teleclub.xyz/live/HLS_01/STAR_FUN/index.m3u8
+
+#EXTINF:-1 Star Hits
+http://tv.teleclub.xyz/live/HLS_01/STAR_HITS/index.m3u8
+
+#EXTINF:-1 Star Life
+http://tv.teleclub.xyz/live/HLS_01/STAR_LIFE/index.m3u8
+
+#EXTINF:-1 Star Series
+http://tv.teleclub.xyz/live/HLS_01/STAR_SERIES/index.m3u8
+
+#EXTINF:-1 Star Cinema
+http://tv.teleclub.xyz/live/HLS_01/STAR_CINEMA/index.m3u8
+
+#EXTINF:-1 Star Comedy
+http://tv.teleclub.xyz/live/HLS_01/STAR_COMEDY/index.m3u8
