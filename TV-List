@@ -243,6 +243,9 @@ https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
 #EXTINF: Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
+#EXTINF: Panico
+http://tv.teleclub.xyz/live/HLS_00/COL_Panico/index.m3u8
+
 #EXTINF: Retroplus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
