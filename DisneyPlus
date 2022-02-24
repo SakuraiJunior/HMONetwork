@@ -33,9 +33,6 @@ http://tv.teleclub.xyz/live/HLS_01/NATGEO_WILD/index.m3u8
 #EXTINF:-1 Animal Planet
 http://tv.teleclub.xyz/live/HLS_01/ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 ESPN MX
-http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
-
 #EXTINF:-1 ESPN 2
 http://tv.teleclub.xyz/live/HLS_01/ESPN2_MX/index.m3u8
 
