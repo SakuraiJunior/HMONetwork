@@ -6,41 +6,41 @@
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/RatonMicaelo.m3u
 #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel [Club]
+#EXTINF:-1 Disney Channel Latino
 http://tv.teleclub.xyz/live/HLS_01/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD [Club]
+#EXTINF:-1 Disney XD
 http://tv.teleclub.xyz/live/HLS_01/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr [Club]
+#EXTINF:-1 Disney Junior
 http://tv.teleclub.xyz/live/HLS_01/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids [Club]
+#EXTINF:-1 NATGEO Kids
 http://tv.teleclub.xyz/live/HLS_01/NATGEO_KIDS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel [Club]
+#EXTINF:-1 History Channel
 http://tv.teleclub.xyz/live/HLS_01/HISTORY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", H2 [Club]
+#EXTINF:-1 History Channel 2
 http://tv.teleclub.xyz/live/HLS_01/H2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", NATGEO [Club]
+#EXTINF:-1 National Geography Channel
 http://tv.teleclub.xyz/live/HLS_01/NATGEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura", NATGEO Wild [Club]
+#EXTINF:-1 NATGEO Wild
 http://tv.teleclub.xyz/live/HLS_01/NATGEO_WILD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet [Club]
+#EXTINF:-1 Animal Planet
 http://tv.teleclub.xyz/live/HLS_01/ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX [Club]
+#EXTINF:-1 ESPN MX
 http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 MX [Club]
+#EXTINF:-1 ESPN 2
 http://tv.teleclub.xyz/live/HLS_01/ESPN2_MX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 MX [Club]
+#EXTINF:-1 ESPN 3
 http://tv.teleclub.xyz/live/HLS_01/ESPN3_MX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Plus MX [Club]
+#EXTINF:-1 ESPN Plus
 http://tv.teleclub.xyz/live/HLS_01/ESPNPLUS_MX/index.m3u8
