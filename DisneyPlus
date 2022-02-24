@@ -30,3 +30,17 @@ http://tv.teleclub.xyz/live/HLS_01/NATGEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura", NATGEO Wild [Club]
 http://tv.teleclub.xyz/live/HLS_01/NATGEO_WILD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet [Club]
+http://tv.teleclub.xyz/live/HLS_01/ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX [Club]
+http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 MX [Club]
+http://tv.teleclub.xyz/live/HLS_01/ESPN2_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 MX [Club]
+http://tv.teleclub.xyz/live/HLS_01/ESPN3_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Plus MX [Club]
+http://tv.teleclub.xyz/live/HLS_01/ESPNPLUS_MX/index.m3u8
