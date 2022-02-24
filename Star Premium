@@ -12,6 +12,9 @@ http://tv.teleclub.xyz/live/HLS_01/AZTECA7/index.m3u8
 #EXTINF:-1 Lifetime
 http://tv.teleclub.xyz/live/HLS_01/LIFETIME/index.m3u8
 
+#EXTINF:-1 BabyTV
+http://tv.teleclub.xyz/live/HLS_01/BABY_TV/index.m3u8
+
 #EXTINF:-1 Fox Sports MX
 http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS_MX/index.m3u8
 
@@ -20,6 +23,9 @@ http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS2_MX/index.m3u8
 
 #EXTINF:-1 Fox Sports 3
 http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS3_MX/index.m3u8
+
+#EXTINF:-1 HOLA TV
+http://tv.teleclub.xyz/live/HLS_01/HOLATV/index.m3u8
 
 #EXTINF:-1 Star Channel
 http://tv.teleclub.xyz/live/HLS_01/STAR/index.m3u8
