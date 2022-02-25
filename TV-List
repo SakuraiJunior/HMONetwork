@@ -81,6 +81,9 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 #EXTINF:-1 Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
+#EXTINF:-1 Distrito Comedia
+http://tv.teleclub.xyz/live/HLS_01/DISTRITOCOMEDIA/index.m3u8
+
 #EXTINF:-1 ESPN MX
 http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
 
