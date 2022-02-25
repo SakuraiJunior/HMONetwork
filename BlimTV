@@ -8,22 +8,31 @@
 #
 
 #EXTINF:-1 Afizzionados
+http://tv.teleclub.xyz/live/HLS_01/AFIZZIONADOS/index.m3u8
 
 #EXTINF:-1 Antena3
+http://tv.teleclub.xyz/live/HLS_01/ANTENA3/index.m3u8
 
 #EXTINF:-1 BitMe
+http://tv.teleclub.xyz/live/HLS_01/BITME/index.m3u8
 
 #EXTINF:-1 CaracolTV
+http://tv.teleclub.xyz/live/HLS_01/CARACOLTV/index.m3u8
 
 #EXTINF:-1 Canal 5
+http://tv.teleclub.xyz/live/HLS_01/CANAL05/index.m3u8
 
 #EXTINF:-1 De Pelicula
-URL:http://tv.teleclub.xyz/live/HLS_01/DEPELICULA/index.m3u8
+http://tv.teleclub.xyz/live/HLS_01/DEPELICULA/index.m3u8
 
 #EXTINF:-1 Distrito Comedia
 http://tv.teleclub.xyz/live/HLS_01/DISTRITOCOMEDIA/index.m3u8
 
-#EXTINF:-1 Golden Choice
+#EXTINF:-1 Golden
+http://tv.teleclub.xyz/live/HLS_01/GOLDEN/index.m3u8
+
+#EXTINF:-1 Golden Edge
+http://tv.teleclub.xyz/live/HLS_01/GOLDEN_EDGE/index.m3u8
 
 #EXTINF:-1 Hola TV
 http://tv.teleclub.xyz/live/HLS_01/HOLATV/index.m3u8
@@ -31,11 +40,11 @@ http://tv.teleclub.xyz/live/HLS_01/HOLATV/index.m3u8
 #EXTINF:-1 Las Estrellas
 http://tv.teleclub.xyz/live/HLS_01/LAS_ESTRELLAS/index.m3u8
 
-#EXTINF:-1 Nueve
-
 #EXTINF:-1 Telemundo
 http://tv.teleclub.xyz/live/HLS_01/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 TUDN
+http://tv.teleclub.xyz/live/HLS_01/TUDN/index.m3u8
 
 #EXTINF:-1 Univision
+http://tv.teleclub.xyz/live/HLS_01/UNIVISION/index.m3u8
