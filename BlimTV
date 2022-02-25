@@ -18,16 +18,23 @@
 #EXTINF:-1 Canal 5
 
 #EXTINF:-1 De Pelicula
+URL:http://tv.teleclub.xyz/live/HLS_01/DEPELICULA/index.m3u8
+
+#EXTINF:-1 Distrito Comedia
+http://tv.teleclub.xyz/live/HLS_01/DISTRITOCOMEDIA/index.m3u8
 
 #EXTINF:-1 Golden Choice
 
 #EXTINF:-1 Hola TV
+http://tv.teleclub.xyz/live/HLS_01/HOLATV/index.m3u8
 
 #EXTINF:-1 Las Estrellas
+http://tv.teleclub.xyz/live/HLS_01/LAS_ESTRELLAS/index.m3u8
 
 #EXTINF:-1 Nueve
 
 #EXTINF:-1 Telemundo
+http://tv.teleclub.xyz/live/HLS_01/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 TUDN
 
