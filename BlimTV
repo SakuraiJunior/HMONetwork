@@ -6,17 +6,29 @@
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/BlimTV.m3u
 #
-Las Estrellas
-Hola TV
-Canal 5
-TUDN
-Golden Choice
-Nueve
-Antena3
-Afizzionados
-CaracolTV
-Telemundo
-Univision
-De Pelicula
 
-#EXTINF:
+#EXTINF:-1 Afizzionados
+
+#EXTINF:-1 Antena3
+
+#EXTINF:-1 BitMe
+
+#EXTINF:-1 CaracolTV
+
+#EXTINF:-1 Canal 5
+
+#EXTINF:-1 De Pelicula
+
+#EXTINF:-1 Golden Choice
+
+#EXTINF:-1 Hola TV
+
+#EXTINF:-1 Las Estrellas
+
+#EXTINF:-1 Nueve
+
+#EXTINF:-1 Telemundo
+
+#EXTINF:-1 TUDN
+
+#EXTINF:-1 Univision
