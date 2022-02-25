@@ -13,14 +13,8 @@ http://tv.teleclub.xyz/live/HLS_01/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 Antena3
 http://tv.teleclub.xyz/live/HLS_01/ANTENA3/index.m3u8
 
-#EXTINF:-1 BitMe
-http://tv.teleclub.xyz/live/HLS_01/BITME/index.m3u8
-
 #EXTINF:-1 CaracolTV
 http://tv.teleclub.xyz/live/HLS_01/CARACOLTV/index.m3u8
-
-#EXTINF:-1 Canal 5
-http://tv.teleclub.xyz/live/HLS_01/CANAL05/index.m3u8
 
 #EXTINF:-1 De Pelicula
 http://tv.teleclub.xyz/live/HLS_01/DEPELICULA/index.m3u8
