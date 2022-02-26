@@ -7,30 +7,32 @@
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/PPV.m3u
 #
 
-#EXTINF:-1 AEW-TV
+#EXTINF:-1 SALA 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 ESPN MX
+#EXTINF:-1 SALA 2
 http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
 
-#EXTINF:-1 Star Action
+#EXTINF:-1 SALA 3
 http://tv.teleclub.xyz/live/HLS_01/STAR_ACTION/index.m3u8
 
-#EXTINF:-1 PeleasTV
+#EXTINF:-1 SALA 4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Triple A Network
+#EXTINF:-1 SALA 5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 
-#EXTINF: EVENTO 1
+#EXTINF:-1 SALA 6
+http://tv.teleclub.xyz/live/HLS_01/HBO2/index.m3u8
+
+#EXTINF:-1 SALA 7
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
 
-#EXTINF: EVENTO 2
+#EXTINF:-1 SALA 8
 http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
 
-#EXTINF: EVENTO 3
+#EXTINF:-1 SALA 9
 http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
 
-#EXTINF: EVENTO 4
+#EXTINF:-1 SALA 10
 http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
-
