@@ -13,6 +13,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF:-1 ESPN MX
 http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
 
+#EXTINF:-1 Star Action
+http://tv.teleclub.xyz/live/HLS_01/STAR_ACTION/index.m3u8
+
 #EXTINF:-1 PeleasTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
