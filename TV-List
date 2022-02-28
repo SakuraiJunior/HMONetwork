@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 26/02/2022
+#ultima actualizacion: 28/02/2022
 #
 #*****************************
 
@@ -84,8 +84,8 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgr
 #EXTINF:-1 Distrito Comedia
 http://tv.teleclub.xyz/live/HLS_01/DISTRITOCOMEDIA/index.m3u8
 
-#EXTINF:-1 ESPN MX
-http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
+#EXTINF:-1 Energeek
+https://panel2.streamingtv-mediacp.online:1936/8006/8006/playlist.m3u8?fbclid=IwAR1hqGn9kyyW7sSCQOax8DPwpq4-YHbltcRGr_pjmALs0dIRAC1IwN8BHao
 
 #EXTINF:-1 Eurolatino
 https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
@@ -192,8 +192,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f
 #EXTINF:-1 MCKT Latino
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 Naruto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 Next TV
+https://panel2.streamingtv-mediacp.online:1936/8004/8004/playlist.m3u8?fbclid=IwAR39M8h0OVDOgzy7Smg0hWD-jRkvD_Ld1Xg64x2m77V0n6m4eAnij4SCPK4
 
 #EXTINF:-1 Nick Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
