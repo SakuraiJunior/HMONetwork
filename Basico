@@ -1,0 +1,245 @@
+#EXTM3U
+
+
+#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+#
+#Canales de Television online a nivel completo y muy cargado
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/BlimTV.m3u
+#
+
+#EXTINF:-1 Cartoon Network
+http://tv.teleclub.xyz/live/HLS_01/CARTOON/index.m3u8
+
+#EXTINF:-1 Disney Channel
+http://tv.teleclub.xyz/live/HLS_01/DISNEY/index.m3u8
+
+#EXTINF:-1 Disney XD
+http://tv.teleclub.xyz/live/HLS_01/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 Disney Jr
+http://tv.teleclub.xyz/live/HLS_01/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 NATGEO Kids
+http://tv.teleclub.xyz/live/HLS_01/NATGEO_KIDS/index.m3u8
+
+#EXTINF:-1 Nickelodeon
+http://tv.teleclub.xyz/live/HLS_01/NICK/index.m3u8
+
+#EXTINF:-1 Nick Jr
+http://tv.teleclub.xyz/live/HLS_01/NICK_JR/index.m3u8
+
+#EXTINF:-1 Tooncast
+http://tv.teleclub.xyz/live/HLS_01/TOONCAST/index.m3u8
+
+#EXTINF:-1 Cartoonito
+http://tv.teleclub.xyz/live/HLS_01/CARTOONITO/index.m3u8
+
+#EXTINF:-1 Discovery Kids
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_KIDS/index.m3u8
+
+#EXTINF:-1 BabyTV
+http://tv.teleclub.xyz/live/HLS_01/BABY_TV/index.m3u8
+
+#EXTINF:-1 Teen Nick
+http://tv.teleclub.xyz/live/HLS_01/TEEN_NICK/index.m3u8
+
+#EXTINF:-1 Nick Toons
+http://tv.teleclub.xyz/live/HLS_01/NICK_TOONS/index.m3u8
+
+#EXTINF:-1 CNN en Español
+http://tv.teleclub.xyz/live/HLS_01/CNN_ESPANOL/index.m3u8
+
+#EXTINF:-1 Glitz
+http://tv.teleclub.xyz/live/HLS_01/GLITZ/index.m3u8
+
+#EXTINF:-1 Russia Today
+http://tv.teleclub.xyz/live/HLS_01/RT_ESPANOL/index.m3u8
+
+#EXTINF:-1 TruTV
+http://tv.teleclub.xyz/live/HLS_01/TRUTV/index.m3u8
+
+#EXTINF:-1 MasChic
+http://tv.teleclub.xyz/live/HLS_01/MASCHIC/index.m3u8
+
+#EXTINF:-1 Lifetime
+http://tv.teleclub.xyz/live/HLS_01/LIFETIME/index.m3u8
+
+#EXTINF:-1 ADN40
+http://tv.teleclub.xyz/live/HLS_01/ADN40/index.m3u8
+
+#EXTINF:-1 HolaTV
+http://tv.teleclub.xyz/live/HLS_01/HOLATV/index.m3u8
+
+#EXTINF:-1 Las Estrellas
+http://tv.teleclub.xyz/live/HLS_01/LAS_ESTRELLAS/index.m3u8
+
+#EXTINF:-1 E! Latinoamerica
+http://tv.teleclub.xyz/live/HLS_01/CANAL_E/index.m3u8
+
+#EXTINF:-1 Telemundo Internacional
+http://tv.teleclub.xyz/live/HLS_01/TELEMUNDO/index.m3u8
+
+#EXTINF:-1 Azteca7
+http://tv.teleclub.xyz/live/HLS_01/AZTECA7/index.m3u8
+
+#EXTINF:-1 Univisión
+http://tv.teleclub.xyz/live/HLS_01/UNIVISION/index.m3u8
+
+#EXTINF:-1 Discovery Channel
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY/index.m3u8
+
+#EXTINF:-1 Discovery Theater
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_THEATER/index.m3u8
+
+#EXTINF:-1 Discovery World
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_WORLD/index.m3u8
+
+#EXTINF:-1 Discovery Turbo
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1 Discovery Sciences
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_SCIENCES/index.m3u8
+
+#EXTINF:-1 Discovery ID
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_ID/index.m3u8
+
+#EXTINF:-1 Discovery H&H
+http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_HYH/index.m3u8
+
+#EXTINF:-1 History Channel
+http://tv.teleclub.xyz/live/HLS_01/HISTORY/index.m3u8
+
+#EXTINF:-1 H2
+http://tv.teleclub.xyz/live/HLS_01/H2/index.m3u8
+
+#EXTINF:-1 National Geography Channel
+http://tv.teleclub.xyz/live/HLS_01/NATGEO/index.m3u8
+
+#EXTINF:-1 NATGEO Wild
+http://tv.teleclub.xyz/live/HLS_01/NATGEO_WILD/index.m3u8
+
+#EXTINF:-1 A&E
+http://tv.teleclub.xyz/live/HLS_01/AE/index.m3u8
+
+#EXTINF:-1 Animal Planet
+http://tv.teleclub.xyz/live/HLS_01/ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 El Gourmet
+http://tv.teleclub.xyz/live/HLS_01/EL_GOURMET/index.m3u8
+
+#EXTINF:-1 TLC
+http://tv.teleclub.xyz/live/HLS_01/TLC/index.m3u8
+
+#EXTINF:-1 CC Latinoamerica
+http://tv.teleclub.xyz/live/HLS_01/COMEDYCENTRAL/index.m3u8
+
+#EXTINF:-1 Universal Channel
+http://tv.teleclub.xyz/live/HLS_01/UNIVERSAL/index.m3u8
+
+#EXTINF:-1 Warner Channel
+http://tv.teleclub.xyz/live/HLS_01/WARNER/index.m3u8
+
+#EXTINF:-1 AXN
+http://tv.teleclub.xyz/live/HLS_01/AXN/index.m3u8
+
+#EXTINF:-1 FXM
+http://tv.teleclub.xyz/live/HLS_01/FXM/index.m3u8
+
+#EXTINF:-1 Paramount
+http://tv.teleclub.xyz/live/HLS_01/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 Studio Universal
+http://tv.teleclub.xyz/live/HLS_01/STUDIO_UNIVERSAL/index.m3u8
+
+#EXTINF:-1 FX
+http://tv.teleclub.xyz/live/HLS_01/FX/index.m3u8
+
+#EXTINF:-1 TBS
+http://tv.teleclub.xyz/live/HLS_01/TBS/index.m3u8
+
+#EXTINF:-1 TNT
+http://tv.teleclub.xyz/live/HLS_01/TNT/index.m3u8
+
+#EXTINF:-1 TNT Series
+http://tv.teleclub.xyz/live/HLS_01/TNT_SERIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax
+http://tv.teleclub.xyz/live/HLS_01/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony
+http://tv.teleclub.xyz/live/HLS_01/SONY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal
+http://tv.teleclub.xyz/live/HLS_01/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel
+http://tv.teleclub.xyz/live/HLS_01/STAR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZamKEa9.png" group-title="Entretenimiento", Star Action
+http://tv.teleclub.xyz/live/HLS_01/STAR_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ITGhUhR.png" group-title="Entretenimiento", Star Classics [Club]
+http://tv.teleclub.xyz/live/HLS_01/STAR_CLASSICS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfN8y5J.png" group-title="Entretenimiento", Star Fun [Club]
+http://tv.teleclub.xyz/live/HLS_01/STAR_FUN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sccOxFn.png" group-title="Entretenimiento", Star Hits [Club]
+http://tv.teleclub.xyz/live/HLS_01/STAR_HITS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zBNtev.png" group-title="Entretenimiento", Star Life [Club]
+http://tv.teleclub.xyz/live/HLS_01/STAR_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5A2qcE2.png" group-title="Entretenimiento", Star Series [Club]
+http://tv.teleclub.xyz/live/HLS_01/STAR_SERIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/luS3k2K.png" group-title="Entretenimiento", Star Cinema [Club]
+http://tv.teleclub.xyz/live/HLS_01/STAR_CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khseOCi.png" group-title="Entretenimiento", Star Comedy [Club]
+http://tv.teleclub.xyz/live/HLS_01/STAR_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden [Club]
+http://tv.teleclub.xyz/live/HLS_01/GOLDEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge [Club]
+http://tv.teleclub.xyz/live/HLS_01/GOLDEN_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC [Club]
+http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE [Club]
+http://tv.teleclub.xyz/live/HLS_01/SPACE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV [Club]
+http://tv.teleclub.xyz/live/HLS_01/MTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="Musica", Nick Music [Club]
+http://tv.teleclub.xyz/live/HLS_01/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN [Club]
+http://tv.teleclub.xyz/live/HLS_01/TUDN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados [Club]
+http://tv.teleclub.xyz/live/HLS_01/AFIZZIONADOS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports [Club]
+http://tv.teleclub.xyz/live/HLS_01/CLARO_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv Plus [Club]
+http://tv.teleclub.xyz/live/HLS_01/DIRECTV_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX
+http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
+
+#EXTINF:-1 ESPN 2
+http://tv.teleclub.xyz/live/HLS_01/ESPN2_MX/index.m3u8
+
+#EXTINF:-1 Fox Sports MX
+http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS_MX/index.m3u8
+
+#EXTINF:-1 Fox Sports 2
+http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS2_MX/index.m3u8
+
+#EXTINF:-1 Fox Sports 3
+http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS3_MX/index.m3u8
