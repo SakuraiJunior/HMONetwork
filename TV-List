@@ -81,8 +81,8 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 #EXTINF:-1 Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
-#EXTINF:-1 Distrito Comedia
-http://tv.teleclub.xyz/live/HLS_01/DISTRITOCOMEDIA/index.m3u8
+#EXTINF:-1 Demo-channel
+
 
 #EXTINF:-1 Energeek
 https://panel2.streamingtv-mediacp.online:1936/8006/8006/playlist.m3u8?fbclid=IwAR1hqGn9kyyW7sSCQOax8DPwpq4-YHbltcRGr_pjmALs0dIRAC1IwN8BHao
