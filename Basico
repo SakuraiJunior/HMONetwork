@@ -163,73 +163,73 @@ http://tv.teleclub.xyz/live/HLS_01/TNT/index.m3u8
 #EXTINF:-1 TNT Series
 http://tv.teleclub.xyz/live/HLS_01/TNT_SERIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax
+#EXTINF:-1 Cinemax
 http://tv.teleclub.xyz/live/HLS_01/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony
+#EXTINF:-1 Sony Channel
 http://tv.teleclub.xyz/live/HLS_01/SONY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal
+#EXTINF:-1 Cinecanal
 http://tv.teleclub.xyz/live/HLS_01/CINECANAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel
+#EXTINF:-1 Star Channel
 http://tv.teleclub.xyz/live/HLS_01/STAR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZamKEa9.png" group-title="Entretenimiento", Star Action
+#EXTINF:-1 Star Action
 http://tv.teleclub.xyz/live/HLS_01/STAR_ACTION/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ITGhUhR.png" group-title="Entretenimiento", Star Classics [Club]
+#EXTINF:-1 Star Classics
 http://tv.teleclub.xyz/live/HLS_01/STAR_CLASSICS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MfN8y5J.png" group-title="Entretenimiento", Star Fun [Club]
+#EXTINF:-1 Star Fun
 http://tv.teleclub.xyz/live/HLS_01/STAR_FUN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sccOxFn.png" group-title="Entretenimiento", Star Hits [Club]
+#EXTINF:-1 Star Hits
 http://tv.teleclub.xyz/live/HLS_01/STAR_HITS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zBNtev.png" group-title="Entretenimiento", Star Life [Club]
+#EXTINF:-1 Star Life
 http://tv.teleclub.xyz/live/HLS_01/STAR_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5A2qcE2.png" group-title="Entretenimiento", Star Series [Club]
+#EXTINF:-1 Star Series
 http://tv.teleclub.xyz/live/HLS_01/STAR_SERIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/luS3k2K.png" group-title="Entretenimiento", Star Cinema [Club]
+#EXTINF:-1 Star Cinema
 http://tv.teleclub.xyz/live/HLS_01/STAR_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/khseOCi.png" group-title="Entretenimiento", Star Comedy [Club]
+#EXTINF:-1 Star Comedy
 http://tv.teleclub.xyz/live/HLS_01/STAR_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden [Club]
+#EXTINF:-1 Golden Choice
 http://tv.teleclub.xyz/live/HLS_01/GOLDEN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge [Club]
+#EXTINF:-1 Golden Edge
 http://tv.teleclub.xyz/live/HLS_01/GOLDEN_EDGE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC [Club]
+#EXTINF:-1 AMC
 http://tv.teleclub.xyz/live/HLS_01/AMC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE [Club]
+#EXTINF:-1 Canal SPACE
 http://tv.teleclub.xyz/live/HLS_01/SPACE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV [Club]
+#EXTINF:-1 MTV Latinoamerica
 http://tv.teleclub.xyz/live/HLS_01/MTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="Musica", Nick Music [Club]
+#EXTINF:-1 Nick Music
 http://tv.teleclub.xyz/live/HLS_01/NICK_MUSIC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN [Club]
+#EXTINF:-1 TUDN
 http://tv.teleclub.xyz/live/HLS_01/TUDN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados [Club]
+#EXTINF:-1 Afizzionados
 http://tv.teleclub.xyz/live/HLS_01/AFIZZIONADOS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports [Club]
+#EXTINF:-1 Claro Sports
 http://tv.teleclub.xyz/live/HLS_01/CLARO_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv Plus [Club]
+#EXTINF:-1 Directv Plus
 http://tv.teleclub.xyz/live/HLS_01/DIRECTV_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX
+#EXTINF:-1 ESPN MX
 http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
 
 #EXTINF:-1 ESPN 2
