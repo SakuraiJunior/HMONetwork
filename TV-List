@@ -87,9 +87,6 @@ http://tv.teleclub.xyz/live/HLS_01/CARTOON/index.m3u8
 #EXTINF:-1 Energeek
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
-#EXTINF:-1 Energeek Radio
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
-
 #EXTINF:-1 Eurolatino
 https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
 
@@ -194,6 +191,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f
 
 #EXTINF:-1 MCKT Latino
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 NextTV
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
 
 #EXTINF:-1 Nick Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
