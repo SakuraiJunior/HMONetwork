@@ -87,8 +87,8 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 #EXTINF:-1 Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
-#EXTINF:-1 Demo-channel
-http://tv.teleclub.xyz/live/HLS_01/CARTOON/index.m3u8
+#EXTINF:-1 Dragon Ball Z
+https://vsd79.mycdn.me/hls/2192829647431.m3u8/sig/mtr6MlnmqsA/expires/1646302003809/srcIp/192.141.244.106/clientType/0/srcAg/CHROME_ANDROID/mid/5277488717383/2192829647431_high/index.m3u8
 
 #EXTINF:-1 Energeek
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
@@ -323,6 +323,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 Zapping TV
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
 × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × ×
 
 #EXTINF-1: Fashion Bikini TV
