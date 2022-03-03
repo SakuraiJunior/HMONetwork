@@ -147,6 +147,9 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 IGN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 Inspiranime
+https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
+
 #EXTINF:-1 Impactovision
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
 
@@ -317,8 +320,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #× × × × × × × × - ○ M A R A T O N E S - T V S E R I E S ○ - × × × × ×
 
-#EXTINF:-1 Dragon Ball Z
-https://vsd79.mycdn.me/hls/2192829647431.m3u8
+#EXTINF:-1 
 
 #EXTINF:-1 El Chavo
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
