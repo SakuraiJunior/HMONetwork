@@ -87,9 +87,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 #EXTINF:-1 Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
-#EXTINF:-1 Dragon Ball Z
-https://vsd79.mycdn.me/hls/2192829647431.m3u8/sig/mtr6MlnmqsA/expires/1646302003809/srcIp/192.141.244.106/clientType/0/srcAg/CHROME_ANDROID/mid/5277488717383/2192829647431_high/index.m3u8
-
 #EXTINF:-1 Energeek Norte
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
@@ -101,9 +98,6 @@ https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
 
 #EXTINF:-1 Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 El Chavo
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 #EXTINF:-1 El Financiero Mexico
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -165,9 +159,6 @@ https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
 #EXTINF:-1 Larsavision
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
-#EXTINF:-1 Los Simpsons
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-
 #EXTINF:-1 Loop Latino
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
 
@@ -200,9 +191,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f
 
 #EXTINF:-1 MCKT Latino
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 Naruto Online
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5da0c85bd2c9c10009370984/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0f69bbcf-27e3-49a3-8da6-f79dfaeb2833&deviceVersion=98.0.4758&appVersion=5.108.2-89717a4be7d2108db3c5060a46d769d1bf31009b&deviceType=web&deviceMake=chrome&sid=65b3e3a3-9221-11ec-8cdb-0242ac110003&advertisingId=&deviceLat=37.2379&deviceLon=-121.7946&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhOTYwMjZiLTBiMGUtNDY4MC04YmZjLTc2MmQxOTdlMzM5ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2NWIzZTNhMy05MjIxLTExZWMtOGNkYi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjIxNi4xNTEuMTgzLjcwIiwiY2l0eSI6IlNhbiBKb3NlIiwicG9zdGFsQ29kZSI6Ijk1MTE5IiwiY291bnRyeSI6IlVTIiwiZG1hIjo4MDcsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNy4yMzc5LCJkZXZpY2VMb24iOi0xMjEuNzk0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTguMC40NzU4IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwOC4yLTg5NzE3YTRiZTdkMjEwOGRiM2M1MDYwYTQ2ZDc2OWQxYmYzMTAwOWIiLCJjbGllbnRJRCI6IjBmNjliYmNmLTI3ZTMtNDlhMy04ZGE2LWY3OWRmYWViMjgzMyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xvc19BbmdlbGVzIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIzIn19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhpNjM5NWRxZEgxV3ptakhMeFNkbGhkeGhocXV4amRnYVJRQ1U4VnI4NjQxQzFrWXFhYjBSSzlYNjkzUUtVWkdJNTd2dGMiLCJmd1ZjSUQyQ29wcGEiOiIwZjY5YmJjZi0yN2UzLTQ5YTMtOGRhNi1mNzlkZmFlYjI4MzMiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjBmNjliYmNmLTI3ZTMtNDlhMy04ZGE2LWY3OWRmYWViMjgzMyIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWGk2Mzk1ZHFkSDFXem1qSEx4U2RsaGR4aGhxdXhqZGdhUlFDVThWcjg2NDFDMWtZcWFiMFJLOVg2OTNRS1VaR0k1N3Z0YyIsImZtc19oaF9yYW1wX2lkIjoiVU5NQVRDSEVEIn19LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQ1MzcyMDY3LCJqdGkiOiJkYzFhMTNhNC1mYmQ0LTQ2MDEtYjkzMi0wNWI4ZTc2M2U3ODMiLCJpYXQiOjE2NDUzNDMyNjcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNR1kyT1dKaVkyWXRNamRsTXkwME9XRXpMVGhrWVRZdFpqYzVaR1poWldJeU9ETXoifQ.6wjgobsqXiIJcS318rhWCNIAIQtMo5mmgidbmf_WPYY
 
 #EXTINF:-1 Nick Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -270,14 +258,8 @@ https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 #EXTINF:-1 Runtime Latino
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 Ren y Stimpy
-https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
-
 #EXTINF:-1 Shonen Jump
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 South Park
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 Top Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
@@ -332,6 +314,27 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 Zapping TV
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+× × × × × × × × - ○ M A R A T O N E S - T V S E R I E S ○ - × × × × ×
+
+#EXTINF:-1 Dragon Ball Z
+https://vsd79.mycdn.me/hls/2192829647431.m3u8/sig/mtr6MlnmqsA/expires/1646302003809/srcIp/192.141.244.106/clientType/0/srcAg/CHROME_ANDROID/mid/5277488717383/2192829647431_high/index.m3u8
+
+#EXTINF:-1 El Chavo
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+#EXTINF:-1 Los Simpsons
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 Naruto
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5da0c85bd2c9c10009370984/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0f69bbcf-27e3-49a3-8da6-f79dfaeb2833&deviceVersion=98.0.4758&appVersion=5.108.2-89717a4be7d2108db3c5060a46d769d1bf31009b&deviceType=web&deviceMake=chrome&sid=65b3e3a3-9221-11ec-8cdb-0242ac110003&advertisingId=&deviceLat=37.2379&deviceLon=-121.7946&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhOTYwMjZiLTBiMGUtNDY4MC04YmZjLTc2MmQxOTdlMzM5ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2NWIzZTNhMy05MjIxLTExZWMtOGNkYi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjIxNi4xNTEuMTgzLjcwIiwiY2l0eSI6IlNhbiBKb3NlIiwicG9zdGFsQ29kZSI6Ijk1MTE5IiwiY291bnRyeSI6IlVTIiwiZG1hIjo4MDcsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNy4yMzc5LCJkZXZpY2VMb24iOi0xMjEuNzk0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTguMC40NzU4IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwOC4yLTg5NzE3YTRiZTdkMjEwOGRiM2M1MDYwYTQ2ZDc2OWQxYmYzMTAwOWIiLCJjbGllbnRJRCI6IjBmNjliYmNmLTI3ZTMtNDlhMy04ZGE2LWY3OWRmYWViMjgzMyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xvc19BbmdlbGVzIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIzIn19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhpNjM5NWRxZEgxV3ptakhMeFNkbGhkeGhocXV4amRnYVJRQ1U4VnI4NjQxQzFrWXFhYjBSSzlYNjkzUUtVWkdJNTd2dGMiLCJmd1ZjSUQyQ29wcGEiOiIwZjY5YmJjZi0yN2UzLTQ5YTMtOGRhNi1mNzlkZmFlYjI4MzMiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjBmNjliYmNmLTI3ZTMtNDlhMy04ZGE2LWY3OWRmYWViMjgzMyIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWGk2Mzk1ZHFkSDFXem1qSEx4U2RsaGR4aGhxdXhqZGdhUlFDVThWcjg2NDFDMWtZcWFiMFJLOVg2OTNRS1VaR0k1N3Z0YyIsImZtc19oaF9yYW1wX2lkIjoiVU5NQVRDSEVEIn19LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQ1MzcyMDY3LCJqdGkiOiJkYzFhMTNhNC1mYmQ0LTQ2MDEtYjkzMi0wNWI4ZTc2M2U3ODMiLCJpYXQiOjE2NDUzNDMyNjcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNR1kyT1dKaVkyWXRNamRsTXkwME9XRXpMVGhrWVRZdFpqYzVaR1poWldJeU9ETXoifQ.6wjgobsqXiIJcS318rhWCNIAIQtMo5mmgidbmf_WPYY
+
+#EXTINF:-1 Ren y Stimpy
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
+
+#EXTINF:-1 South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × × ×
 
