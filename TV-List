@@ -148,7 +148,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 IGN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://ign-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 Inspiranime
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
