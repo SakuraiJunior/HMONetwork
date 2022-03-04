@@ -33,6 +33,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 #EXTINF:-1 ACS Network
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
+#EXTINF:-1 AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+
 #EXTINF:-1 Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
