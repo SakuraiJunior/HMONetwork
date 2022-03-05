@@ -63,6 +63,27 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 #EXTINF:-1 Estrella TV , group-title="Basico"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 EWTN , group-title="Basico"
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF:-1 France24 , group-title="Basico"
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 Futbol Network , group-title="Basico"
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+
+#EXTINF:-1 Foro TV , group-title="Basico"
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 Latino Kids , group-title="Basico"
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 Larsavision , group-title="Basico"
+https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
+
+#EXTINF:-1 LocomotionTV , group-title="Basico"
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 
 #EXTINF:-1 Butaca TV , group-title="Premium"
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -112,26 +133,11 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ExtremaTV , group-title="Deluxe"
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 Estrella TV , group-title="Basico"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 ESR , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 EWTN , group-title="Basico"
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
-
 #EXTINF:-1 EXtv , group-title="Deluxe"
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 France24 , group-title="Basico"
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 Futbol Network , group-title="Basico"
-https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
-
-#EXTINF:-1 Foro TV , group-title="Basico"
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 Fashion TV , group-title="Deluxe"
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
@@ -166,14 +172,8 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklis
 #EXTINF:-1 Latino Kids , group-title="Basico"
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 Larsavision , group-title="Basico"
-https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
-
 #EXTINF:-1 Loop Latino , group-title="Premium"
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
-
-#EXTINF:-1 LocomotionTV , group-title="Basico"
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 Mariavision , group-title="Deluxe"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
