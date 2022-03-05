@@ -12,307 +12,307 @@
 #EXTINF:-1 Tip Me
 https://ko-fi.com/Z8Z1AFLBG
 
-#EXTINF:-1 ADN 40
+#EXTINF:-1 ADN 40 , group-title="Basico"
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?WebM3UCL
 
-#EXTINF:-1 Azteca Uno
+#EXTINF:-1 Azteca Uno , group-title="Basico"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 Arirang
+#EXTINF:-1 Arirang , group-title="Basico"
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 AMX
+#EXTINF:-1 AMX , group-title="Basico"
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
 
-#EXTINF:-1 AEW-TV
+#EXTINF:-1 AEW-TV , group-title="Basico"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 Anime All Day
+#EXTINF:-1 Anime All Day , group-title="Basico"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 ACS Network
+#EXTINF:-1 ACS Network , group-title="Basico"
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
-#EXTINF:-1 Azteca 7
+#EXTINF:-1 Azteca 7 , group-title="Basico"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 AZTV
+#EXTINF:-1 AZTV , group-title="Basico"
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 BabyFirst
+#EXTINF:-1 BabyFirst , group-title="Basico"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 Butaca TV
+#EXTINF:-1 Butaca TV , group-title="Premium"
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 CGTN En Español
+#EXTINF:-1 CGTN En Español , group-title="Premium"
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 CMC
+#EXTINF:-1 CMC , group-title="Premium"
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1 Conecta TV
+#EXTINF:-1 Conecta TV , group-title="Basico"
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 Canal Extremadura
+#EXTINF:-1 Canal Extremadura , group-title="Premium"
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
 
-#EXTINF:-1 Cinemamas
+#EXTINF:-1 Cinemamas , group-title="Premium"
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 
-#EXTINF:-1 Canal LatinoTV
+#EXTINF:-1 Canal LatinoTV , group-title="Premium"
 https://hd.chileservidores.cl:1936/latina/latina/chunklist_w479243247.m3u8
 
-#EXTINF:-1 Camara de Diputados
+#EXTINF:-1 Camara de Diputados , group-title="Premium"
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
-#EXTINF:-1 CBSN
+#EXTINF:-1 CBSN , group-title="Premium"
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1 Canal Once
+#EXTINF:-1 Canal Once , group-title="Basico"
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
 
-#EXTINF:-1 Canal 44
+#EXTINF:-1 Canal 44 , group-title="Basico"
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 Cine Real
+#EXTINF:-1 Cine Real , group-title="Premium"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
-#EXTINF:-1 Comedy Central
+#EXTINF:-1 Comedy Central , group-title="Basico"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Cine Estelar
+#EXTINF:-1 Cine Estelar , group-title="Premium"
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
 
-#EXTINF:-1 Dreiko TV
+#EXTINF:-1 Dreiko TV , group-title="Premium"
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
-#EXTINF:-1 Energeek Norte
+#EXTINF:-1 Energeek Norte , group-title="Premium"
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
-#EXTINF:-1 Energeek Sur
+#EXTINF:-1 Energeek Sur , group-title="Deluxe"
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
 
-#EXTINF:-1 Eurolatino
+#EXTINF:-1 Eurolatino , group-title="Deluxe"
 https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
 
-#EXTINF:-1 Euronews
+#EXTINF:-1 Euronews , group-title="Deluxe"
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 El Financiero Mexico
+#EXTINF:-1 El Financiero Mexico , group-title="Basico"
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 ExtremaTV
+#EXTINF:-1 ExtremaTV , group-title="Deluxe"
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 Estrella TV
+#EXTINF:-1 Estrella TV , group-title="Basico"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 ESR
+#EXTINF:-1 ESR , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 EWTN
+#EXTINF:-1 EWTN , group-title="Basico"
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
 
-#EXTINF:-1 EXtv
+#EXTINF:-1 EXtv , group-title="Deluxe"
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 France24
+#EXTINF:-1 France24 , group-title="Basico"
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 Futbol Network
+#EXTINF:-1 Futbol Network , group-title="Basico"
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 
-#EXTINF:-1 Foro TV
+#EXTINF:-1 Foro TV , group-title="Basico"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 Fashion TV
+#EXTINF:-1 Fashion TV , group-title="Deluxe"
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 
-#EXTINF:-1 Fashion Bikini TV
+#EXTINF:-1 Fashion Bikini TV , group-title="Deluxe"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 Flash HD
+#EXTINF:-1 Flash HD , group-title="Deluxe"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 
-#EXTINF:-1 Fuel TV
+#EXTINF:-1 Fuel TV , group-title="Deluxe"
 https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 GarageTV
+#EXTINF:-1 GarageTV , group-title="Deluxe"
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
 
-#EXTINF:-1 HD Fashion
+#EXTINF:-1 HD Fashion , group-title="Premium"
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 IGN
+#EXTINF:-1 IGN , group-title="Deluxe"
 https://ign-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 Inspiranime
+#EXTINF:-1 Inspiranime , group-title="Premium"
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
 
-#EXTINF:-1 Impactovision
+#EXTINF:-1 Impactovision , group-title="Deluxe"
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 JusticiaTV
+#EXTINF:-1 JusticiaTV , group-title="Deluxe"
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
 
-#EXTINF:-1 Latino Kids
+#EXTINF:-1 Latino Kids , group-title="Basico"
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 Larsavision
+#EXTINF:-1 Larsavision , group-title="Basico"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
-#EXTINF:-1 Loop Latino
+#EXTINF:-1 Loop Latino , group-title="Premium"
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
 
-#EXTINF:-1 LocomotionTV
+#EXTINF:-1 LocomotionTV , group-title="Basico"
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 Mariavision
+#EXTINF:-1 Mariavision , group-title="Deluxe"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-1 Music Top
+#EXTINF:-1 Music Top , group-title="Deluxe"
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 Mi TV
+#EXTINF:-1 Mi TV , group-title="Deluxe"
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 Multimedios
+#EXTINF:-1 Multimedios , group-title="Basico"
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?WebM3UCL
 
-#EXTINF:-1 Mundo de la musica
+#EXTINF:-1 Mundo de la musica , group-title="Premium"
 https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
 
-#EXTINF:-1 MTVLA
+#EXTINF:-1 MTVLA , group-title="Premium"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 MTV Animaciones
+#EXTINF:-1 MTV Animaciones , group-title="Deluxe"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 Motorvision
+#EXTINF:-1 Motorvision , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 MCKT Latino
+#EXTINF:-1 MCKT Latino , group-title="Premium"
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 Nick Junior
+#EXTINF:-1 Nick Junior , group-title="Basico"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Nickteen
+#EXTINF:-1 Nickteen , group-title="Basico"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Nickelodeon
+#EXTINF:-1 Nickelodeon , group-title="Premium"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 NHK World
+#EXTINF:-1 NHK World , group-title="Deluxe"
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 NFL Network
+#EXTINF:-1 NFL Network , group-title="Deluxe"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true&profilesFromStream=true
 
-#EXTINF:-1 NJPW World
+#EXTINF:-1 NJPW World , group-title="Deluxe"
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 
-#EXTINF:-1 On Radio KPop
+#EXTINF:-1 On Radio KPop , group-title="Premium"
 https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
 
-#EXTINF:-1 PeleasTV
+#EXTINF:-1 PeleasTV , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Pinguino TV
+#EXTINF:-1 Pinguino TV , group-title="Basico"
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
-#EXTINF:-1 PopTV
+#EXTINF:-1 PopTV , group-title="Premium"
 https://v4.tustreaming.cl/poptv/index.m3u8
 
-#EXTINF:-1 PTV Malaga
+#EXTINF:-1 PTV Malaga , group-title="Premium"
 https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 PlutoTV Series
+#EXTINF:-1 PlutoTV Series , group-title="Basico"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 PyP
+#EXTINF:-1 PyP , group-title="Premium"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Paramount Plus
+#EXTINF:-1 Paramount Plus , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Planeta Junior
+#EXTINF:-1 Planeta Junior , group-title="Basico"
 https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
 
-#EXTINF:-1 Panamericana
+#EXTINF:-1 Panamericana , group-title="Basico"
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 Retroplus
+#EXTINF:-1 Retroplus , group-title="Basico"
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 Retroplus 2
+#EXTINF:-1 Retroplus 2 , group-title="Deluxe"
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 RedBull
+#EXTINF:-1 RedBull , group-title="Deluxe"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 ROH-TV
+#EXTINF:-1 ROH-TV , group-title="Deluxe"
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
-#EXTINF:-1 Runtime Latino
+#EXTINF:-1 Runtime Latino , group-title="Premium"
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 Shonen Jump
+#EXTINF:-1 Shonen Jump , group-title="Basico"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 Top Cine
+#EXTINF:-1 Top Cine , group-title="Basico"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 TVG America
+#EXTINF:-1 TVG America , group-title="Premium"
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
-#EXTINF:-1 Teleplay
+#EXTINF:-1 Teleplay , group-title="Basico"
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 
-#EXTINF:-1 TV Mexiquense
+#EXTINF:-1 TV Mexiquense , group-title="Basico"
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1 Telepacifico
+#EXTINF:-1 Telepacifico , group-title="Deluxe"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
-#EXTINF:-1 Telecentro
+#EXTINF:-1 Telecentro , group-title="Deluxe"
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
 
-#EXTINF:-1 Teleritmo
+#EXTINF:-1 Teleritmo , group-title="Deluxe"
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 Tu Cine
+#EXTINF:-1 Tu Cine , group-title="Deluxe"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 Top Latino
+#EXTINF:-1 Top Latino , group-title="Deluxe"
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
-#EXTINF:-1 TV Costa
+#EXTINF:-1 TV Costa , group-title="Deluxe"
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 Teleformula
+#EXTINF:-1 Teleformula , group-title="Basico"
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:-1 Telemusica
+#EXTINF:-1 Telemusica , group-title="Deluxe"
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
-#EXTINF:-1 TVMas
+#EXTINF:-1 TVMas , group-title="Deluxe"
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 Triple A Network
+#EXTINF:-1 Triple A Network , group-title="Premium"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 
-#EXTINF:-1 VEVO Latino
+#EXTINF:-1 VEVO Latino , group-title="Premium"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
-#EXTINF:-1 Videorola 
+#EXTINF:-1 Videorola , group-title="Basico"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
-#EXTINF:-1 WOWTV
+#EXTINF:-1 WOWTV , group-title="Deluxe"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-1 Zapping TV
+#EXTINF:-1 Zapping TV , group-title="Deluxe"
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 El Chavo , group-title="Maraton"
