@@ -129,7 +129,26 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 Videorola , group-title="Basico"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
+#EXTINF:-1 Loop Latino , group-title="Premium"
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
 
+#EXTINF:-1 MCKT Latino , group-title="Premium"
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 Nickelodeon , group-title="Premium"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 On Radio KPop , group-title="Premium"
+https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
+
+#EXTINF:-1 PopTV , group-title="Premium"
+https://v4.tustreaming.cl/poptv/index.m3u8
+
+#EXTINF:-1 PTV Malaga , group-title="Premium"
+https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 PyP , group-title="Premium"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 Butaca TV , group-title="Premium"
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -167,6 +186,39 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgr
 #EXTINF:-1 Energeek Norte , group-title="Premium"
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
+#EXTINF:-1 HD Fashion , group-title="Premium"
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+EXTINF:-1 Inspiranime , group-title="Premium"
+https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
+
+#EXTINF:-1 Loop Latino , group-title="Premium"
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
+
+#EXTINF:-1 Mundo de la musica , group-title="Premium"
+https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
+
+#EXTINF:-1 MTVLA , group-title="Premium"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 MCKT Latino , group-title="Premium"
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 Nickelodeon , group-title="Premium"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 Runtime Latino , group-title="Premium"
+https://runtime-espanol-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 TVG America , group-title="Premium"
+https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+
+#EXTINF:-1 Triple A Network , group-title="Premium"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+
+#EXTINF:-1 VEVO Latino , group-title="Premium"
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
 #EXTINF:-1 Energeek Sur , group-title="Deluxe"
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
 
@@ -200,23 +252,14 @@ https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 GarageTV , group-title="Deluxe"
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
 
-#EXTINF:-1 HD Fashion , group-title="Premium"
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
 #EXTINF:-1 IGN , group-title="Deluxe"
 https://ign-sportstribal.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 Inspiranime , group-title="Premium"
-https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
 
 #EXTINF:-1 Impactovision , group-title="Deluxe"
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 JusticiaTV , group-title="Deluxe"
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
-
-#EXTINF:-1 Loop Latino , group-title="Premium"
-https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
 
 #EXTINF:-1 Mariavision , group-title="Deluxe"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
@@ -227,23 +270,11 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 Mi TV , group-title="Deluxe"
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 Mundo de la musica , group-title="Premium"
-https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
-
-#EXTINF:-1 MTVLA , group-title="Premium"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 MTV Animaciones , group-title="Deluxe"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 Motorvision , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 MCKT Latino , group-title="Premium"
-https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 Nickelodeon , group-title="Premium"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 NHK World , group-title="Deluxe"
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -254,20 +285,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 #EXTINF:-1 NJPW World , group-title="Deluxe"
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 
-#EXTINF:-1 On Radio KPop , group-title="Premium"
-https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
-
 #EXTINF:-1 PeleasTV , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 PopTV , group-title="Premium"
-https://v4.tustreaming.cl/poptv/index.m3u8
-
-#EXTINF:-1 PTV Malaga , group-title="Premium"
-https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 PyP , group-title="Premium"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 Paramount Plus , group-title="Deluxe"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -280,12 +299,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 ROH-TV , group-title="Deluxe"
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-
-#EXTINF:-1 Runtime Latino , group-title="Premium"
-https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 TVG America , group-title="Premium"
-https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 #EXTINF:-1 Telepacifico , group-title="Deluxe"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
@@ -310,12 +323,6 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 
 #EXTINF:-1 TVMas , group-title="Deluxe"
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 Triple A Network , group-title="Premium"
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-
-#EXTINF:-1 VEVO Latino , group-title="Premium"
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
 #EXTINF:-1 WOWTV , group-title="Deluxe"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
