@@ -111,6 +111,25 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 Retroplus , group-title="Basico"
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1 Shonen Jump , group-title="Basico"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 Top Cine , group-title="Basico"
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 Teleplay , group-title="Basico"
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
+
+#EXTINF:-1 TV Mexiquense , group-title="Basico"
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 Teleformula , group-title="Basico"
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 Videorola , group-title="Basico"
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
+
 
 #EXTINF:-1 Butaca TV , group-title="Premium"
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -265,20 +284,8 @@ https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 #EXTINF:-1 Runtime Latino , group-title="Premium"
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 Shonen Jump , group-title="Basico"
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 Top Cine , group-title="Basico"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-
 #EXTINF:-1 TVG America , group-title="Premium"
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-
-#EXTINF:-1 Teleplay , group-title="Basico"
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
-
-#EXTINF:-1 TV Mexiquense , group-title="Basico"
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 Telepacifico , group-title="Deluxe"
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
@@ -298,9 +305,6 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 TV Costa , group-title="Deluxe"
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 Teleformula , group-title="Basico"
-https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
 #EXTINF:-1 Telemusica , group-title="Deluxe"
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
@@ -312,9 +316,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 #EXTINF:-1 VEVO Latino , group-title="Premium"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-
-#EXTINF:-1 Videorola , group-title="Basico"
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
 #EXTINF:-1 WOWTV , group-title="Deluxe"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
