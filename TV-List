@@ -318,54 +318,56 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 Zapping TV
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
-#× × × × × × × × - ○ M A R A T O N E S - T V S E R I E S ○ - × × × × ×
-
-#EXTINF:-1 El Chavo
+#EXTINF:-1 El Chavo , group-title="Maraton"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
-#EXTINF:-1 Los Simpsons
+#EXTINF:-1 Los Simpsons , group-title="Maraton"
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:-1 Naruto
+#EXTINF:-1 Naruto , group-title="Maraton"
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5da0c85bd2c9c10009370984/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0f69bbcf-27e3-49a3-8da6-f79dfaeb2833&deviceVersion=98.0.4758&appVersion=5.108.2-89717a4be7d2108db3c5060a46d769d1bf31009b&deviceType=web&deviceMake=chrome&sid=65b3e3a3-9221-11ec-8cdb-0242ac110003&advertisingId=&deviceLat=37.2379&deviceLon=-121.7946&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhOTYwMjZiLTBiMGUtNDY4MC04YmZjLTc2MmQxOTdlMzM5ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2NWIzZTNhMy05MjIxLTExZWMtOGNkYi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjIxNi4xNTEuMTgzLjcwIiwiY2l0eSI6IlNhbiBKb3NlIiwicG9zdGFsQ29kZSI6Ijk1MTE5IiwiY291bnRyeSI6IlVTIiwiZG1hIjo4MDcsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNy4yMzc5LCJkZXZpY2VMb24iOi0xMjEuNzk0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTguMC40NzU4IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwOC4yLTg5NzE3YTRiZTdkMjEwOGRiM2M1MDYwYTQ2ZDc2OWQxYmYzMTAwOWIiLCJjbGllbnRJRCI6IjBmNjliYmNmLTI3ZTMtNDlhMy04ZGE2LWY3OWRmYWViMjgzMyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xvc19BbmdlbGVzIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIzIn19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhpNjM5NWRxZEgxV3ptakhMeFNkbGhkeGhocXV4amRnYVJRQ1U4VnI4NjQxQzFrWXFhYjBSSzlYNjkzUUtVWkdJNTd2dGMiLCJmd1ZjSUQyQ29wcGEiOiIwZjY5YmJjZi0yN2UzLTQ5YTMtOGRhNi1mNzlkZmFlYjI4MzMiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjBmNjliYmNmLTI3ZTMtNDlhMy04ZGE2LWY3OWRmYWViMjgzMyIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWGk2Mzk1ZHFkSDFXem1qSEx4U2RsaGR4aGhxdXhqZGdhUlFDVThWcjg2NDFDMWtZcWFiMFJLOVg2OTNRS1VaR0k1N3Z0YyIsImZtc19oaF9yYW1wX2lkIjoiVU5NQVRDSEVEIn19LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQ1MzcyMDY3LCJqdGkiOiJkYzFhMTNhNC1mYmQ0LTQ2MDEtYjkzMi0wNWI4ZTc2M2U3ODMiLCJpYXQiOjE2NDUzNDMyNjcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNR1kyT1dKaVkyWXRNamRsTXkwME9XRXpMVGhrWVRZdFpqYzVaR1poWldJeU9ETXoifQ.6wjgobsqXiIJcS318rhWCNIAIQtMo5mmgidbmf_WPYY
 
-#EXTINF:-1 Ren y Stimpy
+#EXTINF:-1 Ren y Stimpy , group-title="Maraton"
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
 
-#EXTINF:-1 South Park
+#EXTINF:-1 South Park , group-title="Maraton"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Futurama
+#EXTINF:-1 Futurama , group-title="Maraton"
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 
-#× × × × × × × × × × L I S T A XXX × × × × × × × × × × × × × × × × × × × × × × × × × × ×
-
-#EXTINF-1: Fashion Bikini TV
+#EXTINF:-1 Fashion Bikini TV , group-title="Onlyfans"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
-#EXTINF-1: JennyLive
+#EXTINF:-1 JennyLive , group-title="Onlyfans"
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
-#EXTINF-1: Jasmin.TV
+#EXTINF:-1 Jasmin.TV , group-title="Onlyfans"
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8	
 
-#EXTINF-1: Kaloopy
+#EXTINF:-1 Kaloopy , group-title="Onlyfans"
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8	
 
-#EXTINF-1: Miami TV Mexico
+#EXTINF:-1 Miami TV Mexico , group-title="Onlyfans"
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
 
-#EXTINF-1: Miami TV Latino
+#EXTINF:-1 Miami TV Latino , group-title="Onlyfans"
 https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w923735274.m3u8	
 
-#EXTINF-1: Pornstar
+#EXTINF:-1 Pornstar , group-title="Onlyfans"
 http://cdn.adultiptv.net/pornstar.m3u8
 
-#EXTINF-1: TeleCondor
+#EXTINF:-1 TeleCondor , group-title="Onlyfans"
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/chunklist_w522667883.m3u8
 
-#EXTINF-1: AST
+#EXTINF:-1 AST , group-title="Onlyfans"
 http://www.ast.tv/stream/1/master.m3u8
 
-#EXTINF-1: Latinas
+#EXTINF:-1 Latinas , group-title="Onlyfans"
 http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 Lesbians , group-title="Onlyfans"
+http://cdn.adultiptv.net/lesbians.m3u8
+
+#EXTINF:-1 Gays , group-title="Onlyfans"
+http://cdn.adultiptv.net/gays.m3u8
