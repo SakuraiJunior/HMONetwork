@@ -9,7 +9,7 @@
 #
 #*****************************
 
-#EXTINF:-1 Tip Me
+#EXTINF:-1 Tip Me , group-title="Basico"
 https://ko-fi.com/Z8Z1AFLBG
 
 #EXTINF:-1 ADN 40 , group-title="Basico"
@@ -128,7 +128,10 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 #EXTINF:-1 Videorola , group-title="Basico"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
-- - - - - - - - - - - - - - - - - - - -
+
+#EXTINF:-1 Tip Me , group-title="Premium"
+https://ko-fi.com/Z8Z1AFLBG
+
 #EXTINF:-1 Loop Latino , group-title="Premium"
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
 
@@ -218,7 +221,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 #EXTINF:-1 VEVO Latino , group-title="Premium"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-- - - - - - - - - - - - - - - - - - - -
+
+#EXTINF:-1 Tip Me , group-title="Deluxe"
+https://ko-fi.com/Z8Z1AFLBG
+
 #EXTINF:-1 Energeek Sur , group-title="Deluxe"
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
 
@@ -329,7 +335,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 Zapping TV , group-title="Deluxe"
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-- - - - - - - - - - - - - - - - - - - -
+
+#EXTINF:-1 Tip Me , group-title="Maraton"
+https://ko-fi.com/Z8Z1AFLBG
+
 #EXTINF:-1 El Chavo , group-title="Maraton"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
@@ -347,7 +356,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 #EXTINF:-1 Futurama , group-title="Maraton"
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
-- - - - - - - - - - - - - - - - - - - -
+
+#EXTINF:-1 Tip Me , group-title="Onlyfans"
+https://ko-fi.com/Z8Z1AFLBG
+
 #EXTINF:-1 Fashion Bikini TV , group-title="Onlyfans"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
