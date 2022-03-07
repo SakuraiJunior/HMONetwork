@@ -75,8 +75,8 @@ https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 #EXTINF:-1 Foro TV , group-title="Basico"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 LIM TV, group-title="Basico"
-https://video.radiosenpy.net:8081/limtv/index.m3u8
+#EXTINF:-1 Las Estrellas , group-title="Basico"
+http://edge03-fdo-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
 #EXTINF:-1 Larsavision , group-title="Basico"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
@@ -131,6 +131,9 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 
 #EXTINF:-1 Pay your month here , group-title="Premium"
 https://ko-fi.com/post/Paquete-Premium-F1F5BGEKH
+
+#EXTINF:-1 LIM TV , group-title="Premium"
+https://video.radiosenpy.net:8081/limtv/index.m3u8
 
 #EXTINF:-1 Loop Latino , group-title="Premium"
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
