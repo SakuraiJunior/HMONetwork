@@ -220,22 +220,22 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1 Energeek Sur , group-title="Friki"
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
 
-#EXTINF:-1 Eurolatino , group-title="Deluxe"
+#EXTINF:-1 Eurolatino , group-title="Internacional"
 https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
 
-#EXTINF:-1 Euronews , group-title="Deluxe"
+#EXTINF:-1 Euronews , group-title="Noticias"
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 ExtremaTV , group-title="Deluxe"
+#EXTINF:-1 ExtremaTV , group-title="Religion"
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ESR , group-title="Deluxe"
+#EXTINF:-1 ESR , group-title="Deportes"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 EXtv , group-title="Deluxe"
+#EXTINF:-1 EXtv , group-title="Internacional"
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 Fashion TV , group-title="Deluxe"
+#EXTINF:-1 Fashion TV , group-title=""
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 
 #EXTINF:-1 Fashion Bikini TV , group-title="Deluxe"
@@ -354,9 +354,6 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w2777430
 
 #EXTINF:-1 South Park , group-title="Maraton"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 Tip Me , group-title="Onlyfans"
-https://ko-fi.com/Post/Aifargonrop-solo-18-R5R4BFE5J
 
 #EXTINF:-1 Fashion Bikini TV , group-title="Onlyfans"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
