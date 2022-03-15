@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 12/03/2022
+#ultima actualizacion: 14/03/2022
 #
 #*****************************
 
@@ -17,6 +17,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 Arirang , group-title="Internacional"
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 Aster Max , group-title="Entretenimiento"
+https://stream.projectboom.live/hls/max.m3u8
 
 #EXTINF:-1 AMX , group-title="Noticias"
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
