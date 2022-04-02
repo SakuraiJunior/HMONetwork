@@ -12,9 +12,6 @@
 #EXTINF:-1 Ko-Fi , group-title="CAC"
 https://ko-fi.com/summary/613d0a98-6948-49f2-a08a-36074a9a131a
 
-#EXTINF:-1 BitSo , group-title="CAC"
-https://bitso.com/register?ref=nsbfc
-
 #EXTINF:-1 ADN 40 , group-title="Noticias"
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?WebM3UCL
 
@@ -308,6 +305,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 Zapping TV , group-title="Musica"
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 BitSo , group-title="CAC"
+https://bitso.com/register?ref=nsbfc
 
 EXTINF:-1 Big Buck Bunny , group-title="Maraton"
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
