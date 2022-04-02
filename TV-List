@@ -42,6 +42,9 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 BabyFirst , group-title="Infantil"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 Butaca TV , group-title="Peliculas"
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 Conecta TV , group-title="Musica"
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
@@ -53,6 +56,34 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 #EXTINF:-1 Comedy Central , group-title="Entretenimiento"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 CGTN En Español , group-title="Internacional"
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 CMC , group-title="Musica"
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 Canal Extremadura , group-title="Entretenimiento"
+https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
+
+#EXTINF:-1 Cinemamas , group-title="Peliculas"
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
+
+#EXTINF:-1 Canal LatinoTV , group-title="Peliculas"
+https://hd.chileservidores.cl:1936/latina/latina/chunklist_w479243247.m3u8
+
+#EXTINF:-1 Camara de Diputados , group-title="Nacional"
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+
+#EXTINF:-1 CBSN , group-title="Religion"
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF:-1 Cine Real , group-title="Peliculas"
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+
+#EXTINF:-1 Cine Estelar , group-title="Peliculas"
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
+
 
 #EXTINF:-1 El Financiero Mexico , group-title="Noticias"
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -81,14 +112,47 @@ http://edge03-fdo-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM
 #EXTINF:-1 Larsavision , group-title="Nacional"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
-#EXTINF:-1 LocomotionTV , group-title="Infantil"
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF:-1 Latino Kids , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 LIM TV , group-title="Entretenimiento"
+https://video.radiosenpy.net:8081/limtv/index.m3u8
+
+#EXTINF:-1 Loop Latino , group-title="Musica"
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
+
+#EXTINF:-1 LocomotionTV , group-title="Infantil"
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF:-1 Multimedios , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?WebM3UCL
+
+#EXTINF:-1 MCKT Latino , group-title="Musica"
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 Mundo de la musica , group-title="Musica"
+https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
+
+#EXTINF:-1 MTVLA , group-title="Entretenimiento"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 Mariavision , group-title="Religion"
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+#EXTINF:-1 Music Top , group-title="Musica"
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 Mi TV , group-title="Entretenimiento"
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 MTV Animaciones , group-title="Entretenimiento"
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 Motorvision , group-title="Deportes"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 Nickelodeon , group-title="Infantil"
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 Nick Junior , group-title="Infantil"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -129,17 +193,10 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 Videorola , group-title="Musica"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
-#EXTINF:-1 LIM TV , group-title="Entretenimiento"
-https://video.radiosenpy.net:8081/limtv/index.m3u8
+× × × × × × × × × × × × × × × × ×
+000000000000000000000000000000000
+# # # # # # # # # # # # # # # # #
 
-#EXTINF:-1 Loop Latino , group-title="Musica"
-https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
-
-#EXTINF:-1 MCKT Latino , group-title="Musica"
-https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 Nickelodeon , group-title="Infantil"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 On Radio KPop , group-title="Musica"
 https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
@@ -153,40 +210,10 @@ https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 PyP , group-title="Peliculas"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 Butaca TV , group-title="Peliculas"
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 CGTN En Español , group-title="Internacional"
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 CMC , group-title="Musica"
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-#EXTINF:-1 Canal Extremadura , group-title="Entretenimiento"
-https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
-
-#EXTINF:-1 Cinemamas , group-title="Peliculas"
-https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
-
-#EXTINF:-1 Canal LatinoTV , group-title="Peliculas"
-https://hd.chileservidores.cl:1936/latina/latina/chunklist_w479243247.m3u8
-
-#EXTINF:-1 Camara de Diputados , group-title="Nacional"
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
-
-#EXTINF:-1 CBSN , group-title="Religion"
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:-1 Cine Real , group-title="Peliculas"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-
-#EXTINF:-1 Cine Estelar , group-title="Peliculas"
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
-
 #EXTINF:-1 Dreiko TV , group-title="Entretenimiento"
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
-#EXTINF:-1 Energeek Norte , group-title="Friki"
+#EXTINF:-1 Energeek , group-title="Friki"
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
 #EXTINF:-1 HD Fashion , group-title="Vanidades"
@@ -222,7 +249,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 #EXTINF:-1 VEVO Latino , group-title="Musica"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
-#EXTINF:-1 Energeek Sur , group-title="Friki"
+#EXTINF:-1 Energeek 2, group-title="Friki"
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
 
 #EXTINF:-1 Eurolatino , group-title="Internacional"
