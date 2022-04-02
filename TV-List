@@ -150,9 +150,6 @@ https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 HD Fashion , group-title="Vanidades"
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-EXTINF:-1 Inspiranime , group-title="Friki"
-https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
-
 #EXTINF:-1 IGN , group-title="Friki"
 https://ign-sportstribal.amagi.tv/playlist.m3u8
 
@@ -314,6 +311,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 Zapping TV , group-title="Musica"
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+EXTINF:-1 Big Bad Bunny , group-title="Maraton"
+https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
 
 #EXTINF:-1 Futurama , group-title="Maraton"
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
