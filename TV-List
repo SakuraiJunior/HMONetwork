@@ -315,9 +315,6 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 EXTINF:-1 Big Buck Bunny , group-title="Maraton"
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w240368915.m3u8
 
-#EXTINF:-1 Futurama , group-title="Maraton"
-https://m3u-editor.com/serve/televitolibre/511000607.m3u8
-
 #EXTINF:-1 Kenal y Kel , group-title="Maraton"
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
