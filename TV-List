@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 4/04/2022
+#ultima actualizacion: 5/04/2022
 #
 #*****************************
 
@@ -96,10 +96,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac7
 #EXTINF:-1 Estrella News , group-title="Internacional"
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
 
-#EXTINF:-1 Energeek , group-title="Friki"
+#EXTINF:-1 Energeek 2 , group-title="Friki"
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
-#EXTINF:-1 Energeek 2, group-title="Friki"
+#EXTINF:-1 Energeek, group-title="Friki"
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
 
 #EXTINF:-1 Eurolatino , group-title="Internacional"
