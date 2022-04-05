@@ -126,6 +126,9 @@ https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 #EXTINF:-1 Foro TV , group-title="Noticias"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
+#EXTINF:-1 Fox Kids , group-title="Infantil"
+http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8
+
 #EXTINF:-1 Fashion TV , group-title="Vanidades"
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 
