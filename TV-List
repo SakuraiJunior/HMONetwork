@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 5/04/2022
+#ultima actualizacion: 6/04/2022
 #
 #*****************************
 
@@ -28,7 +28,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 
 #EXTINF:-1 AZTV , group-title="Friki"
-
+http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 ACS Network , group-title="Entretenimiento"
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
@@ -45,8 +45,8 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 Conecta TV , group-title="Musica"
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 Canal Jetix , group-title="Infantil"
-
+#EXTINF:-1 Chilevision  , group-title="Internacional"
+https://marine2.miplay.cl/chilevision/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 Canal Once , group-title="Nacional"
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
@@ -200,6 +200,9 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 MTV Animaciones , group-title="Entretenimiento"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 Motorvision Latino , group-title="Deportes"
+https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
 #EXTINF:-1 NHK World , group-title="Noticias"
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
