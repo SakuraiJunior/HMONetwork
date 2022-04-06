@@ -168,9 +168,6 @@ https://video.radiosenpy.net:8081/limtv/index.m3u8
 #EXTINF:-1 Loop Latino , group-title="Musica"
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
 
-#EXTINF:-1 LocomotionTV , group-title="Infantil"
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF:-1 Multimedios , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?WebM3UCL
 
