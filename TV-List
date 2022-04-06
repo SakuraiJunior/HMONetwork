@@ -27,6 +27,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e
 #EXTINF:-1 AniPlus , group-title="Friki"
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 
+#EXTINF:-1 AZTV , group-title="Friki"
+
+
 #EXTINF:-1 ACS Network , group-title="Entretenimiento"
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
@@ -42,8 +45,8 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 Conecta TV , group-title="Musica"
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 Cartoon Network , group-title="Infantil"
-https://www.twitch.tv/111kkctoon
+#EXTINF:-1 Canal Jetix , group-title="Infantil"
+
 
 #EXTINF:-1 Canal Once , group-title="Nacional"
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
