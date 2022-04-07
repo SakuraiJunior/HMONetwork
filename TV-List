@@ -90,9 +90,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde43722
 #EXTINF:-1 Dreiko TV , group-title="Entretenimiento"
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
-#EXTINF:-1 Disney XD , grouo-title="Infantil"
-https://poast.tv/static/streaming-playlists/hls/ca82d3ad-0b51-405f-83bf-6c1633b7f476/0.m3u8
-
 #EXTINF:-1 GarageTV , group-title="Deportes"
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
 
