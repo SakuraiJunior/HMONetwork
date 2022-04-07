@@ -304,6 +304,9 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 #EXTINF:-1 Tastemade , group-title="Cultura"
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 Univision , group-title="Internacional"
+http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
+
 #EXTINF:-1 Videorola , group-title="Musica"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
