@@ -130,7 +130,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 Futbol Network , group-title="Deporte"
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 
-#EXTINF:-1 Foro TV , group-title="Noticias"
+#EXTINF:-1 Foro TV , group-title="Nacional"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 Fox Kids , group-title="Infantil"
@@ -162,9 +162,6 @@ https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m
 
 #EXTINF:-1 JusticiaTV , group-title="Nacional"
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
-
-#EXTINF:-1 Las Estrellas , group-title="Nacional"
-http://edge03-fdo-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
 #EXTINF:-1 Larsavision , group-title="Nacional"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
