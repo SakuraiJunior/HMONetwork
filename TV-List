@@ -40,11 +40,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b0007
 #EXTINF:-1 Butaca TV , group-title="Peliculas"
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 BitMe , group-title="Friki"
+http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+
 #EXTINF:-1 Conecta TV , group-title="Musica"
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 Chilevision  , group-title="Internacional"
 https://marine2.miplay.cl/chilevision/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 Cartoon Network , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
 
 #EXTINF:-1 Canal Once , group-title="Nacional"
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
@@ -84,6 +90,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 
 #EXTINF:-1 Cine Estelar , group-title="Peliculas"
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
+
+#EXTINF:-1 Cinemax , group-title="Peliculas"
+http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
 
 #EXTINF:-1 Dreiko TV , group-title="Entretenimiento"
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
