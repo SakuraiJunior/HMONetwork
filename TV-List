@@ -24,9 +24,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 AMX , group-title="Noticias"
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
 
-#EXTINF:-1 AZTV , group-title="Friki"
-http://azxtv.com/hls/stream.m3u8
-
 #EXTINF:-1 ACS Network , group-title="Entretenimiento"
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
