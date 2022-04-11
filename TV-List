@@ -18,14 +18,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?WebM3UCL
 #EXTINF:-1 Azteca Uno , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 Arirang , group-title="Internacional"
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 AMX , group-title="Noticias"
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
-
-#EXTINF:-1 ACS Network , group-title="Entretenimiento"
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1 Azteca 7 , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -186,9 +180,6 @@ https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
 #EXTINF:-1 Mundo de la musica , group-title="Musica"
 https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
 
-#EXTINF:-1 MTVLA , group-title="Entretenimiento"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 Mariavision , group-title="Religion"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
@@ -306,17 +297,11 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 #EXTINF:-1 Tastemade , group-title="Cultura"
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 Univision , group-title="Internacional"
-http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
-
 #EXTINF:-1 Videorola , group-title="Musica"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
 #EXTINF:-1 VEVO Latino , group-title="Musica"
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-
-#EXTINF:-1 Warner Channel , group-title"Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/WARNER/index.m3u8
 
 #EXTINF:-1 WOWTV , group-title="Entretenimiento"
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
