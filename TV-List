@@ -51,6 +51,9 @@ http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
 #EXTINF:-1 Conecta TV , group-title="Musica"
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 Comedy Central , tvg-logo="https://i.imgur.com/JRVqHBL.png" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/COMEDYCENTRAL/index.m3u8
+
 #EXTINF:-1 Chilevision  , group-title="Internacional"
 https://marine2.miplay.cl/chilevision/tracks-v2a1/mono.m3u8
 
@@ -95,6 +98,9 @@ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
 
 #EXTINF:-1 Discovery Kids , tvg-logo="https://i.imgur.com/I18tgBc.png" , group-title="Infantil"
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
+
+#EXTINF:-1 Distrito Comedia , tvg-logo="https://i.imgur.com/4bBkM3X.png" , group-title="Enrretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/DISTRITOCOMEDIA/index.m3u8
 
 #EXTINF:-1 Disney Channel , tvg-logo="https://i.imgur.com/84lq03p.jpg" , group-title="Infantil"
 http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
@@ -305,6 +311,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 #EXTINF:-1 RedBull , group-title="Deportes"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 TLC , tvg-logo="https://i.imgur.com/XW8CuxK.jpg" , group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/TLC/index.m3u8
 
 #EXTINF:-1 TVG America , group-title="Internacional"
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
