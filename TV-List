@@ -78,6 +78,9 @@ https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b15
 #EXTINF:-1 Cinemamas , group-title="Peliculas"
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 
+#EXTINF:-1 Cinemax , tvg-logo="https://i.imgur.com/6jPJl1q.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
+
 #EXTINF:-1 Canal LatinoTV , group-title="Peliculas"
 https://hd.chileservidores.cl:1936/latina/latina/chunklist_w479243247.m3u8
 
@@ -90,11 +93,17 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 #EXTINF:-1 CBSN , group-title="Religion"
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
+#EXTINF:-1 Cinecanal , tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/CINECANAL/index.m3u8
+
 #EXTINF:-1 Cine Real , group-title="Peliculas"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
 #EXTINF:-1 Cine Estelar , group-title="Peliculas"
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
+
+#EXTINF:-1 De Película , tvg-logo="https://i.imgur.com/0kp7HMZ.png" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/DEPELICULA/index.m3u8
 
 #EXTINF:-1 Discovery Channel , tvg-logo="https://i.imgur.com/XHF3LKK.jpg" , group-title="Cultura"
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
@@ -171,6 +180,9 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 Fox Kids , group-title="Infantil"
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8
 
+#EXTINF:-1 FX , tvg-logo="https://i.imgur.com/tGc5z3B.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/FX/index.m3u8
+
 #EXTINF:-1 Fashion TV , group-title="Vanidades"
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 
@@ -186,11 +198,27 @@ https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 Glitz , tvg-logo="https://i.imgur.com/9shfcbz.png" , group-title="Vanidades"
 http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
 
+#EXTINF:-1 Golden Edge , tvg-logo="https://i.imgur.com/nx4RIpb.png" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
+
+
 #EXTINF:-1 History Channel , tvg-logo="https://i.imgur.com/J897iGL.jpg" , group-title="Cultura"
 http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
 
-#EXTINF:-1 H2 , tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura"
+#EXTINF:-1 H2 , tvg-logo="https://i.imgur.com/ypR4tvy.jpg" , group-title="Cultura"
 http://tv.teleclub.xyz/live/ABRIL_01/H2/index.m3u8
+
+#EXTINF:-1 HBO , tvg-logo="https://i.imgur.com/4pK7qIc.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/HBO/index.m3u8
+
+#EXTINF:-1 HBO 2 , tvg-logo="https://i.imgur.com/VjhL79o.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
+
+#EXTINF:-1 HBO Plus , tvg-logo="https://i.imgur.com/k9ctQko.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 HBO Family , tvg-logo="https://i.imgur.com/KQSKMwy.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 HD Fashion , group-title="Vanidades"
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -276,6 +304,12 @@ http://tv.teleclub.xyz/live/ABRIL_01/STAR/index.m3u8
 #EXTINF:-1 SCJN , group-title="Cultura"
 https://live.scjn.gob.mx:443/EVLiveSCJN/_definst_/mp4:G3NB5T8R/playlist.m3u8
 
+#EXTINF:-1 Studio Universal , tvg-logo="https://i.imgur.com/tKuGOYa.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/STUDIO_UNIVERSAL/index.m3u8
+
+#EXTINF:-1 Sony , tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/SONY/index.m3u8
+
 #EXTINF:-1 PeleasTV , group-title="Deportes"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -317,6 +351,12 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 #EXTINF:-1 RedBull , group-title="Deportes"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 TBS , tvg-logo="https://i.imgur.com/EOS4pd9.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/TBS/index.m3u8
+
+#EXTINF:-1 TNT , tvg-logo="https://i.imgur.com/5GZsY7O.png" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/TNT/index.m3u8
 
 #EXTINF:-1 TLC , tvg-logo="https://i.imgur.com/XW8CuxK.jpg" , group-title="Cultura"
 http://tv.teleclub.xyz/live/ABRIL_01/TLC/index.m3u8
