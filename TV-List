@@ -24,6 +24,9 @@ https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_
 #EXTINF:-1 Azteca 7 , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
+#EXTINF:-1 A&E , tvg-logo="https://i.imgur.com/7Vaq92j.jpg" , group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
+
 #EXTINF:-1 BabyTV , tvg-logo="https://i.imgur.com/Bf3aN5q.png" , group-title="Infantil"
 http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
 
@@ -116,6 +119,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac7
 
 #EXTINF:-1 Estrella News , group-title="Internacional"
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+
+#EXTINF:-1 El Gourmet , tvg-logo="https://i.imgur.com/fYvrHY2.png" , group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/EL_GOURMET/index.m3u8
 
 #EXTINF:-1 Energeek, group-title="Friki"
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
@@ -227,6 +233,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e
 
 #EXTINF:-1 Motorvision Latino , group-title="Deportes"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
+
+#EXTINF:-1 NatGeo , tvg-logo="https://i.imgur.com/dq6jLKm.jpg" , group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/NATGEO/index.m3u8
 
 #EXTINF:-1 NatGeo Kids , tvg-logo="https://i.imgur.com/bDD2PT7.jpg" , group-title="Infantil"
 http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
