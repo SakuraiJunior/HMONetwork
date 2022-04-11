@@ -24,11 +24,26 @@ https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_
 #EXTINF:-1 Azteca 7 , group-title="Nacional"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
+#EXTINF:-1 BabyTV , tvg-logo="https://i.imgur.com/Bf3aN5q.png" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
+
 #EXTINF:-1 BabyFirst , group-title="Infantil"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 BitMe , tvg-logo="https://i.imgur.com/u4sw0pf.png" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+
 #EXTINF:-1 Butaca TV , group-title="Peliculas"
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 CNN en Español , tvg-logo="https://i.imgur.com/MBBRBkz.png" , group-title="Noticias"
+http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
+
+#EXTINF:-1 Cartoon Network , tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
+
+#EXTINF:-1 Cartoonito , tvg-logo="https://i.imgur.com/5U7AMyc.png" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
 
 #EXTINF:-1 Conecta TV , group-title="Musica"
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
@@ -72,6 +87,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 #EXTINF:-1 Cine Estelar , group-title="Peliculas"
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
 
+#EXTINF:-1 Discovery Channel , tvg-logo="https://i.imgur.com/XHF3LKK.jpg" , group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
+
+#EXTINF:-1 Discovery Kids , tvg-logo="https://i.imgur.com/I18tgBc.png" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
+
+#EXTINF:-1 Disney Channel , tvg-logo="https://i.imgur.com/84lq03p.jpg" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
+
+#EXTINF:-1 Disney Junior , tvg-logo="https://i.imgur.com/9FOKuui.jpg"  , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/DISNEY_JR/index.m3u8
+
 #EXTINF:-1 Dreiko TV , group-title="Entretenimiento"
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
 
@@ -80,6 +107,9 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_
 
 #EXTINF:-1 El Financiero Mexico , group-title="Noticias"
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF:-1 E! Latino , tvg-logo="https://i.imgur.com/PwuhYqI.png" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
 
 #EXTINF:-1 Estrella TV , group-title="Entretenimiento"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -117,6 +147,9 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 Futbol Network , group-title="Deporte"
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 
+#EXTINF:-1 Food Network , tvg-logo="https://i.imgur.com/WbrBFPQ.png" , group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/FOOD_NETWORK/index.m3u8
+
 #EXTINF:-1 Foro TV , group-title="Nacional"
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
@@ -134,6 +167,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 
 #EXTINF:-1 Fuel TV , group-title="Deportes"
 https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 Glitz , tvg-logo="https://i.imgur.com/9shfcbz.png" , group-title="Vanidades"
+http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
+
+#EXTINF:-1 History Channel , tvg-logo="https://i.imgur.com/J897iGL.jpg" , group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
+
+#EXTINF:-1 H2 , tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura"
+http://tv.teleclub.xyz/live/ABRIL_01/H2/index.m3u8
 
 #EXTINF:-1 HD Fashion , group-title="Vanidades"
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -155,6 +197,9 @@ https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
 
 #EXTINF:-1 Latino Kids , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 Lifetime , tvg-logo="https://i.imgur.com/iiw3ibE.png" , group-title="Mundo"
+http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
 
 #EXTINF:-1 Loop Latino , group-title="Musica"
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
@@ -183,14 +228,26 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e
 #EXTINF:-1 Motorvision Latino , group-title="Deportes"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
+#EXTINF:-1 NatGeo Kids , tvg-logo="https://i.imgur.com/bDD2PT7.jpg" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
+
+#EXTINF:-1 Nicktoons , tvg-logo="https://i.imgur.com/jIVfWNP.png" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
+
 #EXTINF:-1 NHK World , group-title="Noticias"
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 NFL Network , group-title="Deportes"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true&profilesFromStream=true
 
+#EXTINF:-1 Nickelodeon , tvg-logo="https://i.imgur.com/GSclzOJ.jpg" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/NICK/index.m3u8
+
 #EXTINF:-1 Nickteen , group-title="Series"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 Nick Junior , tvg-logo="https://i.imgur.com/rhHtS3j.jpg" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/NICK_JR/index.m3u8
 
 #EXTINF:-1 On Radio KPop , group-title="Musica"
 https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
@@ -225,6 +282,9 @@ https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
 #EXTINF:-1 Panamericana , group-title="Internacional"
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
+#EXTINF:-1 RT en español , tvg-logo="https://i.imgur.com/qv3P4pm.png" , group-title="Mundo"
+http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
+
 #EXTINF:-1 Retroplus , group-title="Musica"
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
@@ -242,6 +302,15 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 #EXTINF:-1 Triple A Network , group-title="Deportes"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+
+#EXTINF:-1 TruTV , tvg-logo="https://i.imgur.com/V2ViWPe.png" , group-title="Mundo"
+http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
+
+#EXTINF:-1 Teen Nick , tvg-logo="https://i.imgur.com/zTDBGo9.png" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
+
+#EXTINF:-1 Tooncast , tvg-logo="https://i.imgur.com/RO1czIu.png" , group-title="Infantil"
+http://tv.teleclub.xyz/live/ABRIL_01/TOONCAST/index.m3u8
 
 #EXTINF:-1 Top Cine , group-title="Peliculas"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
@@ -318,8 +387,20 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w2777430
 #EXTINF:-1 South Park , group-title="Maraton"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-###*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*###
-##
+#EXTINF:-1 Senal01 , tvg-logo="https://i.imgur.com/b9qUv1a.png" , group-title="Eventos"
+http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
+
+#EXTINF:-1 Senal02 , tvg-logo="https://i.imgur.com/b9qUv1a.png" , group-title="Eventos"
+http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
+
+#EXTINF:-1 Senal03 , tvg-logo="https://i.imgur.com/b9qUv1a.png" , group-title="Eventos"
+http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
+
+#EXTINF:-1 Senal04 , tvg-logo="https://i.imgur.com/b9qUv1a.png" , group-title="Eventos"
+http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
+
+#EXTINF:-1 Senal05 , tvg-logo="https://i.imgur.com/b9qUv1a.png" , group-title="Eventos"
+http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
 
 #EXTINF:-1 A3Bikini , group-title="Adultos"
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
