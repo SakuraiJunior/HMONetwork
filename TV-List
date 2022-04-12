@@ -30,6 +30,9 @@ http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
 #EXTINF:-1 AXN , tvg-logo="https://i.imgur.com/OdR3aff.jpg" , group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/AXN/index.m3u8
 
+#EXTINF:-1 Afizzionados , tvg-logo="https://i.imgur.com/LLWkHuv.png" , group-title="Deportes"
+http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
+
 #EXTINF:-1 BabyTV , tvg-logo="https://i.imgur.com/Bf3aN5q.png" , group-title="Infantil"
 http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
 
@@ -159,6 +162,12 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ESR , group-title="Deportes"
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 ESPN , tvg-logo="https://i.imgur.com/Qltczdi.jpg" , group-title="Deportes"
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN_MX/index.m3u8
+
+#EXTINF:-1 ESPN 2 , tvg-logo="https://i.imgur.com/Qltczdi.jpg" , group-title="Deportes"
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN2_MX/index.m3u8
+
 #EXTINF:-1 EXtv , group-title="Internacional"
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 
@@ -170,6 +179,12 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 Futbol Network , group-title="Deporte"
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+
+#EXTINF:-1 Fox Sport , tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , group-title="Deportes"
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_MX/index.m3u8
+
+#EXTINF:-1 Fox Sport 2 , tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , group-title="Deportes"
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_MX/index.m3u8
 
 #EXTINF:-1 Food Network , tvg-logo="https://i.imgur.com/WbrBFPQ.png" , group-title="Cultura"
 http://tv.teleclub.xyz/live/ABRIL_01/FOOD_NETWORK/index.m3u8
@@ -200,7 +215,6 @@ http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
 
 #EXTINF:-1 Golden Edge , tvg-logo="https://i.imgur.com/nx4RIpb.png" , group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
-
 
 #EXTINF:-1 History Channel , tvg-logo="https://i.imgur.com/J897iGL.jpg" , group-title="Cultura"
 http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
@@ -265,6 +279,9 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 Mi TV , group-title="Entretenimiento"
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
+#EXTINF:-1 MTVLA , tvg-logo="https://i.imgur.com/8fWEIJj.png" , group-title="Musica"
+http://tv.teleclub.xyz/live/ABRIL_01/MTV/index.m3u8
+
 #EXTINF:-1 MTV Animaciones , group-title="Entretenimiento"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
@@ -300,6 +317,9 @@ https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
 
 #EXTINF:-1 Star Channel , tvg-logo="https://i.imgur.com/hHd3J9h.png" , group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/STAR/index.m3u8
+
+#EXTINF:-1 Space , tvg-logo="https://i.imgur.com/vZLlUrl.jpg" , group-title="Entretenimiento"
+http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
 
 #EXTINF:-1 SCJN , group-title="Cultura"
 https://live.scjn.gob.mx:443/EVLiveSCJN/_definst_/mp4:G3NB5T8R/playlist.m3u8
@@ -399,6 +419,9 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 Tu Cine , group-title="Peliculas"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 TUDN , tvg-logo="https://i.imgur.com/EfHstB2.png" , group-title="Deportes"
+http://tv.teleclub.xyz/live/ABRIL_01/TUDN/index.m3u8
 
 #EXTINF:-1 Top Latino , group-title="Musica"
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
