@@ -30,6 +30,9 @@ http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
 #EXTINF:-1 AXN , tvg-logo="https://i.imgur.com/OdR3aff.jpg" , group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/AXN/index.m3u8
 
+#EXTINF:-1 Aniplus , group-title="Friki"
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+
 #EXTINF:-1 Afizzionados , tvg-logo="https://i.imgur.com/LLWkHuv.png" , group-title="Deportes"
 http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
 
@@ -251,6 +254,9 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklis
 
 #EXTINF:-1 Larsavision , group-title="Nacional"
 https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
+
+#EXTINF:-1 Latinos Radio , group-title="Musica"
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 
 #EXTINF:-1 Latino Kids , group-title="Infantil"
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
