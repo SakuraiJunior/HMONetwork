@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-List.m3u
-#ultima actualizacion: 13/04/2022
+#ultima actualizacion: 14/04/2022
 #
 #*****************************
 
@@ -98,6 +98,9 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
 #EXTINF:-1 CBSN , group-title="Religion"
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF:-1 Cosmote TV Marvel Studios , tvg-logo="https://images.app.goo.gl/HnxzYkRy7aF2e1de6" group-title="Peliculas"
+http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
 
 #EXTINF:-1 Cinecanal , tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/CINECANAL/index.m3u8
