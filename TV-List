@@ -9,173 +9,173 @@
 #
 #*****************************
 #EXTM3U
-Channel name: Teleclub | EVENTO 1
+#EXTINF:-1 Teleclub | EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
 
-Channel name: Teleclub | EVENTO 2
+#EXTINF:-1 Teleclub | EVENTO 2
 http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
 
-Channel name: Teleclub | EVENTO 3
+#EXTINF:-1  Teleclub | EVENTO 3
 http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
 
-Channel name: Teleclub | EVENTO 4
+#EXTINF:-1 Teleclub | EVENTO 4
 http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
 
-Channel name: Teleclub | EVENTO 5
+#EXTINF:-1 Teleclub | EVENTO 5
 http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
 
-Channel name: Cartoon Network
+#EXTINF:-1 Cartoon Network
 http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
 
-Channel name: Disney Channel
+#EXTINF:-1 Disney Channel
 http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
 
-Channel name: Disney Jr
+#EXTINF:-1 Disney Jr
 http://tv.teleclub.xyz/live/ABRIL_01/DISNEY_JR/index.m3u8
 
-Channel name: NATGEO Kids
+#EXTINF:-1 NATGEO Kids
 http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
 
-Channel name: Nick
+#EXTINF:-1 Nick
 http://tv.teleclub.xyz/live/ABRIL_01/NICK/index.m3u8
 
-Channel name: Nick Jr
+#EXTINF:-1 Nick Jr
 http://tv.teleclub.xyz/live/ABRIL_01/NICK_JR/index.m3u8
 
-Channel name: Tooncast
+#EXTINF:-1 Tooncast
 http://tv.teleclub.xyz/live/ABRIL_01/TOONCAST/index.m3u8
 
-Channel name: Cartoonito
+#EXTINF:-1 Cartoonito
 http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
 
-Channel name: Discovery Kids
+#EXTINF:-1 Discovery Kids
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
 
-Channel name: BabyTV
+#EXTINF:-1 BabyTV
 http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
 
-Channel name: Teen Nick
+#EXTINF:-1 Teen Nick
 http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
 
-Channel name: Nick Toons
+#EXTINF:-1 Nick Toons
 http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
 
-Channel name: BITME
+#EXTINF:-1 BITME
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 
-Channel name: CNN en Español
+#EXTINF:-1 CNN en Español
 http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
 
-Channel name: Glitz
+#EXTINF:-1 Glitz
 http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
 
-Channel name: Bloomberg
+#EXTINF:-1 Bloomberg
 http://tv.teleclub.xyz/live/ABRIL_01/BLOOMBERG/index.m3u8
 
-Channel name: RT en Español
+#EXTINF:-1 RT en Español
 http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
 
-Channel name: TruTV
+#EXTINF:-1 TruTV
 http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
 
-Channel name: Lifetime
+#EXTINF:-1 Lifetime
 http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
 
-Channel name: ADN40
+#EXTINF:-1 ADN40
 http://tv.teleclub.xyz/live/ABRIL_01/ADN40/index.m3u8
 
-Channel name: RCN
+#EXTINF:-1 RCN
 http://tv.teleclub.xyz/live/ABRIL_01/RCN/index.m3u8
 
-Channel name: Telefe
+#EXTINF:-1 Telefe
 http://tv.teleclub.xyz/live/ABRIL_01/TELEFE/index.m3u8
 
-Channel name: HolaTV
+#EXTINF:-1 HolaTV
 http://tv.teleclub.xyz/live/ABRIL_01/HOLATV/index.m3u8
 
-Channel name: Las Estrellas
+#EXTINF:-1 Las Estrellas
 http://tv.teleclub.xyz/live/ABRIL_01/LAS_ESTRELLAS/index.m3u8
 
-Channel name: E!
+#EXTINF:-1 E!
 http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
 
-Channel name: Caracol TV
+#EXTINF:-1 Caracol TV
 http://tv.teleclub.xyz/live/ABRIL_01/CARACOLTV/index.m3u8
 
-Channel name: Telemundo
+#EXTINF:-1 Telemundo
 http://tv.teleclub.xyz/live/ABRIL_01/TELEMUNDO/index.m3u8
 
-Channel name: Azteca7
+#EXTINF:-1 Azteca7
 http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
 
-Channel name: Univisión
+#EXTINF:-1 Univisión
 http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
 
-Channel name: Food Network
+#EXTINF:-1 Food Network
 http://tv.teleclub.xyz/live/ABRIL_01/FOOD_NETWORK/index.m3u8
 
-Channel name: Discovery Channel
+#EXTINF:-1 Discovery Channel
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
 
-Channel name: Discovery Theater
+#EXTINF:-1 Discovery Theater
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_THEATER/index.m3u8
 
-Channel name: Discovery World
+#EXTINF:-1 Discovery World
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_WORLD/index.m3u8
 
-Channel name: Discovery Turbo
+#EXTINF:-1 Discovery Turbo
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_TURBO/index.m3u8
 
-Channel name: Discovery Sciences
+#EXTINF:-1 Discovery Sciences
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_SCIENCES/index.m3u8
 
-Channel name: Discovery ID
+#EXTINF:-1 Discovery ID
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_ID/index.m3u8
 
-Channel name: Discovery H&H
+#EXTINF:-1 Discovery H&H
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_HYH/index.m3u8
 
-Channel name: History Channel
+#EXTINF:-1 History Channel
 http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
 
-Channel name: H2
+#EXTINF:-1 H2
 http://tv.teleclub.xyz/live/ABRIL_01/H2/index.m3u8
 
-Channel name: NATGEO
+#EXTINF:-1 NATGEO
 http://tv.teleclub.xyz/live/ABRIL_01/NATGEO/index.m3u8
 
-Channel name: A&E
+#EXTINF:-1 A&E
 http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
 
-Channel name: Animal Planet
+#EXTINF:-1 Animal Planet
 http://tv.teleclub.xyz/live/ABRIL_01/ANIMAL_PLANET/index.m3u8
 
-Channel name: El Gourmet
+#EXTINF:-1 El Gourmet
 http://tv.teleclub.xyz/live/ABRIL_01/EL_GOURMET/index.m3u8
 
-Channel name: TLC
+#EXTINF:-1 TLC
 http://tv.teleclub.xyz/live/ABRIL_01/TLC/index.m3u8
 
-Channel name: ComedyCentral
+#EXTINF:-1 ComedyCentral
 http://tv.teleclub.xyz/live/ABRIL_01/COMEDYCENTRAL/index.m3u8
 
-Channel name: Distrito Comedia
+#EXTINF:-1 Distrito Comedia
 http://tv.teleclub.xyz/live/ABRIL_01/DISTRITOCOMEDIA/index.m3u8
 
-Channel name: Star Channel
+#EXTINF:-1 Star Channel
 http://tv.teleclub.xyz/live/ABRIL_01/STAR/index.m3u8
 
-Channel name: Universal TV
+#EXTINF:-1 Universal TV
 http://tv.teleclub.xyz/live/ABRIL_01/UNIVERSAL/index.m3u8
 
-Channel name: Warner TV
+#EXTINF:-1 Warner TV
 http://tv.teleclub.xyz/live/ABRIL_01/WARNER/index.m3u8
 
-Channel name: AXN
+#EXTINF:-1 AXN
 http://tv.teleclub.xyz/live/ABRIL_01/AXN/index.m3u8
 
-Channel name: Paramount
+#EXTINF:-1 Paramount
 http://tv.teleclub.xyz/live/ABRIL_01/PARAMOUNT/index.m3u8
 
-Channel name: Studio Universal
+#EXTINF:-1 Studio Universal
 http://tv.teleclub.xyz/live/ABRIL_01/STUDIO_UNIVERSAL/index.m3u8
