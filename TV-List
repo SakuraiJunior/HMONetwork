@@ -8,525 +8,177 @@
 #ultima actualizacion: 14/04/2022
 #
 #*****************************
+#EXTM3U
+Channel name: Teleclub | EVENTO 1
+URL:http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
 
-#EXTINF:-1 Members , tvg-logo="shorturl.at/duDWY"
-https://ko-fi.com/summary/19abe9fc-51f1-474a-ae6c-c405738f99c2
+Channel name: Teleclub | EVENTO 2
+URL:http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
 
-#EXTINF:-1 ADN 40 , group-title="Noticias"
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?WebM3UCL
+Channel name: Teleclub | EVENTO 3
+URL:http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
 
-#EXTINF:-1 Azteca Uno , group-title="Nacional"
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+Channel name: Teleclub | EVENTO 4
+URL:http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
 
-#EXTINF:-1 AMX , group-title="Noticias"
-https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/chunklist_w309392174.m3u8?WebM3UCL
+Channel name: Teleclub | EVENTO 5
+URL:http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
 
-#EXTINF:-1 Azteca 7 , group-title="Nacional"
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+Channel name: Cartoon Network
+URL:http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
 
-#EXTINF:-1 A&E , tvg-logo="https://i.imgur.com/7Vaq92j.jpg" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
+Channel name: Disney Channel
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
 
-#EXTINF:-1 AXN , tvg-logo="https://i.imgur.com/OdR3aff.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/AXN/index.m3u8
+Channel name: Disney Jr
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 Aniplus , group-title="Friki"
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+Channel name: NATGEO Kids
+URL:http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
 
-#EXTINF:-1 Afizzionados , tvg-logo="https://i.imgur.com/LLWkHuv.png" , group-title="Deportes"
-http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
+Channel name: Nick
+URL:http://tv.teleclub.xyz/live/ABRIL_01/NICK/index.m3u8
 
-#EXTINF:-1 BabyTV , tvg-logo="https://i.imgur.com/Bf3aN5q.png" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
+Channel name: Nick Jr
+URL:http://tv.teleclub.xyz/live/ABRIL_01/NICK_JR/index.m3u8
 
-#EXTINF:-1 BabyFirst , group-title="Infantil"
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
+Channel name: Tooncast
+URL:http://tv.teleclub.xyz/live/ABRIL_01/TOONCAST/index.m3u8
 
-#EXTINF:-1 BitMe , tvg-logo="https://i.imgur.com/u4sw0pf.png" , group-title="Friki"
-http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+Channel name: Cartoonito
+URL:http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
 
-#EXTINF:-1 Butaca TV , group-title="Peliculas"
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+Channel name: Discovery Kids
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
 
-#EXTINF:-1 CNN en Español , tvg-logo="https://i.imgur.com/MBBRBkz.png" , group-title="Noticias"
-http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
+Channel name: BabyTV
+URL:http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
 
-#EXTINF:-1 Cartoon Network , tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
+Channel name: Teen Nick
+URL:http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
 
-#EXTINF:-1 Cartoonito , tvg-logo="https://i.imgur.com/5U7AMyc.png" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
+Channel name: Nick Toons
+URL:http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
 
-#EXTINF:-1 Conecta TV , group-title="Musica"
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+Channel name: BITME
+URL:http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 
-#EXTINF:-1 Comedy Central , tvg-logo="https://i.imgur.com/JRVqHBL.png" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/COMEDYCENTRAL/index.m3u8
+Channel name: CNN en Español
+URL:http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
 
-#EXTINF:-1 Chilevision  , group-title="Internacional"
-https://marine2.miplay.cl/chilevision/tracks-v2a1/mono.m3u8
+Channel name: Glitz
+URL:http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
 
-#EXTINF:-1 Canal Once , group-title="Nacional"
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+Channel name: Bloomberg
+URL:http://tv.teleclub.xyz/live/ABRIL_01/BLOOMBERG/index.m3u8
 
-#EXTINF:-1 Canal 44 , group-title="Noticias"
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+Channel name: RT en Español
+URL:http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
 
-#EXTINF:-1 CGTN En Español , group-title="Internacional"
-https://livees.cgtn.com/1000e/prog_index.m3u8
+Channel name: TruTV
+URL:http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
 
-#EXTINF:-1 CMC , group-title="Musica"
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+Channel name: Lifetime
+URL:http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
 
-#EXTINF:-1 Canal Extremadura , group-title="Entretenimiento"
-https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
+Channel name: ADN40
+URL:http://tv.teleclub.xyz/live/ABRIL_01/ADN40/index.m3u8
 
-#EXTINF:-1 Cinemamas , group-title="Peliculas"
-https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
+Channel name: RCN
+URL:http://tv.teleclub.xyz/live/ABRIL_01/RCN/index.m3u8
 
-#EXTINF:-1 Cinemax , tvg-logo="https://i.imgur.com/6jPJl1q.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
+Channel name: Telefe
+URL:http://tv.teleclub.xyz/live/ABRIL_01/TELEFE/index.m3u8
 
-#EXTINF:-1 Canal LatinoTV , group-title="Peliculas"
-https://hd.chileservidores.cl:1936/latina/latina/chunklist_w479243247.m3u8
+Channel name: HolaTV
+URL:http://tv.teleclub.xyz/live/ABRIL_01/HOLATV/index.m3u8
 
-#EXTING:-1 Canal 22 , group-title="Cultura"
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+Channel name: Las Estrellas
+URL:http://tv.teleclub.xyz/live/ABRIL_01/LAS_ESTRELLAS/index.m3u8
 
-#EXTINF:-1 Camara de Diputados , group-title="Nacional"
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+Channel name: E!
+URL:http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
 
-#EXTINF:-1 CBSN , group-title="Religion"
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+Channel name: Caracol TV
+URL:http://tv.teleclub.xyz/live/ABRIL_01/CARACOLTV/index.m3u8
 
-#EXTINF:-1 Cosmote TV Marvel Studios , tvg-logo="https://images.app.goo.gl/HnxzYkRy7aF2e1de6" group-title="Peliculas"
-http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
+Channel name: Telemundo
+URL:http://tv.teleclub.xyz/live/ABRIL_01/TELEMUNDO/index.m3u8
 
-#EXTINF:-1 Cinecanal , tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Peliculas"
-http://tv.teleclub.xyz/live/ABRIL_01/CINECANAL/index.m3u8
+Channel name: Azteca7
+URL:http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
 
-#EXTINF:-1 Cine Real , group-title="Peliculas"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+Channel name: Univisión
+URL:http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
 
-#EXTINF:-1 Cine Estelar , group-title="Peliculas"
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c56565f4-d261-4064-aa69-8022188dd35c&deviceVersion=97.0.4692&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&deviceType=web&deviceMake=chromium-webview&sid=0ba81062-842a-11ec-a7b4-0242ac110003&advertisingId=&deviceLat=19.4062&deviceLon=-99.0879&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0NWUxZTU2LTc4MmUtNGE4OC04NWYzLTliMGEyYjYwMGJlYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwYmE4MTA2Mi04NDJhLTExZWMtYTdiNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5Mi4xNDEuMjQ0LjEzNSIsImNpdHkiOiJQdWVibGEiLCJwb3N0YWxDb2RlIjoiMTUwMjAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MDYyLCJkZXZpY2VMb24iOi05OS4wODc5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ny4wLjQ2OTIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6ImM1NjU2NWY0LWQyNjEtNDA2NC1hYTY5LTgwMjIxODhkZDM1YyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MzgzNjQ2NiwianRpIjoiNmY3YzYyMTUtOTQ1OS00NjhmLTlkNDEtNzIxMTRkNjRmYzYwIiwiaWF0IjoxNjQzODA3NjY2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WXpVMk5UWTFaalF0WkRJMk1TMDBNRFkwTFdGaE5qa3RPREF5TWpFNE9HUmtNelZqIn0.2c2HkvjrQJ7O9d2NPbONjPLhaG3OofsDA1v4qeaRw3c
+Channel name: Food Network
+URL:http://tv.teleclub.xyz/live/ABRIL_01/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 De Película , tvg-logo="https://i.imgur.com/0kp7HMZ.png" , group-title="Peliculas"
-http://tv.teleclub.xyz/live/ABRIL_01/DEPELICULA/index.m3u8
+Channel name: Discovery Channel
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
 
-#EXTINF:-1 Discovery Channel , tvg-logo="https://i.imgur.com/XHF3LKK.jpg" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
+Channel name: Discovery Theater
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_THEATER/index.m3u8
 
-#EXTINF:-1 Discovery Kids , tvg-logo="https://i.imgur.com/I18tgBc.png" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
+Channel name: Discovery World
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_WORLD/index.m3u8
 
-#EXTINF:-1 Distrito Comedia , tvg-logo="https://i.imgur.com/4bBkM3X.png" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/DISTRITOCOMEDIA/index.m3u8
+Channel name: Discovery Turbo
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_TURBO/index.m3u8
 
-#EXTINF:-1 Disney Channel , tvg-logo="https://i.imgur.com/84lq03p.jpg" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
+Channel name: Discovery Sciences
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_SCIENCES/index.m3u8
 
-#EXTINF:-1 Disney Junior , tvg-logo="https://i.imgur.com/9FOKuui.jpg"  , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/DISNEY_JR/index.m3u8
+Channel name: Discovery ID
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_ID/index.m3u8
 
-#EXTINF:-1 Dreiko TV , group-title="Entretenimiento"
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?fbclid=IwAR0QknWDgrTPe08TIEeBFkPz-TDotWbwNiGChXX-GUsangHRwkh2z3YDUQA
+Channel name: Discovery H&H
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_HYH/index.m3u8
 
-#EXTINF:-1 GarageTV , group-title="Deportes"
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
+Channel name: History Channel
+URL:http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
 
-#EXTINF:-1 El Financiero Mexico , group-title="Noticias"
-https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+Channel name: H2
+URL:http://tv.teleclub.xyz/live/ABRIL_01/H2/index.m3u8
 
-#EXTINF:-1 E! Latino , tvg-logo="https://i.imgur.com/PwuhYqI.png" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
+Channel name: NATGEO
+URL:http://tv.teleclub.xyz/live/ABRIL_01/NATGEO/index.m3u8
 
-#EXTINF:-1 Estrella TV , group-title="Entretenimiento"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name: A&E
+URL:http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
 
-#EXTINF:-1 Estrella News , group-title="Internacional"
-https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+Channel name: Animal Planet
+URL:http://tv.teleclub.xyz/live/ABRIL_01/ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 El Gourmet , tvg-logo="https://i.imgur.com/fYvrHY2.png" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/EL_GOURMET/index.m3u8
+Channel name: El Gourmet
+URL:http://tv.teleclub.xyz/live/ABRIL_01/EL_GOURMET/index.m3u8
 
-#EXTINF:-1 Energeek , tvg-logo="https://i.imgur.com/d4eZ9VX.png , group-title="Friki"
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?fbclid=IwAR18lHlVL31dZsIEu35fW3Bla6mKaue5U8Kn2vTHfvM5VPViaemLNhAKbrw
+Channel name: TLC
+URL:http://tv.teleclub.xyz/live/ABRIL_01/TLC/index.m3u8
 
-#EXTINF:-1 Energeek 2 , tvg-logo="https://i.imgur.com/LZI3FlL.png" , group-title="Friki"
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
+Channel name: ComedyCentral
+URL:http://tv.teleclub.xyz/live/ABRIL_01/COMEDYCENTRAL/index.m3u8
 
-#EXTINF:-1 Eurolatino , group-title="Internacional"
-https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
+Channel name: Distrito Comedia
+URL:http://tv.teleclub.xyz/live/ABRIL_01/DISTRITOCOMEDIA/index.m3u8
 
-#EXTINF:-1 Euronews , group-title="Noticias"
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+Channel name: Love Nature
+URL:http://tv.teleclub.xyz/live/ABRIL_00/LOVE_NATURE/index.m3u8
 
-#EXTINF:-1 ExtremaTV , group-title="Religion"
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
+Channel name: Star Channel
+URL:http://tv.teleclub.xyz/live/ABRIL_01/STAR/index.m3u8
 
-#EXTINF:-1 ESR , group-title="Deportes"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Channel name: Universal TV
+URL:http://tv.teleclub.xyz/live/ABRIL_01/UNIVERSAL/index.m3u8
 
-#EXTINF:-1 ESPN , tvg-logo="https://i.imgur.com/Qltczdi.jpg" , group-title="Deportes"
-http://tv.teleclub.xyz/live/ABRIL_01/ESPN_MX/index.m3u8
+Channel name: Warner TV
+URL:http://tv.teleclub.xyz/live/ABRIL_01/WARNER/index.m3u8
 
-#EXTINF:-1 ESPN 2 , tvg-logo="https://i.imgur.com/Qltczdi.jpg" , group-title="Deportes"
-http://tv.teleclub.xyz/live/ABRIL_01/ESPN2_MX/index.m3u8
+Channel name: AXN
+URL:http://tv.teleclub.xyz/live/ABRIL_01/AXN/index.m3u8
 
-#EXTINF:-1 EXtv , group-title="Internacional"
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+Channel name: Paramount
+URL:http://tv.teleclub.xyz/live/ABRIL_01/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 EWTN , group-title="Religion"
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
-
-#EXTINF:-1 France24 , group-title="Internacional"
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 Futbol Network , group-title="Deporte"
-https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
-
-#EXTINF:-1 Fox Sport , tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , group-title="Deportes"
-http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_MX/index.m3u8
-
-#EXTINF:-1 Fox Sport 2 , tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , group-title="Deportes"
-http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_MX/index.m3u8
-
-#EXTINF:-1 Food Network , tvg-logo="https://i.imgur.com/WbrBFPQ.png" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/FOOD_NETWORK/index.m3u8
-
-#EXTINF:-1 Foro TV , group-title="Nacional"
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
-#EXTINF:-1 FX , tvg-logo="https://i.imgur.com/tGc5z3B.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/FX/index.m3u8
-
-#EXTINF:-1 Fashion TV , group-title="Vanidades"
-https://publica.cloudycdn.services/playlist.m3u8?network_id=569
-
-#EXTINF:-1 Fashion Bikini TV , group-title="Vanidades"
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 Flash HD , group-title="Series"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
-
-#EXTINF:-1 Fuel TV , group-title="Deportes"
-https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 Glitz , tvg-logo="https://i.imgur.com/9shfcbz.png" , group-title="Vanidades"
-http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
-
-#EXTINF:-1 Golden Edge , tvg-logo="https://i.imgur.com/nx4RIpb.png" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
-
-#EXTINF:-1 History Channel , tvg-logo="https://i.imgur.com/J897iGL.jpg" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
-
-#EXTINF:-1 H2 , tvg-logo="https://i.imgur.com/ypR4tvy.jpg" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/H2/index.m3u8
-
-#EXTINF:-1 HBO , tvg-logo="https://i.imgur.com/4pK7qIc.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/HBO/index.m3u8
-
-#EXTINF:-1 HBO 2 , tvg-logo="https://i.imgur.com/VjhL79o.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
-
-#EXTINF:-1 HBO Plus , tvg-logo="https://i.imgur.com/k9ctQko.jpg" , group-title="Peliculas"
-http://tv.teleclub.xyz/live/ABRIL_01/HBO_PLUS/index.m3u8
-
-#EXTINF:-1 HBO Family , tvg-logo="https://i.imgur.com/KQSKMwy.jpg" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 HD Fashion , group-title="Vanidades"
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1 HolaTV , group-title="Vanidades"
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-
-#EXTINF:-1 IGN , group-title="Friki"
-https://ign-sportstribal.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 Impactovision , group-title="Entretenimiento"
-https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 JusticiaTV , group-title="Nacional"
-https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
-
-#EXTINF:-1 Larsavision , group-title="Nacional"
-https://60ed5b6d0df78.streamlock.net:1936/larsatv/larsatv/playlist.m3u8?DVR
-
-#EXTINF:-1 Latinos Radio , group-title="Musica"
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
-
-#EXTINF:-1 Latino Kids , tvg-logo="https://i.imgur.com/x19mmox.png , group-title="Infantil"
-https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 Lifetime , tvg-logo="https://i.imgur.com/iiw3ibE.png" , group-title="Mundo"
-http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
-
-#EXTINF:-1 Loop Latino , group-title="Musica"
-https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c54
-
-#EXTINF:-1 Multimedios , tvg-logo="https://i.imgur.com/A9kTYN8.png , group-title="Nacional"
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?WebM3UCL
-
-#EXTINF:-1 MCKT Latino , group-title="Musica"
-https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 Mundo de la musica , group-title="Musica"
-https://videostreaming.cloudserverlatam.com:443/8078/8078/chunklist_w193529994.m3u8?WebM3UCL
-
-#EXTINF:-1 Mariavision , group-title="Religion"
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
-
-#EXTINF:-1 Music Top , group-title="Musica"
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:-1 Mi TV , group-title="Entretenimiento"
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
-#EXTINF:-1 MTVLA , tvg-logo="https://i.imgur.com/8fWEIJj.png" , group-title="Musica"
-http://tv.teleclub.xyz/live/ABRIL_01/MTV/index.m3u8
-
-#EXTINF:-1 MTV Animaciones , group-title="Entretenimiento"
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-
-#EXTINF:-1 Motorvision Latino , group-title="Deportes"
-https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
-
-#EXTINF:-1 National Geography , tvg-logo="https://i.imgur.com/dq6jLKm.jpg" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/NATGEO/index.m3u8
-
-#EXTINF:-1 NatGeo Kids , tvg-logo="https://i.imgur.com/bDD2PT7.jpg" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
-
-#EXTINF:-1 Nicktoons , tvg-logo="https://i.imgur.com/jIVfWNP.png" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
-
-#EXTINF:-1 NHK World , group-title="Noticias"
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-#EXTINF:-1 NFL Network , group-title="Deportes"
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true&profilesFromStream=true
-
-#EXTINF:-1 Nickelodeon , tvg-logo="https://i.imgur.com/GSclzOJ.jpg" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/NICK/index.m3u8
-
-#EXTINF:-1 Nickteen , group-title="Series"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 Nick Junior , tvg-logo="https://i.imgur.com/rhHtS3j.jpg" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/NICK_JR/index.m3u8
-
-#EXTINF:-1 On Radio KPop , group-title="Musica"
-https://tls-cl.cdnz.cl:443/adgm-2/live/chunklist_w2017226056.m3u8?WebM3UCL
-
-#EXTINF:-1 Star Channel , tvg-logo="https://i.imgur.com/hHd3J9h.png" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/STAR/index.m3u8
-
-#EXTINF:-1 Space , tvg-logo="https://i.imgur.com/vZLlUrl.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
-
-#EXTINF:-1 SCJN , group-title="Cultura"
-https://live.scjn.gob.mx:443/EVLiveSCJN/_definst_/mp4:G3NB5T8R/playlist.m3u8
-
-#EXTINF:-1 Studio Universal , tvg-logo="https://i.imgur.com/tKuGOYa.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/STUDIO_UNIVERSAL/index.m3u8
-
-#EXTINF:-1 Sony , tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/SONY/index.m3u8
-
-#EXTINF:-1 PeleasTV , group-title="Deportes"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 Paramount Plus , group-title="Peliculas"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 PopTV , group-title="Musica"
-https://v4.tustreaming.cl/poptv/index.m3u8
-
-#EXTINF:-1 PTV Malaga , group-title="Entretenimiento"
-https://streamer.zapitv.com/PTV-Malaga/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 PyP , group-title="Peliculas"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 Pinguino TV , group-title="Noticias"
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-
-#EXTINF:-1 PlutoTV Series , group-title="Series"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 Planeta Junior , group-title="Infantil"
-https://mediacpstreamchile.com:1936/8140/8140/chunklist_w29663518.m3u8?WebM3UCL
-
-#EXTINF:-1 Panamericana , group-title="Internacional"
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 RakutenTV , group-title="Peliculas"
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/3000.m3u8
-
-#EXTINF:-1 RT en español , tvg-logo="https://i.imgur.com/qv3P4pm.png" , group-title="Internacional"
-http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
-
-#EXTINF:-1 Retroplus , group-title="Musica"
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 Runtime Latino , group-title="Peliculas"
-https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 Retroplus 2 , group-title="Musica"
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 RedBull , group-title="Deportes"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 TBS , tvg-logo="https://i.imgur.com/EOS4pd9.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/TBS/index.m3u8
-
-#EXTINF:-1 TNT , tvg-logo="https://i.imgur.com/5GZsY7O.png" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/TNT/index.m3u8
-
-#EXTINF:-1 TLC , tvg-logo="https://i.imgur.com/XW8CuxK.jpg" , group-title="Cultura"
-http://tv.teleclub.xyz/live/ABRIL_01/TLC/index.m3u8
-
-#EXTINF:-1 TVG America , group-title="Internacional"
-https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-
-#EXTINF:-1 Triple A Network , group-title="Deportes"
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-
-#EXTINF:-1 TruTV , tvg-logo="https://i.imgur.com/V2ViWPe.png" , group-title="Mundo"
-http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
-
-#EXTINF:-1 Teen Nick , tvg-logo="https://i.imgur.com/zTDBGo9.png" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
-
-#EXTINF:-1 Tooncast , tvg-logo="https://i.imgur.com/RO1czIu.png" , group-title="Infantil"
-http://tv.teleclub.xyz/live/ABRIL_01/TOONCAST/index.m3u8
-
-#EXTINF:-1 Top Cine , group-title="Peliculas"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-
-#EXTINF:-1 Teleplay , group-title="Nacional"
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
-
-#EXTINF:-1 TV Mexiquense , group-title="Nacional"
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 Teleformula , group-title="Noticias"
-https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:-1 Telepacifico , group-title="Internacional"
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-
-#EXTINF:-1 Telecentro , group-title="Internacional"
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
-
-#EXTINF:-1 Teleritmo , group-title="Musica"
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 Tu Cine , group-title="Peliculas"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-
-#EXTINF:-1 TUDN , tvg-logo="https://i.imgur.com/EfHstB2.png" , group-title="Deportes"
-http://tv.teleclub.xyz/live/ABRIL_01/TUDN/index.m3u8
-
-#EXTINF:-1 Top Latino , group-title="Musica"
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-
-#EXTINF:-1 TV Costa , group-title="Internacional"
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 Telemusica , group-title="Musica"
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-
-#EXTINF:-1 Tastemade , group-title="Cultura"
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 Universal TV , tvg-logo="https://i.imgur.com/DrnnyVT.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/UNIVERSAL/index.m3u8
-
-#EXTINF:-1 Videorola , group-title="Musica"
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
-
-#EXTINF:-1 VEVO Latino , group-title="Musica"
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-
-#EXTINF:-1 Warner TV , tvg-logo="https://i.imgur.com/Db6x442.jpg" , group-title="Entretenimiento"
-http://tv.teleclub.xyz/live/ABRIL_01/WARNER/index.m3u8
-
-#EXTINF:-1 WOWTV , group-title="Entretenimiento"
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
-#EXTINF:-1 Zapping TV , group-title="Musica"
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-
-###*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*###
-##
-
-#EXTINF:-1 Bob Esponja , group-title="Maraton"
-https://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
-
-#EXTINF:-1 Big Buck Bunny , group-title="Maraton"
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 Futurama , group-title="Maraton"
-https://m3u-editor.com/serve/televitolibre/511000607.m3u8
-
-#EXTINF:-1 One Piece , group-title="Maraton"
-https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 El Chavo , tvg-logo="https://i.imgur.com/7gMqvsV.png , group-title="Maraton"
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-
-#EXTINF:-1 Los Simpsons , tvg-logo="https://i.imgur.com/YJ4NnR8.png , group-title="Maraton"
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-
-#EXTINF:-1 Mounstros de Verdad , tvg-logo="https://i.imgur.com/XKHUnHT.png , group-title="Maraton"
-https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
-
-#EXTINF:-1 Ren y Stimpy , tvg-logo="https://i.imgur.com/vMptR2C.png" , group-title="Maraton"
-https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/chunklist_w277743038.m3u8?WebM3UCL
-
-#EXTINF:-1 South Park , group-title="Maraton"
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 A3Bikini , group-title="Adultos"
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-#EXTINF:-1 Fashion Bikini TV , group-title="Adultos"
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 JennyLive , group-title="Adultos"
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
-
-#EXTINF:-1 Jasmin.TV , group-title="Adultos"
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8	
-
-#EXTINF:-1 Kaloopy , group-title="Adultos"
-https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/a5154972-e996-4bce-bece-e71cad7e7c07/0.m3u8	
-
-#EXTINF:-1 Miami TV Mexico , group-title="Adultos"
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
-
-#EXTINF:-1 Miami TV Latino , group-title="Adultos"
-https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w923735274.m3u8	
-
-#EXTINF:-1 Pornstar , group-title="Adultos"
-http://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1 TeleCondor , group-title="Adultos"
-https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/chunklist_w522667883.m3u8
-
-#EXTINF:-1 AST , group-title="Adultos"
-http://www.ast.tv/stream/1/master.m3u8
-
-#EXTINF:-1 Latinas , group-title="Adultos"
-http://cdn.adultiptv.net/latina.m3u8
-
-#EXTINF:-1 Lesbians , group-title="Adultos"
-http://cdn.adultiptv.net/lesbians.m3u8
-
-#EXTINF:-1 Gays , group-title="Adultos"
-http://cdn.adultiptv.net/gays.m3u8
+Channel name: Studio Universal
+URL:http://tv.teleclub.xyz/live/ABRIL_01/STUDIO_UNIVERSAL/index.m3u8
