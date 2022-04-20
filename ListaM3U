@@ -1,0 +1,46 @@
+#EXTM3U
+
+
+#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+#
+#Canales de Television online a nivel completo y muy cargado
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV-de-paga.m3u
+#ultima actualizacion: 14/04/2022
+#
+#*****************************
+#EXTM3U
+#EXTINF:-1 Euronews , group-title="Internacional" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/69942044_2405197079701363_2743467264341704704_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=RC3PnYoxKr8AX-c2zHh&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-rTyOrX2SloBDkXZccdd-HPdJbzWR_jJq5FBQ1rvJ0zQ&oe=62860E96"
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 TV Galicia , group-title="Internacional" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/49284657_1997727796931074_6905020918938992640_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=tZq_6CtST-cAX-3rsOC&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-DJMDLwpnHEUVLbAiuAuD8U4Ku1q6iOpI7iyCMkkI3Ow&oe=62830F98"
+https://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 DW Latino , group-title="Internacional" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/21032648_1686595931374489_4963542854219677951_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=nOkuAQ7g9ykAX-rtO9k&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_nNfWrwu_HO-n0j0jpwWdAoBzYSO4BbyjOFakeOYfvDg&oe=62855BB2"
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 ET , group-title="Entretenimiento" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/239862493_10159876548586180_1043749538433275272_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=eHqoZNUjBcMAX80Y0Ya&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-VkrA5bIZ2pY_UBLIdARCRgna52WhZ4fiLZ9urIRR02A&oe=62638B3D"
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 El Financiero , group-title="Informativo" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/27500232_10155461324243915_9076575913727680348_o.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=-ZzVj0ajZo0AX_2kxlR&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_TEh9OsHNh3tDCo9mxO9jqQvl4b_nhhhVEGb1RoLLnlw&oe=6286B4F9"
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF:-1 Foro TV , group-title="Informativo" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8y7kegloEtXzcpH27mlGHkhjiuiclZpbZw&usqp=CAU"
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 ADN40 , group-title="Informativo" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/278021545_1703648610022472_9205882044378832412_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FfkCoUzzrAQAX-VR2xP&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_YwvNf8-p1NXG5KLZI4h676JOL7la7mZ-vTcWUmKZM3A&oe=6263536C"
+https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/b14c7eb6-9089-4cac-b2e6-da54c763cfc3:TUL/master.m3u8
+
+#EXTINF:-1 Panamericana , group-title="Entretenimiento" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB"
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 Tastemade , group-title="Entretenimiento" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D"
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 Fashion TV , group-title="Vanidades" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/17021863_10154255489271611_6452543760317257382_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=aTgC4byBZRcAX-3cHBH&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-1HVY417ETxzjI5ZPFNovv2p-eKW_owjJ4DPbzNMbYeQ&oe=6286C2C4"
+https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
+
+#EXTINF:-1 MiamiTV , group-title="Adultos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/13041111_1056792767710373_7901134182179208542_o.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=dOjKN9Bv4_kAX-VqoVD&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-nmT24vAG2LbhXSUmTy44zEBJvtAAVLVyvxHg3nZ9o0w&oe=6284DF68"
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+#EXTINF:-1 LocomotionTV
+http://51.222.85.85:81/hls/loco/index.m3u8
