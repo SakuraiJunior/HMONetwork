@@ -134,3 +134,99 @@ http://tv.teleclub.xyz/live/ABRIL_01/WARNER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN
 http://tv.teleclub.xyz/live/ABRIL_01/AXN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX
+http://tv.teleclub.xyz/live/ABRIL_01/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS
+http://tv.teleclub.xyz/live/ABRIL_01/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Entretenimiento", TNT
+http://tv.teleclub.xyz/live/ABRIL_01/TNT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series
+http://tv.teleclub.xyz/live/ABRIL_01/TNT_SERIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax
+http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony
+http://tv.teleclub.xyz/live/ABRIL_01/SONY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kp7HMZ.png" group-title="Entretenimiento", DePelicula
+http://tv.teleclub.xyz/live/ABRIL_01/DEPELICULA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal
+http://tv.teleclub.xyz/live/ABRIL_01/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO
+http://tv.teleclub.xyz/live/ABRIL_01/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO 2
+http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento", HBO Plus
+http://tv.teleclub.xyz/live/ABRIL_01/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Entretenimiento", HBO Family
+http://tv.teleclub.xyz/live/ABRIL_01/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge
+http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier
+http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_PREMIER/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden PLUS
+http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC
+http://tv.teleclub.xyz/live/ABRIL_01/AMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE
+http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV
+http://tv.teleclub.xyz/live/ABRIL_01/MTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="Musica", Nick Music
+http://tv.teleclub.xyz/live/ABRIL_01/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN
+http://tv.teleclub.xyz/live/ABRIL_01/TUDN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados
+http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports
+http://tv.teleclub.xyz/live/ABRIL_01/CLARO_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes", GolTV
+http://tv.teleclub.xyz/live/ABRIL_01/GOLTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv 2
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv Plus
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 MX
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN2_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 MX
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN3_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports MX
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 2 MX
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_MX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 3 MX
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS3_MX/index.m3u8
