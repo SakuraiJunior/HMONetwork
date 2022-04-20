@@ -5,10 +5,16 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/ListaM3U.m3u
-#ultima actualizacion: 19/04/2022
+#ultima actualizacion: 20/04/2022
 #
 #*****************************
 #EXTM3U
+#EXTINF:-1 Azteca 7 , group-title="Nacional"
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+
+#EXTINF:-1 Azteca Uno , group-title="Nacional"
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
 #EXTINF:-1 Euronews , group-title="Internacional" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/69942044_2405197079701363_2743467264341704704_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=RC3PnYoxKr8AX-c2zHh&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-rTyOrX2SloBDkXZccdd-HPdJbzWR_jJq5FBQ1rvJ0zQ&oe=62860E96"
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -32,6 +38,12 @@ https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/b14c7eb
 
 #EXTINF:-1 Panamericana , group-title="Entretenimiento" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB"
 https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 Multimedios MTY , group-title="Nacional" , tvg-logo="https://i.imgur.com/A9kTYN8.png"
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 Canal Once Int. , group-title="Nacional" , tvg-logo="https://i.imgur.com/dFQBOLD.png"
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:-1 Tastemade , group-title="Entretenimiento" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D"
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
@@ -57,7 +69,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m
 #EXTINF:-1 Mariavision , group-title="Religion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 Energeek 2 , group-title="Friki" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
+#EXTINF:-1 Energeek 2 , group-title="Geek" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
 #EXTINF:-1 Latino Kids , group-title="Infantil" , tvg-logo="https://i.imgur.com/x19mmox.png"
@@ -66,14 +78,50 @@ https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1479625489.m3u8
 #EXTINF:-1 Motorvision Latino , group-title="Deportes" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
-#EXTINF:-1 CSTV , group-title="Maraton" , tvg-logo="https://i.imgur.com/ThA7Ss3.png"
+#EXTINF:-1 Los Simpson , group-title="Maraton" , tvg-logo="https://i.imgur.com/ThA7Ss3.png"
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 #EXTINF:-1 A3Bikini TV , group-title="Adultos" , tvg-logo="https://i.imgur.com/mR1I8hE.png"
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:-1 FuturamaMania , group-title="Maraton" , tvg-logo="https://i.imgur.com/hPgUeK5.png"
+#EXTINF:-1 Futurama , group-title="Maraton" , tvg-logo="https://i.imgur.com/hPgUeK5.png"
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 
 #EXTINF:-1 El Chavo , group-title="Maraton" , tvg-logo="https://i.imgur.com/7gMqvsV.png"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+
+#EXTINF:-1 South Park , group-title="Maraton"
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 MTV Animaciones , group-title="Entretenimiento"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
+
+#EXTINF:-1 Anime All Day , group-title="Geek"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+
+#EXTINF:-1 Nick Latino , group-title="Infantil"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+
+#EXTINF:-1 Babyfirst , group-title="Infantil"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22356-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9245c0c5-80d7-43b0-a132-df93fca90821&userId=&serverSideAds=true
+
+#EXTINF:-1 Nickteen , group-title="Infantil"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
+
+#EXTINF:-1 Nick Junior , group-title="Infantil"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
+
+#EXTINF:-1 Kenan y Kel , group-title="Maraton"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
+
+#EXTINF:-1 LevelupTV , group-title="Geek"
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
+
+#EXTINF:-1 Triple A Network , group-title="Deportes"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+
+#EXTINF:-1 MTVLA , group-title="Musica"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
+
+#EXTINF:-1 Teleritmo , group-title="Musica" , tvg-logo="https://i.imgur.com/jkPslQI.png"
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
