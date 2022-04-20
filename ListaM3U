@@ -42,5 +42,17 @@ https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 #EXTINF:-1 MiamiTV , group-title="Adultos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/13041111_1056792767710373_7901134182179208542_o.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=dOjKN9Bv4_kAX-VqoVD&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-nmT24vAG2LbhXSUmTy44zEBJvtAAVLVyvxHg3nZ9o0w&oe=6284DF68"
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
-#EXTINF:-1 LocomotionTV
+#EXTINF:-1 LocomotionTV , group-title="Infantil" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=ujJsPD93RasAX--m5tj&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_6n6T0CSXuAxqXXsk_qslFApu3xAxGuSb_IR9KScv_jA&oe=6264D1E4"
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 Top Latino , group-title="Musica" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/26231217_10156143404789695_5201236062657549438_n.png?stp=dst-png_p200x200&_nc_cat=105&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=7iAmthR-xfAAX9Y03Hr&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9GfB4UJGzFQQIgO9I9VEBoHhksKmDoNNNg68JZiJ8NLw&oe=628303B9"
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF:-1 MusicTop , group-title="Musica" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/31935511_419743581820170_8081585561380323328_n.png?stp=c77.0.200.200a_dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=yYAinzd6hIgAX8PaKwb&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-qjOzTM0kFM7l8lYc24G5TXRSWpRIQgfKWSU23tGvRgg&oe=628472F7"
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 EWTN , group-title="Religion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/12733391_10156536942145346_2214045748539562892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=PKwYyhnHJl0AX_KETpf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT82vFHol9IL8MGhCV7FM3W7p4qlWn1ytwy1yJcq13VfJg&oe=628443C3"
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+
+#EXTINF:-1 Mariavision , group-title="Religion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
