@@ -37,38 +37,37 @@ http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", BITME
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN en Español [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CNN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo", Glitz [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V4EsZKk.png" group-title="Mundo", Bloomberg [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/BLOOMBERG/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo", RT en Español [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Mundo", TruTV [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo", Lifetime [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40 [Club]
-http://tv.teleclub.xyz/live/ABRIL_01/ADN40/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCN [Club]
-http://tv.teleclub.xyz/live/ABRIL_01/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe [Club]
-http://tv.teleclub.xyz/live/ABRIL_01/TELEFE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/HOLATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas [Club]
-http://tv.teleclub.xyz/live/ABRIL_01/LAS_ESTRELLAS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwuhYqI.png" group-title="Mundo", E! [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV [Club]
-http://tv.teleclub.xyz/live/ABRIL_01/CARACOLTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7 [Club]
-http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Univisión [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlVaGFa.png" group-title="Mundo", Mega Chile [E]
