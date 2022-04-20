@@ -69,5 +69,11 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 #EXTINF:-1 CSTV , group-title="Maraton" , tvg-logo="https://i.imgur.com/ThA7Ss3.png"
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:-1 A3Bikini , group-title="Adultos" , tvg-logo="https://i.imgur.com/mR1I8hE.png"
+#EXTINF:-1 A3Bikini TV , group-title="Adultos" , tvg-logo="https://i.imgur.com/mR1I8hE.png"
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:-1 FuturamaMania , group-title="Maraton" , tvg-logo="https://i.imgur.com/hPgUeK5.png"
+https://m3u-editor.com/serve/televitolibre/511000607.m3u8
+
+#EXTINF:-1 El Chavo , group-title="Maraton" , tvg-logo="https://i.imgur.com/7gMqvsV.png"
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
