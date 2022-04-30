@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/ListaM3U.m3u
-#ultima actualizacion: 29/04/2022
+#ultima actualizacion: 30/04/2022
 #
 #*****************************
 #EXTM3U
@@ -17,6 +17,9 @@ http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
 #EXTINF:-1 Azteca Uno , group-title="Nacional"
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
+#EXTINF:-1 Cartoon2000 , group-title="Infantil" , tvg-logo="https://i.imgur.com/is9iOmM.png"
+http://cnjahh21.duckdns.org/hls/stream/index.m3u8
 
 #EXTINF:-1 Euronews , group-title="Internacional" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/69942044_2405197079701363_2743467264341704704_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=RC3PnYoxKr8AX-c2zHh&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-rTyOrX2SloBDkXZccdd-HPdJbzWR_jJq5FBQ1rvJ0zQ&oe=62860E96"
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -72,6 +75,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m
 #EXTINF:-1 Mariavision , group-title="Religion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
+#EXTINF:-1 Energeek , group-title="Geek" , tvg-logo="https://i.imgur.com/cbnBZRv.jpg"
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+
 #EXTINF:-1 Energeek 2 , group-title="Geek" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
 
@@ -105,7 +111,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c
 #EXTINF:-1 Anime All Day , group-title="Geek"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
 
-#EXTINF:-1 Nick Latino , group-title="Infantil"
+#EXTINF:-1 Nick Clasico , group-title="Infantil"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
 
 #EXTINF:-1 Babyfirst , group-title="Infantil"
