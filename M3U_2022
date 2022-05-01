@@ -84,9 +84,6 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034
 #EXTINF:-1 Estrellas News , group-title="Entretenimiento" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 Latino Kids , group-title="Infantil" , tvg-logo="https://i.imgur.com/x19mmox.png"
-https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1479625489.m3u8
-
 #EXTINF:-1 Motorvision Latino , group-title="Deportes" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
