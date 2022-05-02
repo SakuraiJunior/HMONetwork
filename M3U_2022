@@ -5,11 +5,11 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://bit.ly/3OSwZ6X
-#ultima actualizacion: 1/05/2022
+#ultima actualizacion: 2/05/2022
 #
 #*****************************
 #EXTM3U
-#EXTINF:-1 Tip Me , group-title="CAC"
+#EXTINF:-1 Ko-Fi , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
 https://ko-fi.com/summary/51da35f3-c2a8-4d0e-894f-e1496c6a1b90
 
 #EXTINF:-1 Azteca 7 , group-title="Nacional"
