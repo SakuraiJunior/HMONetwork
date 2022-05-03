@@ -273,7 +273,7 @@ http://tv.teleclub.xyz/live/ABRIL_01/TNT/index.m3u8
 #EXTINF:-1 TNT Series , tvg-logo="https://i.imgur.com/JDNccBb.jpg" , group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/TNT_SERIES/index.m3u8
 
-#EXTINF:-1 Cinemax , tvg-logo="https://i.imgur.com/6jPJl1q.jpg" , group-title="Entretenimiento"
+#EXTINF:-1 Cinemax , tvg-logo="https://i.imgur.com/6jPJl1q.jpg" , group-title="Peliculas"
 http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
 
 #EXTINF:-1 Canal Sony , tvg-logo="https://i.imgur.com/0OpKA6g.jpg" , group-title="Entretenimiento"
