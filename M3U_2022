@@ -138,9 +138,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 Videorola , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
-#EXTINF:-1 ROH-TV , group-title="Deportes" , tvg-logo="https://images.app.goo.gl/VoUB2QAmR7TfverK8"
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 Cartoon Network , tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" , group-title="Infantil"
 http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
 
