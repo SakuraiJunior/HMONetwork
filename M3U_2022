@@ -21,9 +21,6 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 Aniplus , group-title="Geek" , tvg-logo="https://images.app.goo.gl/NWxPppzCkPTcmQrP9"
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 
-#EXTINF:-1 AZTV , group-title="Geek" , tvg-logo="https://images.app.goo.gl/XqC77NAyNRb2BxS5A"
-http://azxtv.com/hls/stream.m3u8
-
 #EXTINF:-1 Cartoon2000 , group-title="Infantil" , tvg-logo="https://i.imgur.com/is9iOmM.png"
 http://cnjahh21.duckdns.org/hls/stream/index.m3u8
 
