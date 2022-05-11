@@ -78,12 +78,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m
 #EXTINF:-1 Mariavision , group-title="Religion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 Energeek , group-title="Geek" , tvg-logo="https://i.imgur.com/cbnBZRv.jpg"
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
-
-#EXTINF:-1 Energeek 2 , group-title="Geek" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?fbclid=IwAR034gJ6Eq0upg_gAGBQWro6CM-FaAphBmSZKaunOOKHY4qvRL04GrC03ew
-
 #EXTINF:-1 Estrellas News , group-title="Entretenimiento" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
@@ -168,7 +162,7 @@ http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
 #EXTINF:-1 Nick toons , tvg-logo="https://i.imgur.com/jIVfWNP.png" , group-title="Infantil"
 http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
-#EXTINF:-1 BitMe , tvg-logo="https://i.imgur.com/u4sw0pf.png" , group-title="Infantil"
+#EXTINF:-1 BitMe , tvg-logo="https://i.imgur.com/u4sw0pf.png" , group-title="Geek"
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 #EXTINF:-1 CNN en Español , tvg-logo="https://i.imgur.com/MBBRBkz.png" , group-title="Noticias"
 http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
@@ -198,17 +192,17 @@ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_ID/index.m3u8
 #EXTINF:-1 Discovery H&H tvg-logo="https://i.imgur.com/OO9PaGb.jpg" , group-title="Vanidad"
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_HYH/index.m3u8
-#EXTINF:-1 History Channel , tvg-logo="https://i.imgur.com/J897iGL.jpg" , group-title="Cultura"
+#EXTINF:-1 History Channel , tvg-logo="https://i.imgur.com/J897iGL.jpg" , group-title="Educativo"
 http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
-#EXTINF:-1 H2 , tvg-logo="https://i.imgur.com/ypR4tvy.jpg" , group-title="Cultura"
+#EXTINF:-1 H2 , tvg-logo="https://i.imgur.com/ypR4tvy.jpg" , group-title="Educativo"
 http://tv.teleclub.xyz/live/ABRIL_01/H2/index.m3u8
-#EXTINF:-1 National Geography , tvg-logo="https://i.imgur.com/dq6jLKm.jpg" , group-title="Cultura"
+#EXTINF:-1 National Geography , tvg-logo="https://i.imgur.com/dq6jLKm.jpg" , group-title="Educativo"
 http://tv.teleclub.xyz/live/ABRIL_01/NATGEO/index.m3u8
 #EXTINF:-1 A&E Latino , tvg-logo="https://i.imgur.com/7Vaq92j.jpg" , group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
-#EXTINF:-1 Animal Planet , tvg-logo="https://i.imgur.com/pTPpWJi.jpg" , group-title="Cultura"
+#EXTINF:-1 Animal Planet , tvg-logo="https://i.imgur.com/pTPpWJi.jpg" , group-title="Educativo"
 http://tv.teleclub.xyz/live/ABRIL_01/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 TLC , tvg-logo="https://i.imgur.com/XW8CuxK.jpg" , group-title="Cultura"
+#EXTINF:-1 TLC , tvg-logo="https://i.imgur.com/XW8CuxK.jpg" , group-title="Educativo"
 http://tv.teleclub.xyz/live/ABRIL_01/TLC/index.m3u8
 #EXTINF:-1 Comedy Central , tvg-logo="https://i.imgur.com/JRVqHBL.png" , group-title="Entretenimiento"
 http://tv.teleclub.xyz/live/ABRIL_01/COMEDYCENTRAL/index.m3u8
