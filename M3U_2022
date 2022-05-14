@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/M3U_2022.m3u
-#ultima actualizacion: 13/05/2022
+#ultima actualizacion: 14/05/2022
 #
 #*****************************
 #EXTM3U
@@ -81,6 +81,18 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 Motorvision Latino , group-title="Deportes" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
+#EXTINF:-1 Teleritmo , group-title="Musica" , tvg-logo="https://i.imgur.com/jkPslQI.png"
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
+
+#EXTINF:-1 Videorola , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+#EXTINF:-1 LevelupTV , group-title="Geek" , tvg-logo="https://www.levelup.com/images/logoOG.png"
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
+
+#EXTINF:-1 Runtime Latino , group-title="Entretenimiento" , tvg-logo="https://i.postimg.cc/Vkmxcwdj/RUN-TIME.png"
+https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+
 #EXTINF:-1 Los Simpson , group-title="Maraton" , tvg-logo="https://i.imgur.com/ThA7Ss3.png"
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
@@ -120,20 +132,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0
 #EXTINF:-1 Kenan y Kel , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
 
-#EXTINF:-1 LevelupTV , group-title="Geek"
-https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
-
 #EXTINF:-1 Lucha Libre AAA , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 
 #EXTINF:-1 MTV , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
 
-#EXTINF:-1 Teleritmo , group-title="Musica" , tvg-logo="https://i.imgur.com/jkPslQI.png"
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
-
-#EXTINF:-1 Videorola , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 Comedy Central , group-title="PlutoTV"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType
 
 #EXTINF:-1 Cinemax , group-title="Eventos" , tvg-logo="https://i.imgur.com/6jPJl1q.jpg"
 http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
@@ -153,8 +159,8 @@ http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_MX/index.m3u8
 #EXTINF:-1 Fox Sport 2 , group-title="Eventos" , tvg-logo="https://i.imgur.com/NDWwKQI.jpg"
 http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_MX/index.m3u8
 
-#EXTINF:-1 Afizzionados , tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes
+#EXTINF:-1 Afizzionados , group-title="Eventos" , tvg-logo="https://i.imgur.com/LLWkHuv.png"
 http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports [Club]
+#EXTINF:-1 Claro Sports , group-title="Eventos" , tvg-logo="https://i.imgur.com/a70GlGB.jpg"
 http://tv.teleclub.xyz/live/ABRIL_01/CLARO_SPORTS/index.m3u8
