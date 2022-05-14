@@ -78,6 +78,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 Estrellas News , group-title="Entretenimiento" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 Comedy Central , group-title="Entretenimiento" , tvg-logo="https://i.imgur.com/JRVqHBL.png
+tv.teleclub.xyz/live/ABRIL_01/COMEDYCENTRAL/index.m3u8
+
 #EXTINF:-1 Motorvision Latino , group-title="Deportes" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
@@ -137,9 +140,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 #EXTINF:-1 MTV , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
-
-#EXTINF:-1 Comedy Central , group-title="PlutoTV"
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType
 
 #EXTINF:-1 Cinemax , group-title="Eventos" , tvg-logo="https://i.imgur.com/6jPJl1q.jpg"
 http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
