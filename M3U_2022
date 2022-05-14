@@ -134,3 +134,27 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 Videorola , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+#EXTINF:-1 Cinemax , group-title="Eventos" , tvg-logo="https://i.imgur.com/6jPJl1q.jpg"
+http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
+
+#EXTINF:-1 Space , group-title="Eventos" , tvg-logo="https://i.imgur.com/vZLlUrl.jpg"
+http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
+
+#EXTINF:-1 ESPN , group-title="Eventos" , tvg-logo="https://i.imgur.com/Qltczdi.jpg"
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN_MX/index.m3u8
+
+#EXTINF:-1 ESPN2 , group-title="Eventos" , tvg-logo="https://i.imgur.com/Qltczdi.jpg"
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN2_MX/index.m3u8
+
+#EXTINF:-1 Fox Sport , group-title="Eventos" , tvg-logo="https://i.imgur.com/NDWwKQI.jpg"
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_MX/index.m3u8
+
+#EXTINF:-1 Fox Sport 2 , group-title="Eventos" , tvg-logo="https://i.imgur.com/NDWwKQI.jpg"
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_MX/index.m3u8
+
+#EXTINF:-1 Afizzionados , tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes
+http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/CLARO_SPORTS/index.m3u8
