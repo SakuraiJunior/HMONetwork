@@ -21,7 +21,7 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 Aniplus , group-title="Geek" , tvg-logo="https://images.app.goo.gl/NWxPppzCkPTcmQrP9"
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 
-#EXTINF:-1 Cartoon2000 , group-title="Infantil" , tvg-logo="https://i.imgur.com/is9iOmM.png"
+#EXTINF:-1 CN City , group-title="Infantil" , tvg-logo="https://i.imgur.com/is9iOmM.png"
 http://cnjahh21.duckdns.org/hls/stream/index.m3u8
 
 #EXTINF:-1 Euronews , group-title="Internacional" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/69942044_2405197079701363_2743467264341704704_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=RC3PnYoxKr8AX-c2zHh&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-rTyOrX2SloBDkXZccdd-HPdJbzWR_jJq5FBQ1rvJ0zQ&oe=62860E96"
@@ -111,7 +111,7 @@ https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 #EXTINF:-1 El Chavo , group-title="Maraton" , tvg-logo="https://i.imgur.com/7gMqvsV.png"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
-#EXTINF:-1 South Park , group-title="PlutoTV"
+#EXTINF:-1 Comedy Central South Park , group-title="PlutoTV"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 MTV Animaciones , group-title="PlutoTV"
@@ -140,6 +140,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 #EXTINF:-1 MTV , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
+
+#EXTINF:-1 AEW , group-title="PlutoTV"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 Cinemax , group-title="Eventos" , tvg-logo="https://i.imgur.com/6jPJl1q.jpg"
 http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
