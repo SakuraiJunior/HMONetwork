@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/M3U_2022.m3u
-#ultima actualizacion: 14/05/2022
+#ultima actualizacion: 15/05/2022
 #
 #*****************************
 #EXTM3U
@@ -13,10 +13,10 @@
 https://cutt.ly/4HgNMCW
 
 #EXTINF:-1 Azteca 7 , group-title="Nacional"
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 Azteca Uno , group-title="Nacional"
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 Aniplus , group-title="Geek" , tvg-logo="https://images.app.goo.gl/NWxPppzCkPTcmQrP9"
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
@@ -43,7 +43,7 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 ADN40 , group-title="Informativo" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/278021545_1703648610022472_9205882044378832412_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FfkCoUzzrAQAX-VR2xP&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_YwvNf8-p1NXG5KLZI4h676JOL7la7mZ-vTcWUmKZM3A&oe=6263536C"
-https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/b14c7eb6-9089-4cac-b2e6-da54c763cfc3:TUL/master.m3u8
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 Panamericana , group-title="Entretenimiento" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB"
 https://cdnhd.iblups.com/hls/ptv2.m3u8
@@ -93,6 +93,9 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 #EXTINF:-1 LevelupTV , group-title="Geek" , tvg-logo="https://www.levelup.com/images/logoOG.png"
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
+#EXTINF:-1 Energeek , group-title="Geek" , tvg-logo="https://i.imgur.com/GmLDkty.jpg"
+https://5eff35271151c.streamlock.net:1936/8098/8098/chunklist_w1431939703.m3u8
+
 #EXTINF:-1 Runtime Latino , group-title="Entretenimiento" , tvg-logo="https://i.postimg.cc/Vkmxcwdj/RUN-TIME.png"
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
@@ -111,8 +114,17 @@ https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 #EXTINF:-1 El Chavo , group-title="Maraton" , tvg-logo="https://i.imgur.com/7gMqvsV.png"
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
-#EXTINF:-1 Comedy Central South Park , group-title="PlutoTV"
+#EXTINF:-1 RB Batalla de Gallos , group-title="Maraton" , tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg"
+https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 Comedy Central , group-title="PlutoTV"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=967&deviceId=5cf96dad1652631e36d43320&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 CC South Park , group-title="PlutoTV"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 MTVLA , group-title="PlutoTV"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 MTV Animaciones , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
@@ -137,9 +149,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071
 
 #EXTINF:-1 Lucha Libre AAA , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-
-#EXTINF:-1 MTV , group-title="PlutoTV"
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
 
 #EXTINF:-1 AEW , group-title="PlutoTV"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
