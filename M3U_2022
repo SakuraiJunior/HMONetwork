@@ -105,6 +105,9 @@ http://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
 #EXTINF:-1 A3Bikini TV , group-title="Adultos" , tvg-logo="https://i.imgur.com/mR1I8hE.png"
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
+#EXTINF:-1 South Park , group-title="Maraton" , tvg-logo="https://i.imgur.com/bDNriCW.png"
+https://m3u-editor.com/serve/rokumaniatest/156476846
+
 #EXTINF:-1 Futurama , group-title="Maraton" , tvg-logo="https://i.imgur.com/hPgUeK5.png"
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 
