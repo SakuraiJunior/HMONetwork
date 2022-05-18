@@ -75,7 +75,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m
 #EXTINF:-1 Mariavision , group-title="Religion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 Estrellas News , group-title="Entretenimiento" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
+#EXTINF:-1 EstrellaTV , group-title="Entretenimiento" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 Motorvision Latino , group-title="Deportes" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
