@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/MAYO_2022
-#ultima actualizacion: 20/05/2022
+#ultima actualizacion: 21/05/2022
 #
 #*****************************
 #EXTM3U
@@ -21,8 +21,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 Aniplus , group-title="Geek" , tvg-logo="https://images.app.goo.gl/NWxPppzCkPTcmQrP9"
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 
-#EXTINF:-1 CN City , group-title="Infantil" , tvg-logo="https://i.imgur.com/is9iOmM.png"
-http://cnjahh21.duckdns.org/hls/stream/index.m3u8
+#EXTINF:-1 CNGo, group-title="Infantil" , tvg-logo="https://i.imgur.com/is9iOmM.png"
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 Euronews , group-title="Internacional" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/69942044_2405197079701363_2743467264341704704_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=RC3PnYoxKr8AX-c2zHh&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-rTyOrX2SloBDkXZccdd-HPdJbzWR_jJq5FBQ1rvJ0zQ&oe=62860E96"
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -86,6 +86,9 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 Videorola , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+#EXTING:-1 LocomotionTV , group-title="Geek" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=8Rf-8N2WUtkAX_KvPQV&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_OTITAv2XY0I_LJsMOsG77-7c8cxjTSX6s8VysyE5ysg&oe=628C5EE4"
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 LevelupTV , group-title="Geek" , tvg-logo="https://www.levelup.com/images/logoOG.png"
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
