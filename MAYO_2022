@@ -21,6 +21,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 Aniplus , group-title="Geek" , tvg-logo="https://images.app.goo.gl/NWxPppzCkPTcmQrP9"
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 
+#EXTINF:-1 AZTV , grou-title="Geek" ,tvg-logo="https://i.imgur.com/z1VIGD7.png"
+http://azxtv.com/hls/stream.m3u8
+
 #EXTINF:-1 CN Anything, group-title="Infantil" , tvg-logo="https://i.imgur.com/is9iOmM.png"
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
@@ -155,3 +158,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 #EXTINF:-1 AEW , group-title="PlutoTV"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 VEVO Reggaeton & Trap , group-title="PlutoTV"
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=38e196a2-708d-11eb-bf86-7bc5164e9874&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2c858485-6b99-43a3-ae20-f37f9be38e56&userId=&serverSideAds=true
