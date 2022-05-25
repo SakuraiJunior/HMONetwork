@@ -90,6 +90,9 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 Videorola , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
+#EXT:-1 Futbol Network , group-title="Deporte"
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+
 #EXTING:-1 LocomotionTV , group-title="Geek" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=8Rf-8N2WUtkAX_KvPQV&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_OTITAv2XY0I_LJsMOsG77-7c8cxjTSX6s8VysyE5ysg&oe=628C5EE4"
 http://51.222.85.85:81/hls/loco/index.m3u8
 
