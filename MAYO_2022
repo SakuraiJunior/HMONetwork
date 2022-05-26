@@ -97,7 +97,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 #EXTINF:-1 Energeek , group-title="Geek" , tvg-logo="https://i.imgur.com/GmLDkty.jpg"
-https://5eff35271151c.streamlock.net:1936/8098/8098/chunklist_w1431939703.m3u8
+https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 Runtime Latino , group-title="Entretenimiento" , tvg-logo="https://i.postimg.cc/Vkmxcwdj/RUN-TIME.png"
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
