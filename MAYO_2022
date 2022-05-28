@@ -144,7 +144,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a0007
 #EXTINF:-1 Nick Junior Club , group-title="PlutoTV"
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
 
-#EXTINF:-1 RobertoEsponja Plus , group-title="PlutoTV"
+#EXTINF:-1 Bob Esponja , group-title="PlutoTV"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 Kenan y Kel , group-title="PlutoTV"
@@ -180,9 +180,6 @@ http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 Claro Sport , tvg-logo="https://i.imgur.com/a70GlGB.jpg" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/CLARO_SPORTS/index.m3u8
 
-#EXTINF:-1 Bob Esponja , tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="Club"
-http://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
-
 #EXTINF:-1 Distrito Comedia , tvg-logo="https://i.imgur.com/4bBkM3X.png" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/DISTRITOCOMEDIA/index.m3u8
 
@@ -194,9 +191,6 @@ http://tv.teleclub.xyz/live/ABRIL_01/HOLATV/index.m3u8
 
 #EXTINF:-1 Win Sports , tvg-logo="https://i.imgur.com/84ZytvL.png" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/WIN_SPORTS/index.m3u8
-
-EXTINF:-1 BitMe , tvg-logo="https://i.imgur.com/u4sw0pf.png" , group-title="Club"
-http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 
 EXTINF:-1 Golden Edge , tvg-logo="https://i.imgur.com/nx4RIpb.png" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
