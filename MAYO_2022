@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/MAYO_2022
-#ultima actualizacion: 26/05/2022
+#ultima actualizacion: 27/05/2022
 #
 #*****************************
 #EXTM3U
@@ -200,3 +200,30 @@ http://tv.teleclub.xyz/live/ABRIL_01/WIN_SPORTS/index.m3u8
 
 EXTINF:-1 BitMe , tvg-logo="https://i.imgur.com/u4sw0pf.png" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+
+EXTINF:-1 Golden Edge , tvg-logo="https://i.imgur.com/nx4RIpb.png" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
+
+#EXTINF:-1 Space , tvg-logo="https://i.imgur.com/vZLlUrl.jpg" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
+
+#EXTINF:-1 MTV Hits , tvg-logo="https://i.imgur.com/8fWEIJj.png" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/MTV_HITS/index.m3u8
+
+#EXTINF:-1 Directv , tvg-logo="https://i.imgur.com/TG1HRPi.png" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV/index.m3u8
+
+#EXTINF:-1 Cinemax , tvg-logo="https://i.imgur.com/6jPJl1q.jpg" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
+
+#EXTINF:-1 TNT Series , tvg-logo="https://i.imgur.com/JDNccBb.jpg" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/TNT_SERIES/index.m3u8
+
+#EXTINF:-1 HBO , tvg-logo="https://i.imgur.com/4pK7qIc.jpg" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/HBO/index.m3u8
+
+#EXTINF:-1 HBO2 , tvg-logo="https://i.imgur.com/VjhL79o.jpg" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
+
+#EXTINF:-1 Nick Music , tvg-logo="https://i.imgur.com/Y3C9Jkb.png" , group-title="Club"
+http://tv.teleclub.xyz/live/ABRIL_01/NICK_MUSIC/index.m3u8
