@@ -183,7 +183,7 @@ http://tv.teleclub.xyz/live/ABRIL_01/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 Distrito Comedia , tvg-logo="https://i.imgur.com/4bBkM3X.png" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/DISTRITOCOMEDIA/index.m3u8
 
-#EXTINF:-1 Univision , tvg-logo="https://i.imgur.com/vpXleBr.png" , group-title="Club"
+#EXTINF:-1 Galavision , tvg-logo="https://i.imgur.com/vpXleBr.png" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
 
 #EXTINF:-1 HolaTV , tvg-logo="https://i.imgur.com/iGCVGEA.jpg" , group-title="Club"
