@@ -225,5 +225,5 @@ http://tv.teleclub.xyz/live/ABRIL_01/HBO/index.m3u8
 #EXTINF:-1 HBO2 , tvg-logo="https://i.imgur.com/VjhL79o.jpg" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
 
-#EXTINF:-1 Nick Music , tvg-logo="https://i.imgur.com/Y3C9Jkb.png" , group-title="Club"
+#EXTINF:-1 Chapulin Colorado , tvg-logo="https://i.imgur.com/Y3C9Jkb.png" , group-title="Club"
 http://tv.teleclub.xyz/live/ABRIL_01/NICK_MUSIC/index.m3u8
