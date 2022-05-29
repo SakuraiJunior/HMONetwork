@@ -114,6 +114,9 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 RB Batalla de Gallos , group-title="Maraton" , tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg"
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 Wowly , group-title="Infantil" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-9/140193001_103298258435239_7832228767022377379_n.png?stp=dst-png_s168x128&_nc_cat=107&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=jQF9KKqboZwAX8_hwSo&_nc_ht=scontent.fmex20-1.fna&oh=00_AT8UW7JWjZQK1jJutkpSga9utDKhWKMrs12ukoLjSgX2SQ&oe=62BAA56E"
+https://videohd.live:19360/8076/8076.m3u8
+
 #EXTINF:-1 Zapping Music , group-title="Musica" , tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0"
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
