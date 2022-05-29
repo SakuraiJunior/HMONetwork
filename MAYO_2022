@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/MAYO_2022
-#ultima actualizacion: 27/05/2022
+#ultima actualizacion: 29/05/2022
 #
 #*****************************
 #EXTM3U
@@ -157,7 +157,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 Teleclub , tvg-logo="https://i.imgur.com/lE9c256.jpg" , group-title="Club"
-http://tv.teleclub.xyz/hls/welcome.m3u8
+https://tv.teleclub.xyz/activar
 
 EXTINF:-1 EVENTOS01 , tvg-logo="https://i.imgur.com/b9qUv1a.png" , group-title="Club"
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
