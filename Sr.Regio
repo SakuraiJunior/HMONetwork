@@ -9,6 +9,8 @@
 #
 #*****************************
 #EXTM3U
+#EXTINF:-1 Ko-Fi , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
+https://ko-fi.com/Z8Z1AFLBG
 
 Channel name: Wowly
 https://wowly.stream/hls/stream_low/index.m3u8
