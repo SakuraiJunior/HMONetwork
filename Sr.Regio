@@ -12,97 +12,100 @@
 #EXTINF:-1 Ko-Fi , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
 https://ko-fi.com/Z8Z1AFLBG
 
-Channel name: Wowly
+#EXTINF:-1 Teleclub , tvg-logo="https://i.imgur.com/lE9c256.jpg" , group-title="Club"
+https://tv.teleclub.xyz/activar
+
+#EXTINF:-1 Wowly
 https://wowly.stream/hls/stream_low/index.m3u8
 
-Channel name: CGTN Español
+#EXTINF:-1 CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-Channel name: Top Cine Latam
+#EXTINF:-1 Top Cine Latam
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: Saber mas
+#EXTINF:-1 Saber mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: Tu Cine Latam
+#EXTINF:-1 Tu Cine Latam
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8?c_producer=tucinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: Flash
+#EXTINF:-1 Flash
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: El conflicto TV
+#EXTINF:-1 El conflicto TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=el-conflicto-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__
 
-Channel name: Chiquilines
+#EXTINF:-1 Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
 
-Channel name: Juntos
+#EXTINF:-1 Juntos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8?c_producer=Juntos&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
 
-Channel name: Cine Sureno
+#EXTINF:-1 Cine Sureno
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8?c_producer=CineSureno&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: Cine Real
+#EXTINF:-1 Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8?c_producer=cinereallatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: Casa Comedy
+#EXTINF:-1 Casa Comedy
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/PJO95835DTULIN4M5NHH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656023&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Casa%20Comedy&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
 
-Channel name: Spanglish
+#EXTINF:-1 Spanglish
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656024&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Spanglish&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
 
-Channel name: Horrorfy
+#EXTINF:-1 Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8?c_producer=Horrorfy&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: WappTV
+#EXTINF:-1 WappTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/loVfrsEac/%2B0000/c.m3u8?ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.client_ip=__CLIENT_IP__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.appCategory=__APP_CATEGORY__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.contentid=22963&ads.contenturl=__PAGEURL_ESC__&ads.rnd=__CACHE_BUSTER__&ads.content_duration=18000&ads.episode_id=55592&ads.show_id=1733&ads.showtitle=WappTV&ads.episodetitle=WappTV&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.app_version=__APP_VERSION__&ads.deviceMake=__DEVICE__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.keywords=wapptv%2Cspanish&ads.showCategories=IAB1&ads.episodeCategories=&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=&ads.language=es&ads.tagname=dtv&ads.language=es&ads.paln=__PALN__
 
-Channel name: MMC
+#EXTINF:-1 MMC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/playlist.m3u8?c_producer=tucineeurope&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-Channel name: Glewed TV
+#EXTINF:-1 Glewed TV
 https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
 
-Channel name: Claro Sports
+#EXTINF:-1 Claro Sports
 URL:https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-Channel name: Latino Kids
+#EXTINF:-1 Latino Kids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-Channel name: El Chavo TV
+#EXTINF:-1 El Chavo TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
-Channel name: WOW TV
+#EXTINF:-1 WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-Channel name: RT Espanol
+#EXTINF:-1 RT Espanol
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
-Channel name: EstrellaTV
+#EXTINF:-1 EstrellaTV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-Channel name: Azteca Uno
+#EXTINF:-1 Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-Channel name: Azteca 7
+#EXTINF:-1 Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-Channel name: AMas
+#EXTINF:-1 AMas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-Channel name: ADN40
+#EXTINF:-1 ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-Channel name: Videorola
+#EXTINF:-1 Videorola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
-Channel name: Paka Paka
+#EXTINF:-1 Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
-Channel name: RewindTV
+#EXTINF:-1 RewindTV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
-Channel name: La 2
+#EXTINF:-1 La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 Channel name: Las Estrellas
@@ -165,7 +168,7 @@ http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=ae
 Channel name: AXN
 http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=axn
 
-Channel name: COMEDY CENTRAL
+Channel name: Comedy Central
 http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=comedy
 
 Channel name: E! Entertaiment
