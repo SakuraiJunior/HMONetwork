@@ -75,16 +75,16 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="EWTN" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/12733391_10156536942145346_2214045748539562892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=PKwYyhnHJl0AX_KETpf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT82vFHol9IL8MGhCV7FM3W7p4qlWn1ytwy1yJcq13VfJg&oe=628443C3"
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 
-#EXTINF:-1 "Mariavision" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
+#EXTINF:-1 tvg-name="Mariavision" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 "EstrellaTV" , group-title="TVA" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
+#EXTINF:-1 tvg-name="EstrellaTV" , group-title="TVA" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 "Motorvision Latino" , group-title="TVA" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
+#EXTINF:-1 tvg-name="Motorvision Latino" , group-title="TVA" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
-#EXTINF:-1 "Teleritmo" , group-title="TVA" , tvg-logo="https://i.imgur.com/jkPslQI.png"
+#EXTINF:-1 tvg-name="Teleritmo" , group-title="TVA" , tvg-logo="https://i.imgur.com/jkPslQI.png"
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
 
 #EXTINF:-1 tvg-name="Videorola" , group-title="TVA" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
@@ -204,31 +204,28 @@ https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Spanglish" , group-title="SrRegio"
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656024&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Spanglish&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
 
-#EXTINF:-1 Horrorfy , group-title="SrRegio"
+#EXTINF:-1 tvg-name="Horrorfy" , group-title="SrRegio"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8?c_producer=Horrorfy&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 WappTV , group-title="SrRegio"
+#EXTINF:-1 tvg-name="WappTV" , group-title="SrRegio"
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/loVfrsEac/%2B0000/c.m3u8?ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.client_ip=__CLIENT_IP__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.appCategory=__APP_CATEGORY__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.contentid=22963&ads.contenturl=__PAGEURL_ESC__&ads.rnd=__CACHE_BUSTER__&ads.content_duration=18000&ads.episode_id=55592&ads.show_id=1733&ads.showtitle=WappTV&ads.episodetitle=WappTV&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.app_version=__APP_VERSION__&ads.deviceMake=__DEVICE__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.keywords=wapptv%2Cspanish&ads.showCategories=IAB1&ads.episodeCategories=&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=&ads.language=es&ads.tagname=dtv&ads.language=es&ads.paln=__PALN__
 
-#EXTINF:-1 MMC , group-title="SrRegio"
+#EXTINF:-1 tvg-name="MMC" , group-title="SrRegio"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/playlist.m3u8?c_producer=tucineeurope&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 Glewed TV , group-title="SrRegio"
+#EXTINF:-1 tvg-name="Glewed TV" , group-title="SrRegio"
 https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
 
-#EXTINF:-1 Claro Sports , group-title="SrRegio"
-URL:https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 tvg-name="Claro Sports" , group-title="SrRegio"
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 Latino Kids , group-title="SrRegio"
+#EXTINF:-1 tvg-name="Latino Kids" , group-title="SrRegio"
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-#EXTINF:-1 El Chavo TV , group-title="SrRegio"
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-
-#EXTINF:-1 WOW TV , group-title="SrRegio"
+#EXTINF:-1 tvg-name="WOW TV" , group-title="SrRegio"
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 RT Espanol , group-title="SrRegio"
+#EXTINF:-1 tvg-name="RT Espanol" , group-title="SrRegio"
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AMas" , group-title="SrRegio"
