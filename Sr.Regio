@@ -10,10 +10,7 @@
 #*****************************
 #EXTM3U
 
-Channel name: REGIO Channel
-http://srregio.net/php/SR_REGIO_715022_/th.php?channel=srregio&f.m3u8
-
-Channel name: Wowly 360p
+Channel name: Wowly
 https://wowly.stream/hls/stream_low/index.m3u8
 
 Channel name: CGTN Español
@@ -107,129 +104,130 @@ Channel name: La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 Channel name: Las Estrellas
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=eldos
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=eldos
 
 Channel name: El 5
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=elcinco
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=elcinco
 
 Channel name: EL Nueve
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=elnueve
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=elnueve
 
 Channel name: Imagen TV
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=imagentv
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=imagentv
 
 Channel name: Multimedios
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=multimedios
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=multimedios
 
 Channel name: Once TV
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=
 
 Channel name: Distrito Comedia
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=distrito
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=distrito
 
 Channel name: Unicable
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=unicable
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=unicable
 
 Channel name: ANTENA 3 Internacional
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=antena3int
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=antena3int
 
 Channel name: A3 Series
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=a3series
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=a3series
 
 Channel name: TVE
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tve
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tve
 
 Channel name: Caracol
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=caracol
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=caracol
 
 Channel name: RCN
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=rcn
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=rcn
 
 Channel name: Galavision
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=galavision
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=galavision
 
 Channel name: GLITZ
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=glitz
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=glitz
 
 Channel name: Telemundo Internacional
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=telemundoint
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=telemundoint
 
 Channel name: Unimas
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=unimas
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=unimas
+
 Channel name: AZ Corazon
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=azcorazon
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=azcorazon
 
 Channel name: AE Latino
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=ae
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=ae
 
 Channel name: AXN
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=axn
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=axn
 
 Channel name: COMEDY CENTRAL
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=comedy
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=comedy
 
 Channel name: E! Entertaiment
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=e
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=e
 
 Channel name: Star Channel
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=starch
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=starch
 
 Channel name: Star LIFE
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=starlife
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=starlife
 
 Channel name: FX
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=fx
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=fx
 
 Channel name: Discovery ID
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=id
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=id
 
 Channel name: Pasiones
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=pasiones
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=pasiones
 
 Channel name: RCN Novelas
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=univtln
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=univtln
 
 Channel name: SONY Channel
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=sony
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=sony
 
 Channel name: TLNovelas
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tlnovelas
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tlnovelas
 
 Channel name: TBS
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tbs
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tbs
 
 Channel name: TNT Series
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tntseries
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=tntseries
 
 Channel name: TRU TV
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=trutv
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=trutv
 
 Channel name: UNIVERSAL TV
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=universal
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=universal
 
 Channel name: WARNER TV
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=warner
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=warner
 
 Channel name: AZ CINEMA
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=azcinema
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=azcinema
 
 Channel name: AMC
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=amc
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=amc
 
 Channel name: Cinecanal
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=cinecanal
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=cinecanal
 
 Channel name: Cinemax
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=cinemax
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=cinemax
 
 Channel name: DePelicula
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=d
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=d
 
 Channel name: Film & Arts
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=filmarts
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=filmarts
 
 Channel name: FXM
-URL:http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=fxm
+http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=fxm
 
 Channel name: ISAT
 http://regioplay.xyz/php/SR_REGIO_715022_/elphpx.php?c=isat
