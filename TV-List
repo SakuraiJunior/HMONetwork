@@ -51,40 +51,40 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-name="Panamericana , group-title="Inter" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB"
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-name="Multimedios MTY , group-title="Vanidad" , tvg-logo="https://i.imgur.com/A9kTYN8.png"
+#EXTINF:-1 tvg-name="Multimedios MTY , group-title="Inter" , tvg-logo="https://i.imgur.com/A9kTYN8.png"
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-name="Canal Once Int." , group-title="General" , tvg-logo="https://i.imgur.com/dFQBOLD.png"
+#EXTINF:-1 tvg-name="Canal Once Int." , group-title="Inter" , tvg-logo="https://i.imgur.com/dFQBOLD.png"
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tastemade" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D"
+#EXTINF:-1 tvg-name="Tastemade" , group-title="Cultura" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D"
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fashion TV" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/17021863_10154255489271611_6452543760317257382_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=aTgC4byBZRcAX-3cHBH&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-1HVY417ETxzjI5ZPFNovv2p-eKW_owjJ4DPbzNMbYeQ&oe=6286C2C4"
+#EXTINF:-1 tvg-name="Fashion TV" , group-title="Cultura" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/17021863_10154255489271611_6452543760317257382_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=aTgC4byBZRcAX-3cHBH&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-1HVY417ETxzjI5ZPFNovv2p-eKW_owjJ4DPbzNMbYeQ&oe=6286C2C4"
 https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MiamiTV" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/13041111_1056792767710373_7901134182179208542_o.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=dOjKN9Bv4_kAX-VqoVD&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-nmT24vAG2LbhXSUmTy44zEBJvtAAVLVyvxHg3nZ9o0w&oe=6284DF68"
+#EXTINF:-1 tvg-name="MiamiTV" , group-title="XXX" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/13041111_1056792767710373_7901134182179208542_o.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=dOjKN9Bv4_kAX-VqoVD&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-nmT24vAG2LbhXSUmTy44zEBJvtAAVLVyvxHg3nZ9o0w&oe=6284DF68"
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Top Latino" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/26231217_10156143404789695_5201236062657549438_n.png?stp=dst-png_p200x200&_nc_cat=105&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=7iAmthR-xfAAX9Y03Hr&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9GfB4UJGzFQQIgO9I9VEBoHhksKmDoNNNg68JZiJ8NLw&oe=628303B9"
+#EXTINF:-1 tvg-name="Top Latino" , group-title="Musica" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/26231217_10156143404789695_5201236062657549438_n.png?stp=dst-png_p200x200&_nc_cat=105&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=7iAmthR-xfAAX9Y03Hr&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9GfB4UJGzFQQIgO9I9VEBoHhksKmDoNNNg68JZiJ8NLw&oe=628303B9"
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MusicTop" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/31935511_419743581820170_8081585561380323328_n.png?stp=c77.0.200.200a_dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=yYAinzd6hIgAX8PaKwb&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-qjOzTM0kFM7l8lYc24G5TXRSWpRIQgfKWSU23tGvRgg&oe=628472F7"
+#EXTINF:-1 tvg-name="MusicTop" , group-title="Musica" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/31935511_419743581820170_8081585561380323328_n.png?stp=c77.0.200.200a_dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=yYAinzd6hIgAX8PaKwb&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-qjOzTM0kFM7l8lYc24G5TXRSWpRIQgfKWSU23tGvRgg&oe=628472F7"
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EWTN" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/12733391_10156536942145346_2214045748539562892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=PKwYyhnHJl0AX_KETpf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT82vFHol9IL8MGhCV7FM3W7p4qlWn1ytwy1yJcq13VfJg&oe=628443C3"
+#EXTINF:-1 tvg-name="EWTN" , group-title="Cultura" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/12733391_10156536942145346_2214045748539562892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=PKwYyhnHJl0AX_KETpf&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT82vFHol9IL8MGhCV7FM3W7p4qlWn1ytwy1yJcq13VfJg&oe=628443C3"
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Mariavision" , group-title="TVA" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
+#EXTINF:-1 tvg-name="Mariavision" , group-title="Cultura" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/189265180_10161349994393986_8395921568150034318_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=SP7BMjwXeiAAX9I8XqY&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_fa0KCnHACMZz3LEQy4-tLi8Fog5KhCbOdebfaaGagIA&oe=628689C8"
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 tvg-name="EstrellaTV" , group-title="TVA" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
+#EXTINF:-1 tvg-name="EstrellaTV" , group-title="General" , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Motorvision Latino" , group-title="TVA" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
+#EXTINF:-1 tvg-name="Motorvision Latino" , group-title="Cultura" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
-#EXTINF:-1 tvg-name="Teleritmo" , group-title="" , tvg-logo="https://i.imgur.com/jkPslQI.png"
+#EXTINF:-1 tvg-name="Teleritmo" , group-title="Musica" , tvg-logo="https://i.imgur.com/jkPslQI.png"
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
 
 #EXTINF:-1 tvg-name="Videorola" , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
@@ -117,14 +117,11 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-name="RB Batalla de Gallos" , group-title="Maraton" , tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg"
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="Wowly" , group-title="Series" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-9/140193001_103298258435239_7832228767022377379_n.png?stp=dst-png_s168x128&_nc_cat=107&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=jQF9KKqboZwAX8_hwSo&_nc_ht=scontent.fmex20-1.fna&oh=00_AT8UW7JWjZQK1jJutkpSga9utDKhWKMrs12ukoLjSgX2SQ&oe=62BAA56E"
+#EXTINF:-1 tvg-name="Wowly" , group-title="Diversion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-9/140193001_103298258435239_7832228767022377379_n.png?stp=dst-png_s168x128&_nc_cat=107&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=jQF9KKqboZwAX8_hwSo&_nc_ht=scontent.fmex20-1.fna&oh=00_AT8UW7JWjZQK1jJutkpSga9utDKhWKMrs12ukoLjSgX2SQ&oe=62BAA56E"
 https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-name="Zapping Music" , group-title="Musica" , tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0"
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-name="Wowly" , group-title="Series"
-https://wowly.stream/hls/stream_low/index.m3u8
 
 #EXTINF:-1 tvg-name="CGTN Español" , group-title="Noticias"
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -132,13 +129,13 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name="Top Cine Latam" , group-title="Cine"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Saber mas" , group-title="Vanidades"
+#EXTINF:-1 tvg-name="Saber mas" , group-title="Vanidad"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="Tu Cine Latam" , group-title="Cine"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8?c_producer=tucinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Flash" , group-title="Series"
+#EXTINF:-1 tvg-name="Flash" , group-title="Diversion"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="El conflicto TV" , group-title="Noticias"
