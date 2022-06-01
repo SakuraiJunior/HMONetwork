@@ -108,6 +108,9 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-name="A3Bikini TV" , group-title="TVA" , tvg-logo="https://i.imgur.com/mR1I8hE.png"
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
+#EXTINF:-1 tvg-name="South Park" , tvg-logo="https://i.imgur.com/bDNriCW.png" , group-title="Maraton"
+https://m3u-editor.com/serve/rokumaniatest/156476846
+
 #EXTINF:-1 tvg-name="Futurama" , group-title="Maraton" , tvg-logo="https://i.imgur.com/hPgUeK5.png"
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 
