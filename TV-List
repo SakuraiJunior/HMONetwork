@@ -9,7 +9,7 @@
 #
 #*****************************
 #EXTM3U
-#EXTINF:-1 tvg-name="Ko-Fi" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
+#EXTINF:-1 tvg-name="Aporta aquí" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
 https://ko-fi.com/summary/8bec36e0-68fa-4c65-805b-c678d5d03091
 
 #EXTINF:-1 tvg-name="Azteca 7" , group-title="General"
@@ -194,3 +194,9 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="La 2" , group-title="Noticias"
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 tvg-name="Ren y Stimpy" , group-title="Maraton" , tvg-logo="https://i.imgur.com/vMptR2C.png"
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w359770444.m3u8
+
+#EXTINF:-1 tvg-name="Estrella News" , group-title="Noticias" , tvg-logo="https://i.imgur.com/5uvbKMo.png"
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
