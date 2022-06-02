@@ -1,17 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name=" Activar desde Teleclub"
-http://www.teleclub.xyz/activar
 
-#EXTINF:-1 tvg-name=" Teleclub | EVENTO 1" tvg-logo="", Teleclub | EVENTO 1
+#pueden usar esta lista en: PC, Mac, iPhone, Android, Web Video Coaster, TV Box, Smart TV, etc.
+#
+#Canales de Television online a nivel completo y muy cargado
+#playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV
+#ultima actualizacion: 03/06/2022
+#
+#*****************************
+#EXTM3U
+#EXTINF:-1 tvg-name="Aporta aquí" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
+signal= https://ko-fi.com/summary/8bec36e0-68fa-4c65-805b-c678d5d03091
+#EXTINF:-1 tvg-name="Activa desde Teleclub"
+-> http://www.teleclub.xyz/activar <-
+
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 1" tvg-logo="", Teleclub | EVENTO 1
  http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
-#EXTINF:-1 tvg-name=" Teleclub | EVENTO 2" tvg-logo="", Teleclub | EVENTO 2
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 2" tvg-logo="", Teleclub | EVENTO 2
  http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
-#EXTINF:-1 tvg-name=" Teleclub | EVENTO 3" tvg-logo="", Teleclub | EVENTO 3
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 3" tvg-logo="", Teleclub | EVENTO 3
  http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
-#EXTINF:-1 tvg-name=" Teleclub | EVENTO 4" tvg-logo="", Teleclub | EVENTO 4
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 4" tvg-logo="", Teleclub | EVENTO 4
  http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
-#EXTINF:-1 tvg-name=" Teleclub | EVENTO 5" tvg-logo="", Teleclub | EVENTO 5
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 5" tvg-logo="", Teleclub | EVENTO 5
  http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
 #EXTINF:-1 tvg-name=" Cartoon Network [Club]" tvg-logo="", Cartoon Network [Club]
  http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
