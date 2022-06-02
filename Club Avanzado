@@ -1,0 +1,209 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name=" Activar desde Teleclub"
+http://www.teleclub.xyz/activar
+
+#EXTINF:-1 tvg-name=" Teleclub | EVENTO 1" tvg-logo="", Teleclub | EVENTO 1
+ http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
+#EXTINF:-1 tvg-name=" Teleclub | EVENTO 2" tvg-logo="", Teleclub | EVENTO 2
+ http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
+#EXTINF:-1 tvg-name=" Teleclub | EVENTO 3" tvg-logo="", Teleclub | EVENTO 3
+ http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
+#EXTINF:-1 tvg-name=" Teleclub | EVENTO 4" tvg-logo="", Teleclub | EVENTO 4
+ http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
+#EXTINF:-1 tvg-name=" Teleclub | EVENTO 5" tvg-logo="", Teleclub | EVENTO 5
+ http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
+#EXTINF:-1 tvg-name=" Cartoon Network [Club]" tvg-logo="", Cartoon Network [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
+#EXTINF:-1 tvg-name=" Disney Channel [Club]" tvg-logo="", Disney Channel [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
+#EXTINF:-1 tvg-name=" Disney Jr [Club]" tvg-logo="", Disney Jr [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-name=" NATGEO Kids [Club]" tvg-logo="", NATGEO Kids [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
+#EXTINF:-1 tvg-name=" Nick [Club]" tvg-logo="", Nick [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/NICK/index.m3u8
+#EXTINF:-1 tvg-name=" Nick Jr [Club]" tvg-logo="", Nick Jr [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-name=" Tooncast [Club]" tvg-logo="", Tooncast [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-name=" Cartoonito [Club]" tvg-logo="", Cartoonito [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery Kids [Club]" tvg-logo="", Discovery Kids [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
+#EXTINF:-1 tvg-name=" BabyTV [Club]" tvg-logo="", BabyTV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
+#EXTINF:-1 tvg-name=" Teen Nick [Club]" tvg-logo="", Teen Nick [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
+#EXTINF:-1 tvg-name=" Nick Toons [Club]" tvg-logo="", Nick Toons [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
+#EXTINF:-1 tvg-name=" BITME [E]" tvg-logo="", BITME [E]
+ http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+#EXTINF:-1 tvg-name=" CNN en Español [Club]" tvg-logo="", CNN en Español [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-name=" CNN [Club]" tvg-logo="", CNN [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CNN/index.m3u8
+#EXTINF:-1 tvg-name=" Glitz [Club]" tvg-logo="", Glitz [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
+#EXTINF:-1 tvg-name=" Bloomberg [Club]" tvg-logo="", Bloomberg [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-name=" RT en Español [Club]" tvg-logo="", RT en Español [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-name=" TruTV [Club]" tvg-logo="", TruTV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
+#EXTINF:-1 tvg-name=" Lifetime [Club]" tvg-logo="", Lifetime [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name=" ADN40 [Club]" tvg-logo="", ADN40 [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/ADN40/index.m3u8
+#EXTINF:-1 tvg-name=" RCN [Club]" tvg-logo="", RCN [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/RCN/index.m3u8
+#EXTINF:-1 tvg-name=" Telefe [Club]" tvg-logo="", Telefe [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TELEFE/index.m3u8
+#EXTINF:-1 tvg-name=" HolaTV [Club]" tvg-logo="", HolaTV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HOLATV/index.m3u8
+#EXTINF:-1 tvg-name=" Las Estrellas [Club]" tvg-logo="", Las Estrellas [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/LAS_ESTRELLAS/index.m3u8
+#EXTINF:-1 tvg-name=" E! [Club]" tvg-logo="", E! [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
+#EXTINF:-1 tvg-name=" Caracol TV [Club]" tvg-logo="", Caracol TV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CARACOLTV/index.m3u8
+#EXTINF:-1 tvg-name=" Telemundo [Club]" tvg-logo="", Telemundo [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-name=" Azteca7 [Club]" tvg-logo="", Azteca7 [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
+#EXTINF:-1 tvg-name=" Univisión [Club]" tvg-logo="", Univisión [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-name=" Food Network [Club]" tvg-logo="", Food Network [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery Channel [Club]" tvg-logo="", Discovery Channel [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery Theater [Club]" tvg-logo="", Discovery Theater [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_THEATER/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery World [Club]" tvg-logo="", Discovery World [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery Turbo [Club]" tvg-logo="", Discovery Turbo [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery Sciences [Club]" tvg-logo="", Discovery Sciences [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_SCIENCES/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery ID [Club]" tvg-logo="", Discovery ID [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_ID/index.m3u8
+#EXTINF:-1 tvg-name=" Discovery H&H [Club]" tvg-logo="", Discovery H&H [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_HYH/index.m3u8
+#EXTINF:-1 tvg-name=" History Channel [Club]" tvg-logo="", History Channel [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
+#EXTINF:-1 tvg-name=" H2 [Club]" tvg-logo="", H2 [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/H2/index.m3u8
+#EXTINF:-1 tvg-name=" NATGEO [Club]" tvg-logo="", NATGEO [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/NATGEO/index.m3u8
+#EXTINF:-1 tvg-name=" A&E [Club]" tvg-logo="", A&E [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/AE/index.m3u8
+#EXTINF:-1 tvg-name=" Animal Planet [Club]" tvg-logo="", Animal Planet [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-name=" El Gourmet [Club]" tvg-logo="", El Gourmet [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/EL_GOURMET/index.m3u8
+#EXTINF:-1 tvg-name=" TLC [Club]" tvg-logo="", TLC [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TLC/index.m3u8
+#EXTINF:-1 tvg-name=" ComedyCentral [Club]" tvg-logo="", ComedyCentral [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/COMEDYCENTRAL/index.m3u8
+#EXTINF:-1 tvg-name=" Distrito Comedia [Club]" tvg-logo="", Distrito Comedia [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DISTRITOCOMEDIA/index.m3u8
+#EXTINF:-1 tvg-name=" Love Nature [E]" tvg-logo="", Love Nature [E]
+ http://tv.teleclub.xyz/live/ABRIL_00/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-name=" Star Channel [Club]" tvg-logo="", Star Channel [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/STAR/index.m3u8
+#EXTINF:-1 tvg-name=" Universal TV [Club]" tvg-logo="", Universal TV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-name=" Warner TV [Club]" tvg-logo="", Warner TV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/WARNER/index.m3u8
+#EXTINF:-1 tvg-name=" AXN [Club]" tvg-logo="", AXN [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/AXN/index.m3u8
+#EXTINF:-1 tvg-name=" Paramount [Club]" tvg-logo="", Paramount [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-name=" Studio Universal [Club]" tvg-logo="", Studio Universal [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-name=" FX [Club]" tvg-logo="", FX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/FX/index.m3u8
+#EXTINF:-1 tvg-name=" TBS [Club]" tvg-logo="", TBS [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TBS/index.m3u8
+#EXTINF:-1 tvg-name=" TNT [Club]" tvg-logo="", TNT [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TNT/index.m3u8
+#EXTINF:-1 tvg-name=" TNT Series [Club]" tvg-logo="", TNT Series [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TNT_SERIES/index.m3u8
+#EXTINF:-1 tvg-name=" Cinemax [Club]" tvg-logo="", Cinemax [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name=" Sony [Club]" tvg-logo="", Sony [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/SONY/index.m3u8
+#EXTINF:-1 tvg-name=" DePelicula [Club]" tvg-logo="", DePelicula [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-name=" Cinecanal [Club]" tvg-logo="", Cinecanal [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name=" HBO [Club]" tvg-logo="", HBO [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO/index.m3u8
+#EXTINF:-1 tvg-name=" HBO 2 [Club]" tvg-logo="", HBO 2 [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
+#EXTINF:-1 tvg-name=" HBO Plus [Club]" tvg-logo="", HBO Plus [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-name=" HBO Mundi [Club]" tvg-logo="", HBO Mundi [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-name=" HBO Pop [Club]" tvg-logo="", HBO Pop [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO_POP/index.m3u8
+#EXTINF:-1 tvg-name=" HBO Signature [Club]" tvg-logo="", HBO Signature [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-name=" HBO Xtreme [Club]" tvg-logo="", HBO Xtreme [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-name=" HBO Family [Club]" tvg-logo="", HBO Family [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name=" Golden Edge [Club]" tvg-logo="", Golden Edge [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
+#EXTINF:-1 tvg-name=" Golden Premier [Club]" tvg-logo="", Golden Premier [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_PREMIER/index.m3u8
+#EXTINF:-1 tvg-name=" Golden PLUS [Club]" tvg-logo="", Golden PLUS [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_PLUS/index.m3u8
+#EXTINF:-1 tvg-name=" AMC [Club]" tvg-logo="", AMC [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/AMC/index.m3u8
+#EXTINF:-1 tvg-name=" SPACE [Club]" tvg-logo="", SPACE [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
+#EXTINF:-1 tvg-name=" MTV [Club]" tvg-logo="", MTV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/MTV/index.m3u8
+#EXTINF:-1 tvg-name=" MTV Hits [Club]" tvg-logo="", MTV Hits [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/MTV_HITS/index.m3u8
+#EXTINF:-1 tvg-name=" Nick Music [Club]" tvg-logo="", Nick Music [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-name=" Retro Plus 1 [E]" tvg-logo="", Retro Plus 1 [E]
+ http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_1/index.m3u8
+#EXTINF:-1 tvg-name=" Retro Plus 2 [E]" tvg-logo="", Retro Plus 2 [E]
+ http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_2/index.m3u8
+#EXTINF:-1 tvg-name=" Retro Plus 3 [E]" tvg-logo="", Retro Plus 3 [E]
+ http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_3/index.m3u8
+#EXTINF:-1 tvg-name=" Tigo Sports BO [Club]" tvg-logo="", Tigo Sports BO [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TIGO_BO/index.m3u8
+#EXTINF:-1 tvg-name=" Tigo Sports PY [Club]" tvg-logo="", Tigo Sports PY [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TIGO_PY/index.m3u8
+#EXTINF:-1 tvg-name=" Win Sports [Club]" tvg-logo="", Win Sports [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/WIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name=" Win Sports Plus [Club]" tvg-logo="", Win Sports Plus [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/WIN_SPORTS_PLUS/index.m3u8
+#EXTINF:-1 tvg-name=" TUDN [Club]" tvg-logo="", TUDN [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/TUDN/index.m3u8
+#EXTINF:-1 tvg-name=" Afizzionados [Club]" tvg-logo="", Afizzionados [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
+#EXTINF:-1 tvg-name=" Claro Sports [Club]" tvg-logo="", Claro Sports [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/CLARO_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name=" GolTV [Club]" tvg-logo="", GolTV [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/GOLTV/index.m3u8
+#EXTINF:-1 tvg-name=" ESPN MX [Club]" tvg-logo="", ESPN MX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/ESPN_MX/index.m3u8
+#EXTINF:-1 tvg-name=" ESPN 2 MX [Club]" tvg-logo="", ESPN 2 MX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/ESPN2_MX/index.m3u8
+#EXTINF:-1 tvg-name=" ESPN 3 MX [Club]" tvg-logo="", ESPN 3 MX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/ESPN3_MX/index.m3u8
+#EXTINF:-1 tvg-name=" ESPN Plus MX [Club]" tvg-logo="", ESPN Plus MX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/ESPNPLUS_MX/index.m3u8
+#EXTINF:-1 tvg-name=" Fox Sports MX [Club]" tvg-logo="", Fox Sports MX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_MX/index.m3u8
+#EXTINF:-1 tvg-name=" Fox Sports 2 MX [Club]" tvg-logo="", Fox Sports 2 MX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_MX/index.m3u8
+#EXTINF:-1 tvg-name=" Fox Sports 3 MX [Club]" tvg-logo="", Fox Sports 3 MX [Club]
+ http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS3_MX/index.m3u8
+#EXTINF:-1 tvg-name=" 24/7 |  Bob Esponja [E]" tvg-logo="", 24/7 |  Bob Esponja [E]
+ http://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
