@@ -204,5 +204,14 @@ signal= https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5
 #EXTINF:-1 tvg-name="Love Nature" , group-title="Vanidad" , tvg-logo="https://i.imgur.com/E0Jlmht.png"
 https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
-#EXTINF:-1 tvg-name="Music Japan TV" , group-title="Musica" , tvg-logo="https://i.imgur.com/qW7Z3hd.png"
-https://m3u-editor.com/serve/televitolibre/526420127.m3u8
+#EXTINF:-1 tvg-name="KPop TV" , group-title="Musica" , tvg-logo="https://i.imgur.com/nt7TD3I.png"
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
+#EXTINF:-1 tvg-name="DeporTV" , group-title="Deporte" , tvg-logo="https://i.imgur.com/icdADrD.jpg"
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m3u8
+
+#EXTINF:-1 tvg-name="VIX Liga MX" , group-title="Deporte" , tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8"
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Toonizaki" , group-title="Geek" , tvg-logo="https://images.app.goo.gl/WLmMQYGgim9S58TF7"
+https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8?WebM3UCL
