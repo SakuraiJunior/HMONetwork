@@ -200,3 +200,9 @@ signal= https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w359
 
 #EXTINF:-1 tvg-name="Estrella News" , group-title="Noticias" , tvg-logo="https://i.imgur.com/5uvbKMo.png"
 signal= https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature" , group-title="Vanidad" , tvg-logo="https://i.imgur.com/E0Jlmht.png"
+https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-name="Music Japan TV" , group-title="Musica" , tvg-logo="https://i.imgur.com/qW7Z3hd.png"
+https://m3u-editor.com/serve/televitolibre/526420127.m3u8
