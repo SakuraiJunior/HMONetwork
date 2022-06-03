@@ -10,19 +10,16 @@
 #*****************************
 #EXTM3U
 #EXTINF:-1 tvg-name="Aporta aquí" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
-signal= https://ko-fi.com/summary/8bec36e0-68fa-4c65-805b-c678d5d03091
-#EXTINF:-1 tvg-name="Activa desde Teleclub"
--> https://tv.teleclub.xyz/activar <-
-
-#EXTINF:-1 tvg-name="Teleclub | EVENTO 1" tvg-logo="", Teleclub | EVENTO 1
+signal= https://ko-fi.com/s/b5e5da46ac
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 1" tvg-logo=""
  http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
-#EXTINF:-1 tvg-name="Teleclub | EVENTO 2" tvg-logo="", Teleclub | EVENTO 2
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 2" tvg-logo=""
  http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
-#EXTINF:-1 tvg-name="Teleclub | EVENTO 3" tvg-logo="", Teleclub | EVENTO 3
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 3" tvg-logo=""
  http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
-#EXTINF:-1 tvg-name="Teleclub | EVENTO 4" tvg-logo="", Teleclub | EVENTO 4
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 4" tvg-logo=""
  http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
-#EXTINF:-1 tvg-name="Teleclub | EVENTO 5" tvg-logo="", Teleclub | EVENTO 5
+#EXTINF:-1 tvg-name="Teleclub | EVENTO 5" tvg-logo=""
  http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
 #EXTINF:-1 tvg-name=" Cartoon Network [Club]" tvg-logo="", Cartoon Network [Club]
  http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
@@ -82,7 +79,7 @@ signal= https://ko-fi.com/summary/8bec36e0-68fa-4c65-805b-c678d5d03091
  http://tv.teleclub.xyz/live/ABRIL_01/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-name=" Azteca7 [Club]" tvg-logo="", Azteca7 [Club]
  http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
-#EXTINF:-1 tvg-name=" Univisión [Club]" tvg-logo="", Univisión [Club]
+#EXTINF:-1 tvg-name=" Galavision [Club]" tvg-logo="", Univisión [Club]
  http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-name=" Food Network [Club]" tvg-logo="", Food Network [Club]
  http://tv.teleclub.xyz/live/ABRIL_01/FOOD_NETWORK/index.m3u8
@@ -216,5 +213,5 @@ signal= https://ko-fi.com/summary/8bec36e0-68fa-4c65-805b-c678d5d03091
  http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_MX/index.m3u8
 #EXTINF:-1 tvg-name=" Fox Sports 3 MX [Club]" tvg-logo="", Fox Sports 3 MX [Club]
  http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS3_MX/index.m3u8
-#EXTINF:-1 tvg-name=" 24/7 |  Bob Esponja [E]" tvg-logo="", 24/7 |  Bob Esponja [E]
+#EXTINF:-1 tvg-name="Bob Esponja" tvg-logo="", 24/7
  http://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
