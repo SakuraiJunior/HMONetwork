@@ -12,7 +12,7 @@
 #EXTINF:-1 tvg-name="Aporta aquí" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
 signal= https://ko-fi.com/summary/8bec36e0-68fa-4c65-805b-c678d5d03091
 #EXTINF:-1 tvg-name="Activa desde Teleclub"
--> http://www.teleclub.xyz/activar <-
+-> https://tv.teleclub.xyz/activar <-
 
 #EXTINF:-1 tvg-name="Teleclub | EVENTO 1" tvg-logo="", Teleclub | EVENTO 1
  http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
