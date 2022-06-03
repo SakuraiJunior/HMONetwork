@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV
-#ultima actualizacion: 02/06/2022
+#ultima actualizacion: 03/06/2022
 #
 #*****************************
 #EXTM3U
@@ -212,9 +212,3 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m
 
 #EXTINF:-1 tvg-name="VIX Liga MX" , group-title="Deporte" , tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8"
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Toonizaki" , group-title="Geek" , tvg-logo="https://images.app.goo.gl/WLmMQYGgim9S58TF7"
-https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-name="Afizzionados" , group-title="Deporte" , tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png"
-http://172.106.12.90:2546/live/JW2WBKKNRE3UH43KN2N322899665975$5234/MENR32222XAAASA1XAAASA1/53494.m3u8?token=HRNfAEBQEwMVVghUB1UABlYHXQUEXAFfAgsBXVBSXldWVwUDVQoDWgYVHUMQF0dQUlxmWVUaAwxVBw9RSRNNEQNDaAhXGgsbDw4FQ09BQVxeVBsKARQbSQ9XFF9HAgBXVQIVTRFdSU1SRV8ADzxRUEVYWlUTAldMCl8aRwpfZwYDXFYPVxoLGwcVHUMKEEUXCV9MXF0UG1sPR0QEEVQaWEQDBFABGh0bVFhEDxcRTBcJE3RoExQbXB5HUwsWWFcMRAsVDABNCRsbFVgSPBFQRkdDXFFcXUsbXBEGR0kTVQMeblQOXVZUWkNeXg8QQQ8XAxMVElxXV1ASXEQ6FVhcQFwTBlAFCgIbSg==
