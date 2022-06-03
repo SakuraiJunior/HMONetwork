@@ -216,8 +216,5 @@ https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Toonizaki" , group-title="Geek" , tvg-logo="https://images.app.goo.gl/WLmMQYGgim9S58TF7"
 https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-name="Imagen TV" , group-title="General" , tvg-logo="https://graph.facebook.com/104338684346756/picture?width=320&height=320"
-http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Afizzionados" , group-title="Deporte" , tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png"
 http://172.106.12.90:2546/live/JW2WBKKNRE3UH43KN2N322899665975$5234/MENR32222XAAASA1XAAASA1/53494.m3u8?token=HRNfAEBQEwMVVghUB1UABlYHXQUEXAFfAgsBXVBSXldWVwUDVQoDWgYVHUMQF0dQUlxmWVUaAwxVBw9RSRNNEQNDaAhXGgsbDw4FQ09BQVxeVBsKARQbSQ9XFF9HAgBXVQIVTRFdSU1SRV8ADzxRUEVYWlUTAldMCl8aRwpfZwYDXFYPVxoLGwcVHUMKEEUXCV9MXF0UG1sPR0QEEVQaWEQDBFABGh0bVFhEDxcRTBcJE3RoExQbXB5HUwsWWFcMRAsVDABNCRsbFVgSPBFQRkdDXFFcXUsbXBEGR0kTVQMeblQOXVZUWkNeXg8QQQ8XAxMVElxXV1ASXEQ6FVhcQFwTBlAFCgIbSg==
