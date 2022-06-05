@@ -9,6 +9,9 @@
 #
 #*****************************
 #EXTM3U
+#EXTINF:-1 tvg-name="BBVA" , tvg-logo="https://images.app.goo.gl/ox8Xc34JamjYYvz99"
+signal= CLABE: 012 180 01588991542 6
+
 #EXTINF:-1 tvg-name="Aporta aquí" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
 signal= https://ko-fi.com/Z8Z1AFLBG
 
