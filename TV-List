@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV
-#ultima actualizacion: 06/06/2022
+#ultima actualizacion: 07/06/2022
 #
 #*****************************
 #EXTM3U 
@@ -86,79 +86,76 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Motorvision Latino" , group-title="Cultura" , tvg-logo="https://i.imgur.com/7NwZRlX.png"
-signal= https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
+https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es_720p_high.m3u8
 
 #EXTINF:-1 tvg-name="Teleritmo" , group-title="Musica" , tvg-logo="https://i.imgur.com/jkPslQI.png"
-signal= http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
 
 #EXTINF:-1 tvg-name="Videorola" , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
-signal= https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
 #EXTINF:-1 tvg-name="LocomotionTV" , group-title="Geek" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=8Rf-8N2WUtkAX_KvPQV&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_OTITAv2XY0I_LJsMOsG77-7c8cxjTSX6s8VysyE5ysg&oe=628C5EE4"
-signal= http://51.222.85.85:81/hls/loco/index.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-name="LevelupTV" , group-title="Geek", tvg-logo="https://www.levelup.com/images/logoOG.png"
-signal= https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
-
-#EXTINF:-1 tvg-name="Energeek" , group-title="Ninos" , tvg-logo="https://i.imgur.com/GmLDkty.jpg"
-signal= https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8?PlaylistM3UCL
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 #EXTINF:-1 tvg-name="Runtime Latino" , group-title="Cine" , tvg-logo="https://i.postimg.cc/Vkmxcwdj/RUN-TIME.png"
-signal= https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Los Simpson" , group-title="Maraton" , tvg-logo="https://i.imgur.com/ThA7Ss3.png"
-signal= https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A3Bikini TV" , group-title="Adultos" , tvg-logo="https://i.imgur.com/mR1I8hE.png"
-signal= https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-name="Futurama" , group-title="Maraton" , tvg-logo="https://i.imgur.com/hPgUeK5.png"
-signal= https://m3u-editor.com/serve/televitolibre/511000607.m3u8
+https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 
 #EXTINF:-1 tvg-name="El Chavo" , group-title="Maraton" , tvg-logo="https://i.imgur.com/7gMqvsV.png"
-signal= https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RB Batalla de Gallos" , group-title="Maraton" , tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg"
-signal= https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8?PlaylistM3UCL
+https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="Wowly" , group-title="Diversion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-9/140193001_103298258435239_7832228767022377379_n.png?stp=dst-png_s168x128&_nc_cat=107&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=jQF9KKqboZwAX8_hwSo&_nc_ht=scontent.fmex20-1.fna&oh=00_AT8UW7JWjZQK1jJutkpSga9utDKhWKMrs12ukoLjSgX2SQ&oe=62BAA56E"
-signal= https://videohd.live:19360/8076/8076.m3u8
+https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-name="Zapping Music" , group-title="Musica" , tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0"
-signal= https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="CGTN Español" , group-title="Noticias"
-signal= https://livees.cgtn.com/1000e/prog_index.m3u8
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="Top Cine Latam" , group-title="Cine"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="Saber mas" , group-title="Vanidad"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="Tu Cine Latam" , group-title="Cine"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8?c_producer=tucinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8?c_producer=tucinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="Flash" , group-title="Diversion"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="El conflicto TV" , group-title="Noticias"
-signal= https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=el-conflicto-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=el-conflicto-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__
 
 #EXTINF:-1 tvg-name="Chiquilines" , group-title="Ninos"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
 
 #EXTINF:-1 tvg-name="Juntos" , group-title="Cine"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8?c_producer=Juntos&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8?c_producer=Juntos&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
 
 #EXTINF:-1 tvg-name="Cine Sureno" , group-title="Cine"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8?c_producer=CineSureno&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8?c_producer=CineSureno&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="Cine Real" , group-title="Cine"
-signal= https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8?c_producer=cinereallatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8?c_producer=cinereallatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="Casa Comedy" , group-title="Diversion"
-signal= https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/PJO95835DTULIN4M5NHH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656023&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Casa%20Comedy&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
+https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/PJO95835DTULIN4M5NHH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656023&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Casa%20Comedy&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
 
 #EXTINF:-1 tvg-name="Spanglish" , group-title="Cine"
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656024&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Spanglish&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
@@ -216,3 +213,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m
 
 #EXTINF:-1 tvg-name="VIX Liga MX" , group-title="Deporte" , tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8"
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Energeek" , group-title="Geek" , tvg-logo="https://i.imgur.com/d4eZ9VX.png"
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Energeek2" , group-title="Infantil" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Visit Xtv" , group-title="Adultos" , tvg-logo"https://www.visit-x.net/assets/img/vxlogo-single-icon.svg"
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
