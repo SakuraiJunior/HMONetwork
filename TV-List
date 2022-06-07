@@ -31,11 +31,12 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Aniplus" , group-title="Ninos" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOFkI9Qg2s2hpLSFtc_6YFOu9tpXNtqxmGQ&usqp=CAU"
 http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-name="Cartoon Junior", group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=HRBKqYMxVNgAX9ursos&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_J-jrcSqMw3P3mJMg1x2CYTHd-dkNPI9kUZ_RzilWOTA&oe=62C23BF8"
+#EXTINF:-1 tvg-name="CNLA", group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=HRBKqYMxVNgAX9ursos&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_J-jrcSqMw3P3mJMg1x2CYTHd-dkNPI9kUZ_RzilWOTA&oe=62C23BF8"
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CN City", group-title="Ninos" , tvg-logo="https://images.app.goo.gl/FHt4HZmtep5hjzh48"
-https://usher.ttvnw.net/api/channel/hls/jahh20_cn.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22jahh20_cn%22%2C%22channel_id%22%3A785821696%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22ebbbuBFB7Y8UXfY9UvcEvvSL1YhIg81b%22%2C%22expires%22%3A1654642977%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22192.141.244.108%22%2C%22version%22%3A2%7D&sig=fe2fc6205fed374c78a4715e9e1dbe22afcc3a9c&cdm=wv&player_version=1.10.0
+#EXTINF:-1 tvg-name="Nickteen", group-title="Ninos" , tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage.jpg"
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-name="Euronews" , group-title="Noticia" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/69942044_2405197079701363_2743467264341704704_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=RC3PnYoxKr8AX-c2zHh&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-rTyOrX2SloBDkXZccdd-HPdJbzWR_jJq5FBQ1rvJ0zQ&oe=62860E96"
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -222,6 +223,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Energeek2" , group-title="Infantil" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PlutoTV MTV" , group-title="Diversion" , tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/featuredImage.jpg"
+https://stitcher.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Visit Xtv" , group-title="Adultos" , tvg-logo"https://www.visit-x.net/assets/img/vxlogo-single-icon.svg"
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
