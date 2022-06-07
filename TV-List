@@ -16,6 +16,9 @@ https://bit.ly/3NzKjMo
 #EXTINF:-1 tvg-name="Ko-Fi" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
 https://ko-fi.com/Z8Z1AFLBG
 
+#EXTINF:-1 tvg-name="PV-TV" , tvg-logo="https://svgsilh.com/svg/459225.svg"
+https://millonarioexitoso365.com/error/error.mp4
+
 #EXTINF:-1 tvg-name="Azteca 7" , group-title="General"
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
@@ -199,7 +202,7 @@ https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w359770444.m
 #EXTINF:-1 tvg-name="Estrella News" , group-title="Noticias" , tvg-logo="https://i.imgur.com/5uvbKMo.png"
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
 
-#EXTINF:-1 tvg-name="Love Nature" , group-title="Vanidad" , tvg-logo="https://i.imgur.com/E0Jlmht.png"
+#EXTINF:-1 tvg-name="Love Nature" , group-title="Educacion" , tvg-logo="https://i.imgur.com/E0Jlmht.png"
 https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-name="KPop TV" , group-title="Musica" , tvg-logo="https://i.imgur.com/nt7TD3I.png"
