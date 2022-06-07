@@ -31,11 +31,11 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Aniplus" , group-title="Ninos" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOFkI9Qg2s2hpLSFtc_6YFOu9tpXNtqxmGQ&usqp=CAU"
 http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-name="CNLA Junior", group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=HRBKqYMxVNgAX9ursos&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_J-jrcSqMw3P3mJMg1x2CYTHd-dkNPI9kUZ_RzilWOTA&oe=62C23BF8"
+#EXTINF:-1 tvg-name="Cartoon Junior", group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=HRBKqYMxVNgAX9ursos&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_J-jrcSqMw3P3mJMg1x2CYTHd-dkNPI9kUZ_RzilWOTA&oe=62C23BF8"
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CN City", group-title="Ninos" , tvg-logo="https://images.app.goo.gl/FHt4HZmtep5hjzh48"
-https://player.twitch.tv/?channel=jahh20_cn&parent=www.example.com
+https://player.twitch.tv/?channel=jahh20_cn&parent=www.example.com&autoplay=true
 
 #EXTINF:-1 tvg-name="Euronews" , group-title="Noticia" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/69942044_2405197079701363_2743467264341704704_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=RC3PnYoxKr8AX-c2zHh&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-rTyOrX2SloBDkXZccdd-HPdJbzWR_jJq5FBQ1rvJ0zQ&oe=62860E96"
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
