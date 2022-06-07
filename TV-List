@@ -10,7 +10,7 @@
 #*****************************
 #EXTM3U 
 
-#EXTINF:-1 tvg-name="Stripe" , tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fba%2FStripe_Logo%252C_revised_2016.svg%2F2560px-Stripe_Logo%252C_revised_2016.svg.png&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AStripe_Logo%2C_revised_2016.svg&tbnid=C6xUTHJd8L_cAM&vet=1&docid=tXpN_Ejvk5Ii-M&w=2560&h=1220&source=sh%2Fx%2Fim"
+#EXTINF:-1 tvg-name="Stripe" , tvg-logo="https://cdn.worldvectorlogo.com/logos/stripe-2.svg"
 https://bit.ly/3NzKjMo
 
 #EXTINF:-1 tvg-name="Ko-Fi" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
@@ -93,9 +93,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-name="Videorola" , group-title="Musica" , tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7"
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-
-#EXTINF:-1 tvg-name="LocomotionTV" , group-title="Geek" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=8Rf-8N2WUtkAX_KvPQV&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_OTITAv2XY0I_LJsMOsG77-7c8cxjTSX6s8VysyE5ysg&oe=628C5EE4"
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-name="LevelupTV" , group-title="Geek", tvg-logo="https://www.levelup.com/images/logoOG.png"
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
