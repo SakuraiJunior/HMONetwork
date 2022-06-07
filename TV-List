@@ -25,13 +25,13 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-name="Azteca Uno" , group-title="General"
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-name="AZTV" , grou-title="Ninos" , tvg-logo="https://i.imgur.com/z1VIGD7.png"
+#EXTINF:-1 tvg-name="AZTV" , grou-title="Cultura" , tvg-logo="https://i.imgur.com/z1VIGD7.png"
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="Aniplus" , group-title="Ninos" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOFkI9Qg2s2hpLSFtc_6YFOu9tpXNtqxmGQ&usqp=CAU"
 http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-name="Cartoonito", group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=HRBKqYMxVNgAX9ursos&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_J-jrcSqMw3P3mJMg1x2CYTHd-dkNPI9kUZ_RzilWOTA&oe=62C23BF8"
+#EXTINF:-1 tvg-name="CNLA Junior", group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=HRBKqYMxVNgAX9ursos&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_J-jrcSqMw3P3mJMg1x2CYTHd-dkNPI9kUZ_RzilWOTA&oe=62C23BF8"
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CN City", group-title="Ninos" , tvg-logo="https://images.app.goo.gl/FHt4HZmtep5hjzh48"
@@ -166,7 +166,7 @@ https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Horrorfy" , group-title="Cine"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8?c_producer=Horrorfy&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="WappTV" , group-title="Vanidad"
+#EXTINF:-1 tvg-name="WappTV" , group-title="Diversion"
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/loVfrsEac/%2B0000/c.m3u8?ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.client_ip=__CLIENT_IP__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.appCategory=__APP_CATEGORY__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.contentid=22963&ads.contenturl=__PAGEURL_ESC__&ads.rnd=__CACHE_BUSTER__&ads.content_duration=18000&ads.episode_id=55592&ads.show_id=1733&ads.showtitle=WappTV&ads.episodetitle=WappTV&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.app_version=__APP_VERSION__&ads.deviceMake=__DEVICE__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.keywords=wapptv%2Cspanish&ads.showCategories=IAB1&ads.episodeCategories=&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=&ads.language=es&ads.tagname=dtv&ads.language=es&ads.paln=__PALN__
 
 #EXTINF:-1 tvg-name="MMC" , group-title="Musica"
@@ -217,7 +217,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m
 #EXTINF:-1 tvg-name="VIX Liga MX" , group-title="Deporte" , tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8"
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Energeek" , group-title="Geek" , tvg-logo="https://i.imgur.com/d4eZ9VX.png"
+#EXTINF:-1 tvg-name="Energeek" , group-title="Cultura" , tvg-logo="https://i.imgur.com/d4eZ9VX.png"
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Energeek2" , group-title="Infantil" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
