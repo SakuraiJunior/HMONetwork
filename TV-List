@@ -55,10 +55,10 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-name="ADN40" , group-title="General" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/278021545_1703648610022472_9205882044378832412_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FfkCoUzzrAQAX-VR2xP&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_YwvNf8-p1NXG5KLZI4h676JOL7la7mZ-vTcWUmKZM3A&oe=6263536C"
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-name="Panamericana , group-title="Inter" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB"
+#EXTINF:-1 tvg-name="Panamericana" , group-title="Inter" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB"
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-name="Multimedios MTY , group-title="Inter" , tvg-logo="https://i.imgur.com/A9kTYN8.png"
+#EXTINF:-1 tvg-name="Multimedios MTY" , group-title="Inter" , tvg-logo="https://i.imgur.com/A9kTYN8.png"
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-name="Canal Once Int." , group-title="Inter" , tvg-logo="https://i.imgur.com/dFQBOLD.png"
