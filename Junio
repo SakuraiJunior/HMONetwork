@@ -33,37 +33,37 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/49284657_1997727796931074_6905020918938992640_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=tZq_6CtST-cAX-3rsOC&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-DJMDLwpnHEUVLbAiuAuD8U4Ku1q6iOpI7iyCMkkI3Ow&oe=62830F98" , group-title="Inter" , TVG America
 https://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DW Latino" , group-title="Noticia" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/21032648_1686595931374489_4963542854219677951_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=nOkuAQ7g9ykAX-rtO9k&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_nNfWrwu_HO-n0j0jpwWdAoBzYSO4BbyjOFakeOYfvDg&oe=62855BB2"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/21032648_1686595931374489_4963542854219677951_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=nOkuAQ7g9ykAX-rtO9k&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_nNfWrwu_HO-n0j0jpwWdAoBzYSO4BbyjOFakeOYfvDg&oe=62855BB2" , group-title="Noticia" , DW Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-name="ET" , group-title="Noticia" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/239862493_10159876548586180_1043749538433275272_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=eHqoZNUjBcMAX80Y0Ya&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-VkrA5bIZ2pY_UBLIdARCRgna52WhZ4fiLZ9urIRR02A&oe=62638B3D"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/239862493_10159876548586180_1043749538433275272_n.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=eHqoZNUjBcMAX80Y0Ya&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-VkrA5bIZ2pY_UBLIdARCRgna52WhZ4fiLZ9urIRR02A&oe=62638B3D" , group-title="Noticia" , ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
-#EXTINF:-1 tvg-name="El Financiero" , group-title="Noticia" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/27500232_10155461324243915_9076575913727680348_o.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=-ZzVj0ajZo0AX_2kxlR&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_TEh9OsHNh3tDCo9mxO9jqQvl4b_nhhhVEGb1RoLLnlw&oe=6286B4F9"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/27500232_10155461324243915_9076575913727680348_o.png?stp=dst-png_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=-ZzVj0ajZo0AX_2kxlR&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_TEh9OsHNh3tDCo9mxO9jqQvl4b_nhhhVEGb1RoLLnlw&oe=6286B4F9" , group-title="Noticia" , El Financiero
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 tvg-name="Foro TV" , group-title="General" , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8y7kegloEtXzcpH27mlGHkhjiuiclZpbZw&usqp=CAU"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8y7kegloEtXzcpH27mlGHkhjiuiclZpbZw&usqp=CAU" , group-title="General" , ForoTV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-name="ADN40" , group-title="General" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/278021545_1703648610022472_9205882044378832412_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FfkCoUzzrAQAX-VR2xP&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_YwvNf8-p1NXG5KLZI4h676JOL7la7mZ-vTcWUmKZM3A&oe=6263536C"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/278021545_1703648610022472_9205882044378832412_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=FfkCoUzzrAQAX-VR2xP&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT_YwvNf8-p1NXG5KLZI4h676JOL7la7mZ-vTcWUmKZM3A&oe=6263536C" , group-title="General" , ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-name="Panamericana" , group-title="Inter" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/244495710_4447420838626911_4358200680659764975_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=TDmNChDrWn4AX_fjQvd&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT8vjQTcxHPdxT9Ea_rv3diBt5f9dSCcdg7MOQYL5aNVTw&oe=6264E2AB" , group-title="Inter" , Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-name="Multimedios MTY" , group-title="Inter" , tvg-logo="https://i.imgur.com/A9kTYN8.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" , group-title="Inter" , Canal 8 Multimedios
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-name="Canal Once Int." , group-title="Inter" , tvg-logo="https://i.imgur.com/dFQBOLD.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" , group-title="General" , Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tastemade" , group-title="Cultura" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D" , group-title="Cultura" , Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fashion TV" , group-title="Cultura" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/17021863_10154255489271611_6452543760317257382_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=aTgC4byBZRcAX-3cHBH&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-1HVY417ETxzjI5ZPFNovv2p-eKW_owjJ4DPbzNMbYeQ&oe=6286C2C4"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/17021863_10154255489271611_6452543760317257382_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=aTgC4byBZRcAX-3cHBH&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-1HVY417ETxzjI5ZPFNovv2p-eKW_owjJ4DPbzNMbYeQ&oe=6286C2C4" , group-title="Cultura" , Fashion TV
 https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MiamiTV" , group-title="XXX" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/13041111_1056792767710373_7901134182179208542_o.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=dOjKN9Bv4_kAX-VqoVD&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-nmT24vAG2LbhXSUmTy44zEBJvtAAVLVyvxHg3nZ9o0w&oe=6284DF68"
+#EXTINF:-1 tvg-name="MiamiTV" , group-title="XXX" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t31.18172-1/13041111_1056792767710373_7901134182179208542_o.jpg?stp=c8.0.200.200a_dst-jpg_p200x200&_nc_cat=100&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=dOjKN9Bv4_kAX-VqoVD&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT-nmT24vAG2LbhXSUmTy44zEBJvtAAVLVyvxHg3nZ9o0w&oe=6284DF68" , group-title="XXX" , MiamiTV
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Top Latino" , group-title="Musica" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.18169-1/26231217_10156143404789695_5201236062657549438_n.png?stp=dst-png_p200x200&_nc_cat=105&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=7iAmthR-xfAAX9Y03Hr&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9GfB4UJGzFQQIgO9I9VEBoHhksKmDoNNNg68JZiJ8NLw&oe=628303B9"
