@@ -220,6 +220,8 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickteen" , group-title="Diversion" , tvg-logo="https://images.app.goo.gl/VXYNqFo2rJyf9Tj5A"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=64541ad6-3739-4f52-8cd4-8ed28de04f12&clientModelNumber=na&deviceDNT=false&deviceId=64541ad6-3739-4f52-8cd4-8ed28de04f12&deviceLat=20.6379&deviceLon=-103.3474&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4ff0e364-837f-11eb-98c2-0242ac110002&sid=4ff0e364-837f-11eb-98c2-0242ac110002&userId=
 
-#EXTINF:-1 tvg-name="LocomotionTV" , group-title"Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4"
+#EXTINF:-1 tvg-name="LocomotionTV" , group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4"
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-name="FuturamaMania" , group-title="Maraton" , tvg-logo="https://images.app.goo.gl/vvgRMoonXMoDk8Yk8"
+https://m3u-editor.com/serve/televitolibre/511000607.m3u8
