@@ -5,16 +5,10 @@
 #
 #Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/TV
-#ultima actualizacion: 08/06/2022
+#ultima actualizacion: 10/06/2022
 #
 #*****************************
 #EXTM3U 
-
-#EXTINF:-1 tvg-name="BuyMeACoffe" , tvg-logo="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg"
-https://www.buymeacoffee.com/cas34
-
-#EXTINF:-1 tvg-name="Ko-Fi" , tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg"
-https://ko-fi.com/Z8Z1AFLBG
 
 #EXTINF:-1 tvg-name="PV-TV" , tvg-logo="https://svgsilh.com/svg/459225.svg"
 https://millonarioexitoso365.com/error/error.mp4
