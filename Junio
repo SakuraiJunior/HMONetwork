@@ -144,64 +144,64 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playl
 #EXTINF:-1 tvg-logo=" " , group-title="Cine" , Cine Sureno
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8?c_producer=CineSureno&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Cine Real" , group-title="Cine"
+#EXTINF:-1 tvg-logo=" " , group-title="Cine" , Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/playlist.m3u8?c_producer=cinereallatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Casa Comedy" , group-title="Diversion"
+#EXTINF:-1 tvg-logo=" " , group-title="Diversion" , Casa Comedy
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/PJO95835DTULIN4M5NHH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656023&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Casa%20Comedy&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
 
-#EXTINF:-1 tvg-name="Spanglish" , group-title="Cine"
+#EXTINF:-1 tvg-logo=" " , group-title="Cine" , Spanglish
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8?ads.vast_id=656024&ads.w=1920&ads.h=1080&ads.ip=___CLIENT_IP__&ads.ua=__USER_AGENT__&ads.ic=&ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store_url=___STORE_URL__&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=Spanglish&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=
 
-#EXTINF:-1 tvg-name="Horrorfy" , group-title="Cine"
+#EXTINF:-1 tvg-logo=" " , group-title="Cine" , Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8?c_producer=Horrorfy&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="WappTV" , group-title="Diversion"
+#EXTINF:-1 tvg-logo=" " , group-title="Diversion" , WappTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/loVfrsEac/%2B0000/c.m3u8?ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.client_ip=__CLIENT_IP__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.appCategory=__APP_CATEGORY__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.contentid=22963&ads.contenturl=__PAGEURL_ESC__&ads.rnd=__CACHE_BUSTER__&ads.content_duration=18000&ads.episode_id=55592&ads.show_id=1733&ads.showtitle=WappTV&ads.episodetitle=WappTV&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.app_version=__APP_VERSION__&ads.deviceMake=__DEVICE__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.keywords=wapptv%2Cspanish&ads.showCategories=IAB1&ads.episodeCategories=&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=&ads.language=es&ads.tagname=dtv&ads.language=es&ads.paln=__PALN__
 
-#EXTINF:-1 tvg-name="MMC" , group-title="Musica"
+#EXTINF:-1 tvg-logo=" " , group-title="Musica" , MMC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/playlist.m3u8?c_producer=tucineeurope&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Glewed TV" , group-title="Musica"
+#EXTINF:-1 tvg-logo=" " , group-title="Musica" , Glewed TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/01ef2153fe/%2B0000/c.m3u8?ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.client_ip=__CLIENT_IP__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.appCategory=__APP_CATEGORY__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.contentid=22864&ads.contenturl=__PAGEURL_ESC__&ads.rnd=__CACHE_BUSTER__&ads.content_duration=18000&ads.episode_id=39398&ads.show_id=1189&ads.showtitle=GlewedTV%20Spanish&ads.episodetitle=Glewed%20TV%20Spanish&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.app_version=__APP_VERSION__&ads.deviceMake=__DEVICE__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.keywords=glewedtv%2Cspanish%20entertainment&ads.showCategories=IAB1&ads.episodeCategories=&ads.genre=Entertainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.tagname=dtv&ads.language=es&ads.paln=__PALN__
 
-#EXTINF:-1 tvg-name="Claro Sports" , group-title="Deportes"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/wACXXRY7EqXpmJY59" , group-title="Deportes" , Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-name="Latino Kids" , group-title="Ninos"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/9V4mtMaQdZ6EQyug8"  , group-title="Ninos" , Latino Kids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WOW TV" , group-title="Diversion"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/iQRB2yginzKqnA73A" , group-title="Diversion" , WOWTV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RT Espanol" , group-title="Noticias"
+#EXTINF:-1 tvg-logo=" " , group-title="Noticias" , RT Español
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AMas" , group-title="General"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/qEEsGdqMBAtftn3L9" , group-title="General" , AMas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-name"Paka Paka" , group-title="Ninos"
+#EXTINF:-1 tvg-logo=" " , group-title="Ninos" , Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
-#EXTINF:-1 tvg-name="RewindTV" , group-title="Musica"
+#EXTINF:-1 tvg-logo=" " , group-title="Musica" , RewindTV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="La 2" , group-title="Noticias"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/8cyEtad8n7MXbaAV6" , group-title="Noticias" , La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1 tvg-name="Ren y Stimpy" , group-title="Maraton" , tvg-logo="https://i.imgur.com/vMptR2C.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMptR2C.png" , group-title="Maraton" , Ren y Stimpy
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w359770444.m3u8
 
-#EXTINF:-1 tvg-name="Estrella News" , group-title="Noticias" , tvg-logo="https://i.imgur.com/5uvbKMo.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5uvbKMo.png" , group-title="Noticias" , Estrella News
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
 
-#EXTINF:-1 tvg-name="Love Nature" , group-title="Educacion" , tvg-logo="https://i.imgur.com/E0Jlmht.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0Jlmht.png" , group-title="Educacion" , Love Nature
 https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
-#EXTINF:-1 tvg-name="KPop TV" , group-title="Musica" , tvg-logo="https://i.imgur.com/nt7TD3I.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nt7TD3I.png" , group-title="Musica" , KPop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-name="DeporTV" , group-title="Deporte" , tvg-logo="https://i.imgur.com/icdADrD.jpg"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icdADrD.jpg" , group-title="Deportes" , DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8" , group-title="Deportes" , VIX Liga MX
