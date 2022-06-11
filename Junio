@@ -168,22 +168,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/wACXXRY7EqXpmJY59" , group-title="Deportes" , Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/9V4mtMaQdZ6EQyug8"  , group-title="Ninos" , Latino Kids
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/9V4mtMaQdZ6EQyug8" , group-title="Ninos" , Latino Kids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/iQRB2yginzKqnA73A" , group-title="Diversion" , WOWTV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " , group-title="Noticias" , RT Español
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/J7bzr2GCgDeXXETx5" , group-title="Noticias" , RT Español
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/qEEsGdqMBAtftn3L9" , group-title="General" , AMas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-logo=" " , group-title="Ninos" , Paka Paka
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/S6oNAHAXi39rwV558" , group-title="Ninos" , Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
-#EXTINF:-1 tvg-logo=" " , group-title="Musica" , RewindTV
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/3LRjP1BoPu3xrzEk8" , group-title="Musica" , RewindTV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/8cyEtad8n7MXbaAV6" , group-title="Noticias" , La 2
