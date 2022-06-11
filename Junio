@@ -108,13 +108,13 @@ https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7gMqvsV.png" , group-title="Maraton" , El Chavo
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RB Batalla de Gallos" , group-title="Maraton" , tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg"
+#EXTINF:-1 tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg" , group-title="Maraton" , RB Batalla de Gallos
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="Wowly" , group-title="Diversion" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-9/140193001_103298258435239_7832228767022377379_n.png?stp=dst-png_s168x128&_nc_cat=107&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=jQF9KKqboZwAX8_hwSo&_nc_ht=scontent.fmex20-1.fna&oh=00_AT8UW7JWjZQK1jJutkpSga9utDKhWKMrs12ukoLjSgX2SQ&oe=62BAA56E"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-9/140193001_103298258435239_7832228767022377379_n.png?stp=dst-png_s168x128&_nc_cat=107&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=jQF9KKqboZwAX8_hwSo&_nc_ht=scontent.fmex20-1.fna&oh=00_AT8UW7JWjZQK1jJutkpSga9utDKhWKMrs12ukoLjSgX2SQ&oe=62BAA56E" , group-title="Diversion" , Wowly
 https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 tvg-name="Zapping Music" , group-title="Musica" , tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0"
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0" , group-title="Musica" , Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="CGTN Español" , group-title="Noticias"
@@ -219,8 +219,8 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickteen" , group-title="Diversion" , tvg-logo="https://images.app.goo.gl/VXYNqFo2rJyf9Tj5A"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=64541ad6-3739-4f52-8cd4-8ed28de04f12&clientModelNumber=na&deviceDNT=false&deviceId=64541ad6-3739-4f52-8cd4-8ed28de04f12&deviceLat=20.6379&deviceLon=-103.3474&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4ff0e364-837f-11eb-98c2-0242ac110002&sid=4ff0e364-837f-11eb-98c2-0242ac110002&userId=
 
-#EXTINF:-1 tvg-name="LocomotionTV" , group-title="Ninos" , tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4"
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4" , group-title="Ninos" , LocomotionTV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-name="FuturamaMania" , group-title="Maraton" , tvg-logo="https://images.app.goo.gl/vvgRMoonXMoDk8Yk8"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/vvgRMoonXMoDk8Yk8" , group-title="Maraton" , FuturamaMania
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
