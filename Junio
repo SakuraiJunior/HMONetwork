@@ -117,31 +117,31 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0" , group-title="Musica" , Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="CGTN Español" , group-title="Noticias"
+#EXTINF:-1 tvg-logo=" " , group-title="Noticias" , CGTN Espanol
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="Top Cine Latam" , group-title="Cine"
+#EXTINF:-1 tvg-logo=" " , group-title="Cine" , Top Cine LA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Saber mas" , group-title="Vanidad"
+#EXTINF:-1 tvg-logo=" " , group-title="Vanidad" , Saber mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Tu Cine Latam" , group-title="Cine"
+#EXTINF:-1 tvg-logo=" " , group-title="Cine" , Tu Cine Latam
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8?c_producer=tucinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="Flash" , group-title="Diversion"
+#EXTINF:-1 tvg-logo=" " , group-title="Diversion" , Flash
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
-#EXTINF:-1 tvg-name="El conflicto TV" , group-title="Noticias"
+#EXTINF:-1 tvg-logo=" " , group-title="Noticias" , El conflicto TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=el-conflicto-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__
 
-#EXTINF:-1 tvg-name="Chiquilines" , group-title="Ninos"
+#EXTINF:-1 tvg-logo=" " , group-title="Ninos" , Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
 
-#EXTINF:-1 tvg-name="Juntos" , group-title="Cine"
+#EXTINF:-1 tvg-logo=" " , group-title="Cine" , Juntos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8?c_producer=Juntos&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=1
 
-#EXTINF:-1 tvg-name="Cine Sureno" , group-title="Cine"
+#EXTINF:-1 tvg-logo=" " , group-title="Cine" , Cine Sureno
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8?c_producer=CineSureno&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0
 
 #EXTINF:-1 tvg-name="Cine Real" , group-title="Cine"
@@ -204,19 +204,19 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-name="DeporTV" , group-title="Deporte" , tvg-logo="https://i.imgur.com/icdADrD.jpg"
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m3u8
 
-#EXTINF:-1 tvg-name="VIX Liga MX" , group-title="Deporte" , tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8" , group-title="Deportes" , VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Energeek" , group-title="Cultura" , tvg-logo="https://i.imgur.com/d4eZ9VX.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" , group-title="Cultura" , Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Energeek2" , group-title="Infantil" , tvg-logo="https://i.imgur.com/LZI3FlL.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZI3FlL.png" , group-title="Infantil" , Energeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Visit Xtv" , group-title="Adultos" , tvg-logo="https://www.visit-x.net/assets/img/vxlogo-single-icon.svg"
+#EXTINF:-1 tvg-logo="https://www.visit-x.net/assets/img/vxlogo-single-icon.svg" , group-title="Adultos" , Visit Xtv
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Nickteen" , group-title="Diversion" , tvg-logo="https://images.app.goo.gl/VXYNqFo2rJyf9Tj5A"
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/VXYNqFo2rJyf9Tj5A" , group-title="Diversion" , Nickteen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=64541ad6-3739-4f52-8cd4-8ed28de04f12&clientModelNumber=na&deviceDNT=false&deviceId=64541ad6-3739-4f52-8cd4-8ed28de04f12&deviceLat=20.6379&deviceLon=-103.3474&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4ff0e364-837f-11eb-98c2-0242ac110002&sid=4ff0e364-837f-11eb-98c2-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4" , group-title="Ninos" , LocomotionTV
