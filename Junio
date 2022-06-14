@@ -87,7 +87,7 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/GrvvfhaRP7Lb1pUc7" , group-title="Musica" , Videorola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.levelup.com/images/logoOG.png" , group-title="Geek" , LevelUpTV
+#EXTINF:-1 tvg-logo="https://www.levelup.com/images/logoOG.png" , group-title="Cultura" , LevelUpTV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vkmxcwdj/RUN-TIME.png" , group-title="Cine" , Runtime Latino
@@ -207,7 +207,7 @@ https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" , group-title="Cultura" , Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LZI3FlL.png" , group-title="Infantil" , Energeek 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZI3FlL.png" , group-title="Ninos" , Energeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visit-x.net/assets/img/vxlogo-single-icon.svg" , group-title="Adultos" , Visit Xtv
@@ -216,17 +216,17 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/VXYNqFo2rJyf9Tj5A" , group-title="Diversion" , Nickteen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=64541ad6-3739-4f52-8cd4-8ed28de04f12&clientModelNumber=na&deviceDNT=false&deviceId=64541ad6-3739-4f52-8cd4-8ed28de04f12&deviceLat=20.6379&deviceLon=-103.3474&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4ff0e364-837f-11eb-98c2-0242ac110002&sid=4ff0e364-837f-11eb-98c2-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4" , group-title="Ninos" , LocomotionTV
+#EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4" , group-title="Diversion" , LocomotionTV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ptzynYv.png" , group-title="Ninos" , Rocket Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ptzynYv.png" , group-title="Diversion" , Rocket Channel
 https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r7MC4IE.png" , group-title="Familiares" , Canal Once niñas y niños
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r7MC4IE.png" , group-title="Educacion" , Canal Once niñas y niños
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/is9iOmM.png" , group-title="Familiares", Cartoon Network Clasico 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/is9iOmM.png" , group-title="Ninos", Cartoon Network Clasico 
 http://cnjahh21.duckdns.org/hls/stream/index.m3u8
 
-EXTINF:-1 tvg-logo="" , group-title="Familiares", Nick Clasico
+EXTINF:-1 tvg-logo="" , group-title="Ninos", Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
