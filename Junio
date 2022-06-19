@@ -45,8 +45,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" , group-title="Inter" , Canal 8 Multimedios
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" , group-title="General" , Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" , group-title="General" , Canal Catorce
+
 
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D" , group-title="Cultura" , Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
