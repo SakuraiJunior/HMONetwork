@@ -219,10 +219,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a0007
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t39.30808-1/241055346_3117467815154095_7740866648685298876_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=wlPKxxOJ2YkAX9sh9k6&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9SwbHLkUMjjRRnWimMkdYzCFJYyA1jKIBjF9eQEAaNyA&oe=62A419E4" , group-title="Diversion" , LocomotionTV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B6Jt1oM.jpg" group-title="Familiares",retromagico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B6Jt1oM.jpg" group-title="Familiares", Retromagico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r7MC4IE.png" , group-title="Educacion" , Canal Once niñas y niños
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
@@ -236,8 +234,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 #EXTINF:-1 tvg-logo="" , group-title="Entretenimiento", SPACE
 http://tv.teleclub.xyz/live/ABRIL_02/SPACE/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", TyC Sport
-http://tv.teleclub.xyz/live/ABRIL_02/TYC_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
+http://tv.teleclub.xyz/live/ABRIL_02/ESPN/index.m3u8
 
 #EXTINF:-1 group-title="Club" , EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
