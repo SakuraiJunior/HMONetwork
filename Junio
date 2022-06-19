@@ -245,9 +245,3 @@ http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
 http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
 #EXTINF:-1 group-title="Club" , EVENTO 5
 http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Club", ESPN 3 MX
-http://tv.teleclub.xyz/live/HLS_01/ESPN3_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Club", TUDN
-http://tv.teleclub.xyz/live/HLS_01/TUDN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Club", Galavision
-http://tv.teleclub.xyz/live/HLS_01/UNIVISION/index.m3u8
