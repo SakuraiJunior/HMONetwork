@@ -46,7 +46,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" , group-title="General" , Canal Catorce
-
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fmex20-1.fna.fbcdn.net/v/t1.6435-1/46164371_2063241010634493_7567970978165161984_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=m_4zgztc6xAAX9iteAB&_nc_ht=scontent.fmex20-1.fna&edm=AKsJ254EAAAA&oh=00_AT9ypB0TsMF772_YeaCnY6_iwaOAK1tC2W3-5adPmEZNxA&oe=6285366D" , group-title="Cultura" , Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
@@ -219,11 +219,21 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r7MC4IE.png" , group-title="Educacion" , Canal Once niñas y niños
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/is9iOmM.png" , group-title="Ninos", Cartoon Network Clasico 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/is9iOmM.png" , group-title="Ninos" , Cartoon Network Clasico 
 http://cnjahh21.duckdns.org/hls/stream/index.m3u8
 
-EXTINF:-1 tvg-logo="" , group-title="Ninos", Nick Clasico
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/g3SVoQ62rEhhFAT4A" , group-title="Ninos" , Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/featuredImage.jpg" , group-title="Diversion" , MTV Animaciones
+https://stitcher.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/featuredImage.jpg" , group-title="Diversion" , Comedy Central
+https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg", group-title="Diversion" , Mi TV Televisión Clásica
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/YrwZgJgGSn8AJ3wQ7" , group-title="Club", SPACE
 http://tv.teleclub.xyz/live/ABRIL_02/SPACE/index.m3u8
