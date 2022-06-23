@@ -193,7 +193,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icdADrD.jpg" , group-title="Deportes" , DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8" , group-title="Deportes" , VIX Liga MX
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8" , group-title="Deportes" , Zona TUDN
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" , group-title="Cultura" , Energeek
