@@ -237,6 +237,12 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fspongebob%2Fimages%2F0%2F08%2FBE4.png%2Frevision%2Flatest%3Fcb%3D20220527204213&imgrefurl=https%3A%2F%2Fspongebob.fandom.com%2Fwiki%2FBob_Esponja_(Latin_American_Spanish)&tbnid=SaaNCT-gaV-TUM&vet=1&docid=7-gAu2BiPymxGM&w=1914&h=1301&source=sh%2Fx%2Fim" , group-title="Maraton" , Bob Esponja
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/EHrvkATsbVnQ3uPn8" , group-title="Maraton" , South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/Sy1hqamS6NnRqPKF7" , group-title="Educacion" , Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/YrwZgJgGSn8AJ3wQ7" , group-title="Club", SPACE
 http://tv.teleclub.xyz/live/ABRIL_02/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Club", Cinemax
