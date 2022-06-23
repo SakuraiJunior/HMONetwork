@@ -219,8 +219,8 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r7MC4IE.png" , group-title="Educacion" , Canal Once niñas y niños
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/is9iOmM.png" , group-title="Ninos" , Cartoon Network Clasico 
-http://cnjahh21.duckdns.org/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/is9iOmM.png" , group-title="Ninos" , CNLA 
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/g3SVoQ62rEhhFAT4A" , group-title="Ninos" , Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
