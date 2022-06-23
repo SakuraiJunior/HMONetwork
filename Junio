@@ -234,7 +234,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg", group-title="Diversion" , Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" , group-title="Maraton" , Bob Esponja
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fspongebob%2Fimages%2F0%2F08%2FBE4.png%2Frevision%2Flatest%3Fcb%3D20220527204213&imgrefurl=https%3A%2F%2Fspongebob.fandom.com%2Fwiki%2FBob_Esponja_(Latin_American_Spanish)&tbnid=SaaNCT-gaV-TUM&vet=1&docid=7-gAu2BiPymxGM&w=1914&h=1301&source=sh%2Fx%2Fim" , group-title="Maraton" , Bob Esponja
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/YrwZgJgGSn8AJ3wQ7" , group-title="Club", SPACE
