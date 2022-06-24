@@ -5,7 +5,7 @@
 #
 #Canales de Television online a nivel completo
 #playlist: https://ko-fi.com/Z8Z1AFLBG
-#ultima actualizacion: 23/06/2022
+#ultima actualizacion: 24/06/2022
 #
 #*****************************
 #EXTM3U 
@@ -249,7 +249,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u
 
 #EXTINF:-1 logo="https://images.mediotiempo.com/CBBUrXoxE8IqBAYgYAap_uhUSUA=/958x596/uploads/media/2020/03/04/logo-lucha-libre-aaa_46_0_868_540.jpg" group-title="Maraton",Lucha Libre AAA Worldwide
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
 
 #EXTINF:-1 group-title="Club" , EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
