@@ -244,13 +244,13 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/ty5P9pFGE5FUBeWT9" , group-title="Cultura" , HolaPlay
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTING:-1 tvg-logo=" , group-title=" , 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="Deportes",Pluto Deportes
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 logo="https://images.mediotiempo.com/CBBUrXoxE8IqBAYgYAap_uhUSUA=/958x596/uploads/media/2020/03/04/logo-lucha-libre-aaa_46_0_868_540.jpg" group-title="Maraton",Lucha Libre AAA Worldwide
+https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/YrwZgJgGSn8AJ3wQ7" , group-title="Club", SPACE
-http://tv.teleclub.xyz/live/ABRIL_02/SPACE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Club", Cinemax
-http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Club" , EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
 #EXTINF:-1 group-title="Club" , EVENTO 2
