@@ -241,6 +241,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/Sy1hqamS6NnRqPKF7" , group-title="Educacion" , Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/ty5P9pFGE5FUBeWT9" , group-title="Cultura" , HolaPlay
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTING:-1 tvg-logo=" , group-title=" , 
+
+
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/YrwZgJgGSn8AJ3wQ7" , group-title="Club", SPACE
 http://tv.teleclub.xyz/live/ABRIL_02/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Club", Cinemax
