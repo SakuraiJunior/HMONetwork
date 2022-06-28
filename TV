@@ -249,19 +249,14 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/ty5P9pFGE5FUBeWT9" , group-title="Cultura" , HolaPlay
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="Deportes",Pluto Deportes
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" , group-title="Deportes" , Pluto Deportes
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 logo="https://images.mediotiempo.com/CBBUrXoxE8IqBAYgYAap_uhUSUA=/958x596/uploads/media/2020/03/04/logo-lucha-libre-aaa_46_0_868_540.jpg" group-title="Maraton",Lucha Libre AAA Worldwide
+#EXTINF:-1 tvg-logo="https://images.mediotiempo.com/CBBUrXoxE8IqBAYgYAap_uhUSUA=/958x596/uploads/media/2020/03/04/logo-lucha-libre-aaa_46_0_868_540.jpg" , group-title="Maraton" , Lucha Libre AAA Worldwide
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 group-title="Club" , EVENTO 1
-http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
-#EXTINF:-1 group-title="Club" , EVENTO 2
-http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
-#EXTINF:-1 group-title="Club" , EVENTO 3
-http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
-#EXTINF:-1 group-title="Club" , EVENTO 4
-http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
-#EXTINF:-1 group-title="Club" , EVENTO 5
-http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/FEAFcwpaRU4bmibq6" , group-title="Musica" , Bandamax
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/s9MHjm3RB3jT3nFA9" , group-title="Deportes" , TNT Sports 2
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33W/94.m3u8
