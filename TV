@@ -4,13 +4,16 @@
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Web Video Coaster, TV Box, Smart TV, etc.
 #
 #Canales de Television online a nivel completo , sigue este proyecto
-#ultima actualizacion: 24/06/2022
+#ultima actualizacion: 27/06/2022
 #
 #*****************************
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg" , group-title="Apoyo" , Kofi
 https://ko-fi.com/Z8Z1AFLBG
+
+#EXTINF:-1 tvg-logo="https://www.svgrepo.com/show/341664/buy-me-a-coffee.svg" , group-title="Apoyo" , Donuts
+https://www.buymeacoffee.com/cas34
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png , group-title="General" , Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
