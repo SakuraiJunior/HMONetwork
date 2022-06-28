@@ -7,13 +7,10 @@
 #ultima actualizacion: 24/06/2022
 #
 #*****************************
-#EXTM3U 
-
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gRiLoQVrAadnT11e9" , group-title="Apoyo" , Facebook
-https://www.facebook.com/TeleadictoNetworks/
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ko-fi.com/img/githubbutton_sm.svg" , group-title="Apoyo" , Kofi
-https://bit.ly/3bm9P9T
+https://ko-fi.com/Z8Z1AFLBG
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png , group-title="General" , Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
