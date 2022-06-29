@@ -201,9 +201,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8" , group-title="Deportes" , Zona TUDN
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" , group-title="Cultura" , Energeek
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LZI3FlL.png" , group-title="Ninos" , Energeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
