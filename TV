@@ -4,7 +4,7 @@
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Web Video Coaster, TV Box, Smart TV, etc.
 #
 #Canales de Television online a nivel completo , sigue este proyecto
-#ultima actualizacion: 27/06/2022
+#ultima actualizacion: 28/06/2022
 #
 #*****************************
 #EXTM3U
@@ -201,7 +201,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w219832069.m
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/ZBJBJHtEdBWJNg2t8" , group-title="Deportes" , Zona TUDN
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LZI3FlL.png" , group-title="Ninos" , Energeek 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZI3FlL.png" , group-title="Ninos" , Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visit-x.net/assets/img/vxlogo-single-icon.svg" , group-title="Adultos" , Visit Xtv
