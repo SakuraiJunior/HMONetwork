@@ -210,3 +210,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?null=0
+
+#EXTINF:-1 CNGo Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
