@@ -222,3 +222,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u
 
 #EXTINF:-1 NRT Mexico
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 ESPN2 HD
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
