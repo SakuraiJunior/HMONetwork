@@ -4,6 +4,9 @@
 #
 #Playlist: disponible solo por ko-fi
 
+#EXTINF:-1 Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 RewindTV
 https://5cf4a2c2512a2.streamlock.net:443/rewintv/rewintv/playlist.m3u8?PlaylistM3UCL
 
@@ -88,7 +91,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 #EXTINF:-1 RedBull Batalla de Gallos
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1646568608.m3u8?
 
-#EXTINF:-1 Ahhh Montruos 24/7
+#EXTINF:-1 Ahhh Montruos
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 
 #EXTINF:-1 MyCamTV
@@ -222,3 +225,6 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 ESPN2 HD
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
+#EXTINF:-1 AdultSwim,Fuera del aire
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
